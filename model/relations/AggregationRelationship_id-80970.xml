@@ -1,0 +1,16 @@
+<archimate:AggregationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="heeft versie"
+    id="id-80970"
+    documentation="Een pakket heeft één of meerdere pakketversies">
+  <properties
+      key="Object ID"
+      value="ad9edc49-dc22-4614-82c6-21da6e56f031"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-80982.xml#id-80982"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-80980.xml#id-80980"/>
+</archimate:AggregationRelationship>

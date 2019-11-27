@@ -1,0 +1,15 @@
+<archimate:AggregationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="groepeert"
+    id="id-81087">
+  <properties
+      key="Object ID"
+      value="a68abcb9-9827-4b20-b61c-194c83ba68ea"/>
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-81088.xml#id-81088"/>
+  <target
+      xsi:type="archimate:Constraint"
+      href="Constraint_id-81077.xml#id-81077"/>
+</archimate:AggregationRelationship>

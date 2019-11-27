@@ -1,0 +1,12 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sub Applicatiefunctie (Aanmaken zaak, gegevensuitwisseling)"
+    id="id-80997"
+    documentation="Sub applicatiefuncties gegroepeerd door applicatiefunctie.">
+  <properties
+      key="Toelichting"
+      value="Eigenchappen van Sub applicatiefunctie zijn gelijk aan die van de applicatiefunctie"/>
+  <properties
+      key="Object ID"
+      value="9acae10f-1868-4355-af9e-05c39746445d"/>
+</archimate:ApplicationFunction>

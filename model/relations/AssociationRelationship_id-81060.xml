@@ -1,0 +1,15 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mijn klanten"
+    id="id-81060">
+  <properties
+      key="Object ID"
+      value="06f72b90-a655-4cf7-83ce-c757084fe05e"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-80980.xml#id-80980"/>
+  <target
+      xsi:type="archimate:BusinessCollaboration"
+      href="BusinessCollaboration_id-80979.xml#id-80979"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,19 @@
+<archimate:ArchimateModel
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GEMMA kennismodel"
+    id="id-5af2e6f1-0ffa-403a-b8e5-1bf6153acfe1"
+    purpose="Het kennismodel toont de in de GEMMA toegepaste ArchiMate-concepten en de gehanteerde modelleerafspraken."
+    version="4.6.0">
+  <properties
+      key="Publiceren"
+      value="GEMMA Online en redactie"/>
+  <properties
+      key="Architectuurtool"
+      value="BiZZdesign Architect"/>
+  <properties
+      key="Object ID"
+      value="7382f25e-04b1-443e-abe5-00fa6e7212c4"/>
+  <properties
+      key="Versie"
+      value="1.0"/>
+</archimate:ArchimateModel>

@@ -1,0 +1,15 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Realiseert standaard"
+    id="id-81278">
+  <properties
+      key="Object ID"
+      value="cd3caa27-9a06-4f3e-aa58-d33f27e28460"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-81280.xml#id-81280"/>
+  <target
+      xsi:type="archimate:Constraint"
+      href="Constraint_id-81077.xml#id-81077"/>
+</archimate:RealizationRelationship>

@@ -1,0 +1,15 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="benadert"
+    id="id-81194">
+  <properties
+      key="Object ID"
+      value="eb65b176-df00-4a17-805e-870c663d3fcc"/>
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-81151.xml#id-81151"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-81158.xml#id-81158"/>
+</archimate:AccessRelationship>

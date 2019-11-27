@@ -1,0 +1,16 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gebruikt / beheert"
+    id="id-80967"
+    documentation="Een door de gemeente beheerd en/of gebruikt pakket. Gemeente heeft geen pakketversie geregistreerd.">
+  <properties
+      key="Object ID"
+      value="1dd69980-c715-4e37-b1cb-c026a604a37f"/>
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-80978.xml#id-80978"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-80982.xml#id-80982"/>
+</archimate:AssociationRelationship>

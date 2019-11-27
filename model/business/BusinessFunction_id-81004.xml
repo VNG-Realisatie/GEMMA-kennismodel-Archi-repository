@@ -1,0 +1,15 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sub Bedrijfsfunctie (Openbare informering)"
+    id="id-81004"
+    documentation="Onderverdeling van een bedrijfsfunctie in subfuncties. Wordt alleen getoond in de domeinarchitecturen.">
+  <properties
+      key="Toelichting"
+      value="Eigenchappen van Sub bedrijfsfunctie zijn gelijk aan die van de bedrijfsfunctie, met als verschil: * GEMMA type = niet gevuld"/>
+  <properties
+      key="GEMMA type"
+      value="Geen"/>
+  <properties
+      key="Object ID"
+      value="8912d1da-b351-4060-baba-55d9e0640be9"/>
+</archimate:BusinessFunction>

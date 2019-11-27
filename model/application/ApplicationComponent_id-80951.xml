@@ -1,0 +1,12 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Intermediate"
+    id="id-80951"
+    documentation="ApplicatieComponenten van GEMMA type 'Basiscomponent', die een specialisatie zijn van een basiscomponent werken als een overervings intermediate. Onderliggende applicatiefuncties overerven van zowel de basiscomponent als de intermediate component.&#xA;Afspraak is dat er maximaal één niveau intermediate kan bestaan (om redenen van overzichtelijkheid en beheerbaarheid).">
+  <properties
+      key="GEMMA type"
+      value="Basiscomponent"/>
+  <properties
+      key="Object ID"
+      value="adf62315-7414-41dc-b511-22c447374d5c"/>
+</archimate:ApplicationComponent>

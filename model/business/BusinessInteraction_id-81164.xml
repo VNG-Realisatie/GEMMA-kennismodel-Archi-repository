@@ -1,0 +1,12 @@
+<archimate:BusinessInteraction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bedrijfsinteractie"
+    id="id-81164"
+    documentation="Een bedrijfsinteractie is een gedragselement dat het gedrag van een bedrijfssamenwerking beschrijft.">
+  <properties
+      key="Toelichting"
+      value="In GEMMA gebruiken we dit element vooral om keten van processen in beeld te krijgen. Bron ArchiMate 2.1"/>
+  <properties
+      key="Object ID"
+      value="e1ae841d-b02d-4442-af5b-41a4988dfaf8"/>
+</archimate:BusinessInteraction>

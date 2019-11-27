@@ -1,0 +1,15 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="leidt tot"
+    id="id-81170">
+  <properties
+      key="Object ID"
+      value="729d2f89-bd4c-42c9-a727-f3592badeb84"/>
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-81151.xml#id-81151"/>
+  <target
+      xsi:type="archimate:BusinessEvent"
+      href="BusinessEvent_id-81136.xml#id-81136"/>
+</archimate:TriggeringRelationship>

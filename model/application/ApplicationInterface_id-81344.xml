@@ -1,0 +1,12 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Applicatie-interface"
+    id="id-81344"
+    documentation="Een applicatie-interface beschrijft hoe een component kan koppelen met zijn omgeving">
+  <properties
+      key="Toelichting"
+      value="Bron: ArchiMate 2.1"/>
+  <properties
+      key="Object ID"
+      value="e4a3eb47-78cc-4622-8bf4-e18bcdee3830"/>
+</archimate:ApplicationInterface>

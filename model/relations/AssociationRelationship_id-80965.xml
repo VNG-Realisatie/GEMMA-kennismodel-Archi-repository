@@ -1,0 +1,19 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gebruikt / beheert"
+    id="id-80965"
+    documentation="Een door de samenwerking beheerd en /of gebruikt pakket">
+  <properties
+      key="Toelichting"
+      value="Eigenschappen van de relatie * Object ID - Unieke sleutel van de relatie; GUID gegenereerd door Softwarecatalogus * gebruikt / beheerd ** gebruikt - pakketversie wordt door de samenwerking beheerd en gebruikt ** beheerd - pakketversie wordt door samenwerking beheerd"/>
+  <properties
+      key="Object ID"
+      value="16b06b4f-0306-4901-b51b-bef2e15080ed"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-80980.xml#id-80980"/>
+  <target
+      xsi:type="archimate:BusinessCollaboration"
+      href="BusinessCollaboration_id-80979.xml#id-80979"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SubSub bedrijfsfunctie (producten en diensten publicatie)"
+    id="id-81012"
+    documentation="Onderverdeling van een bedrijfsfunctie in subsubfuncties.">
+  <properties
+      key="Toelichting"
+      value="Eigenchappen van SubSub bedrijfsfunctie zijn gelijk aan die van de bedrijfsfunctie, met als verschil: * GEMMA type = niet gevuld"/>
+  <properties
+      key="Object ID"
+      value="286b8882-aa2c-4d67-b240-9cc377c97a5c"/>
+</archimate:BusinessFunction>

@@ -1,0 +1,11 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Buitengemeentelijke dienst"
+    id="id-81380">
+  <properties
+      key="Toelichting"
+      value="Basisgegevens * Object GUID * Naam * Beschrijving * Toelichting * Elementtype='Landelijke voorziening'"/>
+  <properties
+      key="Object ID"
+      value="384deb66-b888-4453-b320-bf57523bd262"/>
+</archimate:BusinessService>

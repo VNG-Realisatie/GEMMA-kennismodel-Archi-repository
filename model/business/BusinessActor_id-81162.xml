@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bedrijfsactor"
+    id="id-81162"
+    documentation="Een bedrijfsactor is een organisatorische eenheid die in staat is bepaald (actief) gedrag te vertonen.">
+  <properties
+      key="Toelichting"
+      value="Bron: ArchiMate 2.1"/>
+  <properties
+      key="Object ID"
+      value="6afd0bd7-eda8-4f99-b7ab-c3115f0c9e4a"/>
+</archimate:BusinessActor>

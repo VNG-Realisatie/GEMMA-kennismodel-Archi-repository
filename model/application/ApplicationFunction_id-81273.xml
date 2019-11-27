@@ -1,0 +1,12 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Applicatiefunctie"
+    id="id-81273"
+    documentation="Een samenhangende groep interne gedragingen van een applicatiecomponent. Via applicatiefuncties realiseert een applicatiecomponent applicatieservices. Een voorbeeld van een applicatiefunctie is de Raadplegen zaakdocumenten functie.">
+  <properties
+      key="Toelichting"
+      value="Bron: ArchiMate 2.1"/>
+  <properties
+      key="Object ID"
+      value="35825388-05d9-45aa-98f4-86dfb82337f5"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,15 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Processtap"
+    id="id-81153"
+    documentation="Een geordende reeks handelingen die ononderbroken wordt uitgevoerd door één mens of machine binnen één bedrijfsfunctie (eenheid van tijd, plaats en handelen).">
+  <properties
+      key="Toelichting"
+      value="Bron: GEMMA procesarchitectuur 2.0"/>
+  <properties
+      key="GEMMA type"
+      value="Processtap"/>
+  <properties
+      key="Object ID"
+      value="f5bd6aa7-6160-44d2-aa8c-21f08e6ac3e6"/>
+</archimate:BusinessProcess>

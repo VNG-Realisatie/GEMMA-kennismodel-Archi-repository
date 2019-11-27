@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Derived 1"
+    id="id-80957"
+    documentation="Een derived-component is een specialisatie van een basiscomponent. Een derived-component overerft alle relaties van bovenliggend basis of intermediate component.">
+  <properties
+      key="Object ID"
+      value="2d11f98e-5305-450c-b079-20cf8cc19db1"/>
+</archimate:ApplicationComponent>

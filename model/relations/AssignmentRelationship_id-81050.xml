@@ -1,0 +1,16 @@
+<archimate:AssignmentRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Is geschikt voor"
+    id="id-81050"
+    documentation="De door de leverancier geregistreerde applicatie(sub)functies, waarvoor de pakketversie geschikt is.">
+  <properties
+      key="Object ID"
+      value="abc92c5d-fb65-4b4d-92f0-17f5af7a3bfb"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-80980.xml#id-80980"/>
+  <target
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_id-80997.xml#id-80997"/>
+</archimate:AssignmentRelationship>

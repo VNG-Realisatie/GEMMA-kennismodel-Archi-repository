@@ -1,0 +1,19 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Heeft voorgeschreven standaardversie"
+    id="id-81373"
+    documentation="Deze relatie definieert welke standaardversies per referentiecomponent verplicht en relevant zijn">
+  <properties
+      key="Toelichting"
+      value="Deze relatie kent relatief veel wijzigingen. Het moet mogelijk zijn om bij het importeren van het architectuurmodel te wijzigingen te zien. Relaties dienen dus over een eigenschap met een unieke GUID te beschikken. Eigenschappen * Object ID - Unieke sleutel van voorgeschreven standaard van een referentiecomponent, GUID overgenomen uit KING architectuurtool * Verbindingsrol Waarden Verbindinsrol * Verplichte standaard * Relevante standaard"/>
+  <properties
+      key="Object ID"
+      value="addbb8b4-1ca5-4057-9b24-15ffb39227d1"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-81280.xml#id-81280"/>
+  <target
+      xsi:type="archimate:Constraint"
+      href="Constraint_id-81081.xml#id-81081"/>
+</archimate:RealizationRelationship>

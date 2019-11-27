@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Pakket"
+    id="id-81353"
+    documentation="Een pakket is een door een leverancier in de softwarecatalogus geregistreerde (gemeentelijke) applicatie. Een pakket is zelfstandig inzetbaar, installeerbaar en beheerbaar;">
+  <properties
+      key="Object ID"
+      value="89be52f4-87b5-4943-bff9-f9b6b889b249"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,12 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bedrijfsservice"
+    id="id-81155"
+    documentation="Een bedrijfsservice is een dienst die voorziet in de behoefte van een klant binnen of buiten de organisatie.">
+  <properties
+      key="Toelichting"
+      value="Bron: ArchiMate 2.1"/>
+  <properties
+      key="Object ID"
+      value="2648fc2f-5f28-40a2-8c66-838d956be736"/>
+</archimate:BusinessService>

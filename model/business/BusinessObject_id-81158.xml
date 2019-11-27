@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bedrijfsobject"
+    id="id-81158"
+    documentation="Een bedrijfsobject is een passief element dat vanuit bedrijfsperspectief relevantie heeft.">
+  <properties
+      key="Toelichting"
+      value="Bron: ArchiMate 2.1"/>
+  <properties
+      key="Object ID"
+      value="31c9d5c8-bb3c-42b8-9c45-e356f7c5e6ff"/>
+</archimate:BusinessObject>

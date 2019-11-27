@@ -1,0 +1,15 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bedrijfsfunctie"
+    id="id-81090"
+    documentation="Een bedrijfsfunctie is een gedragselement dat gedrag groepeert op basis van een bepaalde verzameling criteria (zoals vereiste bedrijfsmiddelen en/of competenties).">
+  <properties
+      key="Toelichting"
+      value="Bron: ArchiMate 2.1"/>
+  <properties
+      key="GEMMA type"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="Object ID"
+      value="d6b1051e-b169-44ab-9f53-242b8cad0e35"/>
+</archimate:BusinessFunction>

@@ -1,0 +1,15 @@
+<archimate:AggregationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="groepeert"
+    id="id-81078">
+  <properties
+      key="Object ID"
+      value="93a22892-a9fe-4501-8344-372d344e8341"/>
+  <source
+      xsi:type="archimate:Principle"
+      href="Principle_id-81079.xml#id-81079"/>
+  <target
+      xsi:type="archimate:Principle"
+      href="Principle_id-81079.xml#id-81079"/>
+</archimate:AggregationRelationship>

@@ -1,0 +1,16 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="heeft toegang tot"
+    id="id-81195"
+    documentation="Heeft toegang tot een bedrijfsobject en:&#xA;* Is verantwoordelijk voor&#xA;* is eigenaar van&#xA;* is beheerder van&#xA;* is raadpleger van">
+  <properties
+      key="Object ID"
+      value="ae47b5b6-b49a-41d9-9b82-05d79de6879f"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-81182.xml#id-81182"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-81158.xml#id-81158"/>
+</archimate:AccessRelationship>

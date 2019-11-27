@@ -1,0 +1,18 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Standaardgroep"
+    id="id-81088"
+    documentation="Indeling van standaarden voor de (mate van) bouwbaarheid en testbaarheid">
+  <properties
+      key="Toelichting"
+      value="Bron: GEMMA en ArchiMate 3.0"/>
+  <properties
+      key="GEMMA subtype"
+      value="Geen"/>
+  <properties
+      key="GEMMA type"
+      value="Groep"/>
+  <properties
+      key="Object ID"
+      value="1bb2a520-a47b-485a-918a-7dd6edf723b2"/>
+</archimate:Grouping>

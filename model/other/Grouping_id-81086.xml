@@ -1,0 +1,18 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Standaardgroep (Gradaties)"
+    id="id-81086"
+    documentation="Indeling van standaarden voor de (mate van) bouwbaarheid en testbaarheid">
+  <properties
+      key="Toelichting"
+      value="Standaarden kunnen als producten worden getypeerd in eindproducten, halffabrikaten, grondstoffen en gegevensstandaarden. Deze typering is een indicatie wat de benodigde inspanning is om de specificatie te completeren om tot een werkende koppeling te komen. Eigenschappen van een gradatie * GEMMA type='Groep' * GEMMA subtype='Gradaties' * Documentatie - Korte omschrijving van de gradatie * Naam - Indeling van standaarden voor de bouwbaarheid en testbaarheid van een koppeling op basis van de specificatie * Object ID - Unieke sleutel van gradaties, GUID overgenomen uit KING architectuurtool"/>
+  <properties
+      key="GEMMA subtype"
+      value="Gradaties"/>
+  <properties
+      key="GEMMA type"
+      value="Groep"/>
+  <properties
+      key="Object ID"
+      value="2d972679-4662-47b1-8852-f8374f70af30"/>
+</archimate:Grouping>

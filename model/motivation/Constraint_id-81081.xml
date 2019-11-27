@@ -1,0 +1,15 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Standaardversie"
+    id="id-81081"
+    documentation="Een standaardversie geeft de volgorde aan waarin de standaard in de tijd is gewijzigd. Een standaardversie is het resultaat van een proces waarin een standaard is gerealiseerd of gewijzigd. ">
+  <properties
+      key="Toelichting"
+      value="Bron: GEMMA 2.0"/>
+  <properties
+      key="GEMMA type"
+      value="Standaardversie"/>
+  <properties
+      key="Object ID"
+      value="4c2d83af-4c45-4cae-a05e-ba307147fa7e"/>
+</archimate:Constraint>

@@ -1,0 +1,16 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Levert"
+    id="id-80973"
+    documentation="Een pakket wordt geleverd door één leverancier">
+  <properties
+      key="Object ID"
+      value="54422186-2b85-469b-ae4f-7b04dc0dbfb4"/>
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-80976.xml#id-80976"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-80982.xml#id-80982"/>
+</archimate:AssociationRelationship>

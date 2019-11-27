@@ -1,0 +1,15 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Principe"
+    id="id-81079"
+    documentation="Principes zijn algemene regels en richtlijnen, en zijn bedoeld voor:&#xA;* langdurig gebruik en worden zelden aangepast,&#xA;* de ondersteuning van het informeren en bereiken van de missie van een organisatie.">
+  <properties
+      key="Toelichting"
+      value="Bron: The Open Group"/>
+  <properties
+      key="GEMMA type"
+      value="Geen"/>
+  <properties
+      key="Object ID"
+      value="e757726b-bd6f-4db0-b557-6bcfe4e69e91"/>
+</archimate:Principle>

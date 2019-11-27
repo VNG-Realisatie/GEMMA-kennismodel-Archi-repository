@@ -1,0 +1,19 @@
+<archimate:AggregationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Deelnemer"
+    id="id-80961"
+    documentation="Een samenwerking groepeert één of meerdere deelnemende gemeenten.">
+  <properties
+      key="Toelichting"
+      value="Dit wordt door KING geregistreerd bij het aanmaken van een nieuwe samenwerking"/>
+  <properties
+      key="Object ID"
+      value="64c4598b-b225-4265-b19b-750517042619"/>
+  <source
+      xsi:type="archimate:BusinessCollaboration"
+      href="BusinessCollaboration_id-80979.xml#id-80979"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-80978.xml#id-80978"/>
+</archimate:AggregationRelationship>

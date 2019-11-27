@@ -1,0 +1,12 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Pakketversie"
+    id="id-81387"
+    documentation="Een door de leverancier in de Softwarecatalogus geregistreerde versie van een pakket.">
+  <properties
+      key="Toelichting"
+      value="Bron: GEMMA"/>
+  <properties
+      key="Object ID"
+      value="d1c9e576-9414-4cbf-9887-dea02d44c466"/>
+</archimate:ApplicationComponent>

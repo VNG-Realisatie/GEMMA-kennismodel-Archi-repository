@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Applicatiefunctiegroep"
+    id="id-81360"
+    documentation="Het applicatiefunctiegroepelement groepeert concepten die bij elkaar horen op basis van gedeelde eigenschappen.&#xA;&#xA;&#xA;">
+  <properties
+      key="Toelichting"
+      value="Bron: GEMMA en ArchiMate 3.0"/>
+  <properties
+      key="GEMMA subtype"
+      value="Doelgroep"/>
+  <properties
+      key="GEMMA type"
+      value="Groep"/>
+  <properties
+      key="Object ID"
+      value="ddd58a70-0443-44e5-a720-f59ad5452cc1"/>
+</archimate:ApplicationFunction>
