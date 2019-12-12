@@ -664,14 +664,19 @@
         source="id-81458"
         target="id-81443">
       <bendpoints
-          startX="-106"
+          startX="-113"
           startY="-20"
-          endX="-106"
+          endX="-113"
           endY="374"/>
       <bendpoints
-          startX="-106"
+          startX="-113"
+          startY="-248"
+          endX="-113"
+          endY="146"/>
+      <bendpoints
+          startX="-113"
           startY="-380"
-          endX="-106"
+          endX="-113"
           endY="14"/>
       <archimateRelationship
           xsi:type="archimate:ServingRelationship"
@@ -910,6 +915,7 @@
         id="id-81424"
         font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
         lineColor="#000000"
+        textPosition="2"
         source="id-81395"
         target="id-81395">
       <bendpoints
