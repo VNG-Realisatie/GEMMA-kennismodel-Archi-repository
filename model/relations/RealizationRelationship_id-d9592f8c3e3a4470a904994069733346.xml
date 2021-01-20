@@ -1,14 +1,11 @@
 <archimate:RealizationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Gebruikte standaard"
-    id="id-81005">
-  <properties
-      key="Object ID"
-      value="d75e55e2-05c7-4729-b032-db579cc3a2e8"/>
+    name="ondersteunt"
+    id="id-d9592f8c3e3a4470a904994069733346">
   <source
-      xsi:type="archimate:ApplicationService"
-      href="ApplicationService_id-80972.xml#id-80972"/>
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-3fa2dc29a7164a04bb0a63294a049137.xml#id-3fa2dc29a7164a04bb0a63294a049137"/>
   <target
       xsi:type="archimate:Constraint"
       href="Constraint_id-80988.xml#id-80988"/>

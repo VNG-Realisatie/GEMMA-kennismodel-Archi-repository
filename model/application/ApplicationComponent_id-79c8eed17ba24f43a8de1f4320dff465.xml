@@ -1,7 +1,7 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Buitengemeentelijk component (MijnOverheid berichtenbox)"
-    id="id-80971"
+    name="Buitengemeentelijk component (LV-BAG)"
+    id="id-79c8eed17ba24f43a8de1f4320dff465"
     documentation="De sectorale en landelijke voorzieningen waar gemeenten informatie ophalen, delen en of uitwisselen van gegevens met overheidsorganisaties, ketenpartners, burgers en bedrijven.">
   <properties
       key="Toelichting"

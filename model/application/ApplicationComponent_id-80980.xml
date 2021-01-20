@@ -1,6 +1,6 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Pakketversie (Excel versie 2017)"
+    name="Pakketversie (Squit 20/20 VTH)"
     id="id-80980"
     documentation="De opeenvolgende fasen in de ontwikkeling van een pakket. Van iedere pakketversie wordt door de leverancier geregistreerd voor welke referentiecomponenten de versie geschikt is en wat de ondersteunde functionaliteit en standaarden zijn. De gemeente registreert voor welke referentiecomponenten en functionaliteit het pakket gebruikt wordt.">
   <properties
