@@ -1,12 +1,15 @@
-<archimate:ServingRelationship
+<archimate:CompositionRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="verplicht (als aanbieder)"
-    id="id-271e05dc4ccd422fb7be54cda832067a">
+    id="id-341193cafb754b349891073750eb5907">
+  <properties
+      key="Object ID"
+      value="2d5f43c1-aad2-4c65-b428-a10f2419996d"/>
   <source
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_id-81280.xml#id-81280"/>
   <target
       xsi:type="archimate:ApplicationInterface"
       href="ApplicationInterface_id-81344.xml#id-81344"/>
-</archimate:ServingRelationship>
+</archimate:CompositionRelationship>
