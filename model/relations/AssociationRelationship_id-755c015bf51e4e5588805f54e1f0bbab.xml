@@ -3,6 +3,9 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="beheert hosting omgeving"
     id="id-755c015bf51e4e5588805f54e1f0bbab">
+  <properties
+      key="Object ID"
+      value="a960f601-69a5-44fb-930b-ee32e51c1026"/>
   <source
       xsi:type="archimate:BusinessRole"
       href="BusinessRole_id-f3695774d69849c2ba11abcc5566a8e2.xml#id-f3695774d69849c2ba11abcc5566a8e2"/>

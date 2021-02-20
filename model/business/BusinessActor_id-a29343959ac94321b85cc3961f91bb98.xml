@@ -1,4 +1,8 @@
 <archimate:BusinessActor
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Opdrachtgever/eigenaar"
-    id="id-a29343959ac94321b85cc3961f91bb98"/>
+    id="id-a29343959ac94321b85cc3961f91bb98">
+  <properties
+      key="Object ID"
+      value="fdecc33d-70ed-4866-b5ef-06acade3b076"/>
+</archimate:BusinessActor>

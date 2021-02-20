@@ -3,6 +3,9 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ondersteunt"
     id="id-d6e7e77f50cb4513939b61647b52d4cb">
+  <properties
+      key="Object ID"
+      value="af0b6fe0-1a73-4e96-8702-0316c40a51ac"/>
   <source
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_id-80980.xml#id-80980"/>

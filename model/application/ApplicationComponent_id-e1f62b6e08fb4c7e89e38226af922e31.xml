@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Component interactie vakantieverhuur"
     id="id-e1f62b6e08fb4c7e89e38226af922e31"
-    documentation="Component met de interactie formulieren en logica voor de registratie toeristische verhuur woonruimte"/>
+    documentation="Component met de interactie formulieren en logica voor de registratie toeristische verhuur woonruimte">
+  <properties
+      key="Object ID"
+      value="a66a82bd-9194-4589-9427-1687981de030"/>
+</archimate:ApplicationComponent>

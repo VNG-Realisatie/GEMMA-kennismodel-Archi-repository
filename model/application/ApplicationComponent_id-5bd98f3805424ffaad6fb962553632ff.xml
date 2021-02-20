@@ -1,4 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Oplossingstype (VTH oplossing)"
-    id="id-5bd98f3805424ffaad6fb962553632ff"/>
+    id="id-5bd98f3805424ffaad6fb962553632ff">
+  <properties
+      key="Object ID"
+      value="e1d84a17-9194-4db4-a85a-288cb7cf7ca6"/>
+</archimate:ApplicationComponent>

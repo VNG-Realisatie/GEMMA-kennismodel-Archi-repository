@@ -8,7 +8,9 @@
       id="id-e46950dc9324454db5eca43e23a695fa"
       name="Componentencatalogus model"
       textAlignment="1"
-      documentation="Kennismodel van indelingen voor het vindbaar maken van oplossingen in de componentencatalogus. Bij voorkeur worden de indelingen overgenomen uit de GEMMA. Nog te bepalen wat als uitbreiding uitgewerkt gaat worden in de GEMMA en wat specifiek voor geldt voor het componentencatalogus model&#xD;&#xA;&#xD;&#xA;Daarnaast bevat de componentencatalogus de GEMMA standaardenlijst waarmee leverancier kunnen registreren welke standaarden en API-standaarden zij ondersteunen. De API's en API standaarden gaan als uitbreiding opgenomen worden in de GEMMA">
+      fillColor="#e1e1e1"
+      documentation="Kennismodel van indelingen voor het vindbaar maken van oplossingen in de componentencatalogus. Bij voorkeur worden de indelingen overgenomen uit de GEMMA. Nog te bepalen wat als uitbreiding uitgewerkt gaat worden in de GEMMA en wat specifiek voor geldt voor het componentencatalogus model&#xD;&#xA;&#xD;&#xA;Daarnaast bevat de componentencatalogus de GEMMA standaardenlijst waarmee leverancier kunnen registreren welke standaarden en API-standaarden zij ondersteunen. De API's en API standaarden gaan als uitbreiding opgenomen worden in de GEMMA"
+      borderType="1">
     <bounds
         x="730"
         y="10"
@@ -337,7 +339,9 @@
       id="id-1cc3769aa9184b2b93725fc8a3eeab1f"
       name="Softwarecatalogus GEMMA elementen"
       textAlignment="1"
-      documentation="GEMMA staat voor de GEMeentelijke Model Architectuur. &#xD;&#xA;&#xD;&#xA;Dit is de landelijke referentiearchitectuur voor gemeenten – een verzameling samenhangende kaders, richtlijnen, referentiemodellen en standaarden die gemeenten helpt bij het inrichten van hun ICT-omgeving en hun processen. &#xD;&#xA;&#xD;&#xA;De softwarecatalogus bevat een deel van de GEMMA om de softwarepakketten te categoriseren, vindbaar te maken en op GEMMA views te kunnen plotten. Daarnaast bevat de Softwarecatalogus de GEMMA standaardenlijst waarmee leverancier kunnen registreren welke standaarden zij ondersteunen.&#xD;&#xA;&#xD;&#xA;Bron: https://redactie.gemmaonline.nl/index.php/Veelgestelde_vragen_GEMMA_Online">
+      fillColor="#e1e1e1"
+      documentation="GEMMA staat voor de GEMeentelijke Model Architectuur. &#xD;&#xA;&#xD;&#xA;Dit is de landelijke referentiearchitectuur voor gemeenten – een verzameling samenhangende kaders, richtlijnen, referentiemodellen en standaarden die gemeenten helpt bij het inrichten van hun ICT-omgeving en hun processen. &#xD;&#xA;&#xD;&#xA;De softwarecatalogus bevat een deel van de GEMMA om de softwarepakketten te categoriseren, vindbaar te maken en op GEMMA views te kunnen plotten. Daarnaast bevat de Softwarecatalogus de GEMMA standaardenlijst waarmee leverancier kunnen registreren welke standaarden zij ondersteunen.&#xD;&#xA;&#xD;&#xA;Bron: https://redactie.gemmaonline.nl/index.php/Veelgestelde_vragen_GEMMA_Online"
+      borderType="1">
     <bounds
         x="30"
         y="10"
@@ -562,7 +566,9 @@
       id="id-6b10f080827e404f9868fd5199b04963"
       name="Softwarecatalogus"
       textAlignment="1"
-      documentation="GEMMA Softwarecatalogus&#xD;&#xA;&#xD;&#xA;Gemeenten gebruiken de GEMMA Softwarecatalogus bij ICT-vervangings- of investeringsvraagstukken. Zij vergelijken hun ingevoerde applicatielandschap en koppelingen met anderen en zoeken contact met vergelijkbare gemeenten.  Voorbeelden hiervan zijn:&#xD;&#xA;&#xD;&#xA;► Marktoriëntatie voor nieuwe of vervangende software;&#xD;&#xA;► Vergelijken met andere gemeenten;&#xD;&#xA;► Contact leggen met gemeenten met vergelijkbaar of interessant productportfolio;&#xD;&#xA;► Het plannen van ICT-vervangingen;&#xD;&#xA;► Het opstellen van een Programma van Eisen;&#xD;&#xA;► Het beoordelen van offertes">
+      fillColor="#e1e1e1"
+      documentation="GEMMA Softwarecatalogus&#xD;&#xA;&#xD;&#xA;Gemeenten gebruiken de GEMMA Softwarecatalogus bij ICT-vervangings- of investeringsvraagstukken. Zij vergelijken hun ingevoerde applicatielandschap en koppelingen met anderen en zoeken contact met vergelijkbare gemeenten.  Voorbeelden hiervan zijn:&#xD;&#xA;&#xD;&#xA;► Marktoriëntatie voor nieuwe of vervangende software;&#xD;&#xA;► Vergelijken met andere gemeenten;&#xD;&#xA;► Contact leggen met gemeenten met vergelijkbaar of interessant productportfolio;&#xD;&#xA;► Het plannen van ICT-vervangingen;&#xD;&#xA;► Het opstellen van een Programma van Eisen;&#xD;&#xA;► Het beoordelen van offertes"
+      borderType="1">
     <bounds
         x="30"
         y="800"
@@ -749,7 +755,9 @@
       id="id-9ddbf09fb3dd49efaa54958c9fe1c696"
       name="Componentencatalogus"
       textAlignment="1"
-      documentation="De componentencatalogus is een initiatief van de community Common Ground. Binnen Common Ground werken gemeenten en VNG samen aan gemeentelijke informatievoorziening en maatschappelijke opgaven. Wat binnen Common Ground wordt gerealiseerd, is opgenomen in deze componentencatalogus.&#xD;&#xA;&#xD;&#xA;U vindt in deze componentencatalogus businessoplossingen, zoals applicaties en de nodige, technische componenten om deze oplossingen te kunnen implementeren. U heeft hiermee een compleet overzicht van wat er binnen Common Ground wordt gerealiseerd inclusief de status.&#xD;&#xA;&#xD;&#xA;Bron: https://componentencatalogus.commonground.nl/producten">
+      fillColor="#e1e1e1"
+      documentation="De componentencatalogus is een initiatief van de community Common Ground. Binnen Common Ground werken gemeenten en VNG samen aan gemeentelijke informatievoorziening en maatschappelijke opgaven. Wat binnen Common Ground wordt gerealiseerd, is opgenomen in deze componentencatalogus.&#xD;&#xA;&#xD;&#xA;U vindt in deze componentencatalogus businessoplossingen, zoals applicaties en de nodige, technische componenten om deze oplossingen te kunnen implementeren. U heeft hiermee een compleet overzicht van wat er binnen Common Ground wordt gerealiseerd inclusief de status.&#xD;&#xA;&#xD;&#xA;Bron: https://componentencatalogus.commonground.nl/producten"
+      borderType="1">
     <bounds
         x="730"
         y="800"
@@ -973,4 +981,7 @@
         xsi:type="archimate:BusinessActor"
         href="BusinessActor_id-a29343959ac94321b85cc3961f91bb98.xml#id-a29343959ac94321b85cc3961f91bb98"/>
   </children>
+  <properties
+      key="Object ID"
+      value="9f1f5252-c4b6-4398-a189-b8d8b8473e77"/>
 </archimate:ArchimateDiagramModel>

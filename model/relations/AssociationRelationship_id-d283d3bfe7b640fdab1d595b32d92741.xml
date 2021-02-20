@@ -3,6 +3,9 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="één-op-één"
     id="id-d283d3bfe7b640fdab1d595b32d92741">
+  <properties
+      key="Object ID"
+      value="9abc8c35-5b69-48c1-9c19-00f6878534ca"/>
   <source
       xsi:type="archimate:BusinessFunction"
       href="BusinessFunction_id-f2b92a08beca40449fa4cacd35ea4ab1.xml#id-f2b92a08beca40449fa4cacd35ea4ab1"/>

@@ -3,6 +3,9 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="één-op-één"
     id="id-99fe503a28e442b2b2c17293208a979c">
+  <properties
+      key="Object ID"
+      value="4454d559-730f-47ff-a2a9-c143d1e6e16c"/>
   <source
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_id-80971.xml#id-80971"/>

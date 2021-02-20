@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Component registreren vakantieverhuur"
     id="id-58c780ce8b7a4f33a5519d8f48c45696"
-    documentation="Component voor het registreren en ontsluiten van registratienummers toeristische verhuur woonruimte"/>
+    documentation="Component voor het registreren en ontsluiten van registratienummers toeristische verhuur woonruimte">
+  <properties
+      key="Object ID"
+      value="b20d6fbe-46e6-4e51-be6c-7fc0f7be86ca"/>
+</archimate:ApplicationComponent>
