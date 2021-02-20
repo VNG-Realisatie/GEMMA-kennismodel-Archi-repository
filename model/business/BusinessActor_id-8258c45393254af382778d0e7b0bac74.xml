@@ -1,9 +1,0 @@
-<archimate:BusinessActor
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Dienstenleverancier (conduction, Maykin, Dimpact..)"
-    id="id-8258c45393254af382778d0e7b0bac74"
-    documentation="Aanbieders van (software)diensten. Alleen leveranciers die het groeipact met VNG ondertekend hebben, mogen hun diensten registreren in de componentencatalogus">
-  <properties
-      key="Object ID"
-      value="40c233ef-59f7-402a-9762-f5c8fd0d2cd5"/>
-</archimate:BusinessActor>

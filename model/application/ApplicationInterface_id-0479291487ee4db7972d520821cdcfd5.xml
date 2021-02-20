@@ -1,9 +1,0 @@
-<archimate:ApplicationInterface
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Zaken API"
-    id="id-0479291487ee4db7972d520821cdcfd5"
-    documentation="Voorbeeld van een generieke API&#xD;&#xA;&#xD;&#xA;De standaard zaken API is opgesteld door VNG. Gemeenten en leverancier kunnen deze op basis van de standaard de API implementeren en beschikbaar stellen. ">
-  <properties
-      key="Object ID"
-      value="06ca3fbe-3faf-48a0-87ef-40cc5401be20"/>
-</archimate:ApplicationInterface>

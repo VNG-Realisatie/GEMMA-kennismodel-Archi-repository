@@ -1,9 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="ZRC - Zaakregistratiecomponent"
-    id="id-ba8d5b0dc7984aa0ad00d0fa94b3229b"
-    documentation="(referentie)implementatie van de API voor het opslaan en ontsluiten van zaakgegevens.&#xD;&#xA;&#xD;&#xA;Bron: https://vng-realisatie.github.io/gemma-zaken/standaard/zaken/index">
-  <properties
-      key="Object ID"
-      value="4b0cd732-8e20-4367-8dc9-a43c22afd499"/>
-</archimate:ApplicationComponent>

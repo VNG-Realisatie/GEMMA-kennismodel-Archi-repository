@@ -1,9 +1,0 @@
-<archimate:BusinessRole
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Ontwikkelteam"
-    id="id-7ee5c77684bc437797f315dc5e235b2e"
-    documentation="Ontwikkelteams die meewerken in de community van Common Ground publiceren een overzicht van de componenten in de Common Ground Componentencatalogus, zodat we van elkaar goed weten waar we aan werken, waar we kunnen samenwerken om herbruikbaarheid te bevorderen en hoe de voortgang verloopt.">
-  <properties
-      key="Object ID"
-      value="bf7bd5d4-2e4b-4017-9e28-a3f611a6c037"/>
-</archimate:BusinessRole>
