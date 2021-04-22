@@ -1,8 +1,8 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Bedrijfsfunctie (Vordering sociaal, Informering)"
+    name="Bedrijfsfunctie (Producten- en dienstenrealisatie RD)"
     id="id-81008"
-    documentation="De bedrijfsfuncties, detailniveau dat getoond wordt in het bedrijfsfunctiemodel">
+    documentation="Een bedrijfsfunctie is een gedragselement dat gedrag groepeert op basis van een bepaalde verzameling criteria (zoals vereiste bedrijfsmiddelen en/of competenties).&#xD;&#xA;&#xD;&#xA;De bedrijfsfuncties, detailniveau dat getoond wordt in het bedrijfsfunctiemodel">
   <properties
       key="Toelichting"
       value="Eigenchappen van bedrijfsfunctie * GEMMA type ='Bedrijfsfunctie' * Documentatie - Definitie van de bedrijfsfunctie * Naam - Naam van de bedrijfsfunctie * Object ID - Unieke sleutel van bedrijfsfunctie, GUID overgenomen uit KING architectuurtool"/>

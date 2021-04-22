@@ -1,6 +1,6 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Buitengemeentelijk component (MijnOverheid, )"
+    name="Buitengemeentelijk component (MijnOverheid berichtenbox)"
     id="id-80971"
     documentation="De sectorale en landelijke voorzieningen waar gemeenten informatie ophalen, delen en of uitwisselen van gegevens met overheidsorganisaties, ketenpartners, burgers en bedrijven.">
   <properties

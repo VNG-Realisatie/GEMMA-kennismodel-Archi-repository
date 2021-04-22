@@ -1,15 +1,14 @@
-<archimate:AggregationRelationship
+<archimate:CompositionRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="groepeert"
-    id="id-81362">
+    id="id-401a6689a10741da80b5989fe3be04fa">
   <properties
       key="Object ID"
-      value="2d5f43c1-aad2-4c65-b428-a10f2419996d"/>
+      value="5c596a53-7d34-4fd2-a31e-76bfa3eeaba4"/>
   <source
       xsi:type="archimate:ApplicationComponent"
-      href="ApplicationComponent_id-81280.xml#id-81280"/>
+      href="ApplicationComponent_id-3fa2dc29a7164a04bb0a63294a049137.xml#id-3fa2dc29a7164a04bb0a63294a049137"/>
   <target
       xsi:type="archimate:ApplicationInterface"
       href="ApplicationInterface_id-81344.xml#id-81344"/>
-</archimate:AggregationRelationship>
+</archimate:CompositionRelationship>

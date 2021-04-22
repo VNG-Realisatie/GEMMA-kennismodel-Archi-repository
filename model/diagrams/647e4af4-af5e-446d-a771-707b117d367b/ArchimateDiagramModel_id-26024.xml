@@ -519,19 +519,17 @@
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-81564"
-        font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
-        lineColor="#000000"
+        id="id-d9f0dc06f29749b2a3c0b1a3d8ce7532"
         source="id-81575"
         target="id-81577">
       <bendpoints
-          startX="40"
-          startY="-113"
-          endX="40"
-          endY="134"/>
+          startX="37"
+          startY="-116"
+          endX="37"
+          endY="131"/>
       <archimateRelationship
           xsi:type="archimate:ServingRelationship"
-          href="ServingRelationship_id-81296.xml#id-81296"/>
+          href="ServingRelationship_id-81357.xml#id-81357"/>
     </sourceConnections>
     <bounds
         x="567"
@@ -545,7 +543,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-81577"
-      targetConnections="id-81607 id-81564"
+      targetConnections="id-81607 id-d9f0dc06f29749b2a3c0b1a3d8ce7532"
       font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
       lineColor="#000000"
       fillColor="#ffffcc">
