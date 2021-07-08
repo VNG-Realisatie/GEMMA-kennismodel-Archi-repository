@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verplicht/Aanbevolen"
+    id="id-07626e90ec7c4f85ad75505a6fe94e05">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-44cff1100e46413e8ec8b2789c2ce029.xml#id-44cff1100e46413e8ec8b2789c2ce029"/>
+  <target
+      xsi:type="archimate:Constraint"
+      href="Constraint_id-80988.xml#id-80988"/>
+</archimate:RealizationRelationship>
