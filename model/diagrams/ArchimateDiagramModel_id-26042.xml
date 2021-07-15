@@ -21,7 +21,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-81645"
-      targetConnections="id-81652 id-81653 id-81655 id-81656"
+      targetConnections="id-81652 id-81653 id-81656 id-81655"
       font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
       lineColor="#000000"
       fillColor="#ccccff">
