@@ -791,8 +791,8 @@
           href="AggregationRelationship_id-81364.xml#id-81364"/>
     </sourceConnections>
     <bounds
-        x="650"
-        y="1070"
+        x="640"
+        y="990"
         width="133"
         height="53"/>
     <archimateElement
@@ -1003,7 +1003,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-81401"
-      targetConnections="id-81390 id-81402 370820bc-b9a9-4081-a291-346381f4b082 f5a1190b-3b32-499b-8d2b-3657b94c32f7"
+      targetConnections="id-81390 id-81402"
       font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
       lineColor="#000000"
       fillColor="#daeef3"
@@ -1223,58 +1223,6 @@
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_id-81091.xml#id-81091"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="80486673-7d61-4f24-b245-31579f4a62e1"
-      font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
-      lineColor="#000000"
-      fillColor="#daeef3"
-      type="1">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="f5a1190b-3b32-499b-8d2b-3657b94c32f7"
-        lineColor="#000000"
-        source="80486673-7d61-4f24-b245-31579f4a62e1"
-        target="id-81401">
-      <archimateRelationship
-          xsi:type="archimate:SpecializationRelationship"
-          href="SpecializationRelationship_4ec0abbe-406d-4ad4-96de-34fac6a76d4b.xml#4ec0abbe-406d-4ad4-96de-34fac6a76d4b"/>
-    </sourceConnections>
-    <bounds
-        x="570"
-        y="980"
-        width="120"
-        height="51"/>
-    <archimateElement
-        xsi:type="archimate:ApplicationComponent"
-        href="ApplicationComponent_e0686d42-1121-4646-9066-e697359cdfc3.xml#e0686d42-1121-4646-9066-e697359cdfc3"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="f449df64-34d0-487d-9593-18af8a8e8aa0"
-      font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
-      lineColor="#000000"
-      fillColor="#daeef3"
-      type="1">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="370820bc-b9a9-4081-a291-346381f4b082"
-        lineColor="#000000"
-        source="f449df64-34d0-487d-9593-18af8a8e8aa0"
-        target="id-81401">
-      <archimateRelationship
-          xsi:type="archimate:SpecializationRelationship"
-          href="SpecializationRelationship_07ef42b3-bb9a-4694-a0b7-d5be7064b0d3.xml#07ef42b3-bb9a-4694-a0b7-d5be7064b0d3"/>
-    </sourceConnections>
-    <bounds
-        x="730"
-        y="980"
-        width="121"
-        height="51"/>
-    <archimateElement
-        xsi:type="archimate:ApplicationComponent"
-        href="ApplicationComponent_585ce568-682b-479e-ab39-2c6415d82025.xml#585ce568-682b-479e-ab39-2c6415d82025"/>
   </children>
   <properties
       key="Object ID"

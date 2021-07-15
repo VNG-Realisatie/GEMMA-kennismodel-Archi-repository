@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Referentieaanbieder"
-    id="e0686d42-1121-4646-9066-e697359cdfc3"/>
+    id="e0686d42-1121-4646-9066-e697359cdfc3"
+    documentation="Een referentiecomponent met een beperkte functie. Naamgeving: als primaire doel gegevensopslag is register. Beschrijven wanneer welke"/>

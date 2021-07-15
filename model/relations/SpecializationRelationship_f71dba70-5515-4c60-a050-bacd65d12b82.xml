@@ -1,12 +1,11 @@
 <archimate:SpecializationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="is een"
-    id="4ec0abbe-406d-4ad4-96de-34fac6a76d4b">
+    id="f71dba70-5515-4c60-a050-bacd65d12b82">
   <source
       xsi:type="archimate:ApplicationComponent"
-      href="ApplicationComponent_e0686d42-1121-4646-9066-e697359cdfc3.xml#e0686d42-1121-4646-9066-e697359cdfc3"/>
+      href="ApplicationComponent_id-81280.xml#id-81280"/>
   <target
       xsi:type="archimate:ApplicationComponent"
-      href="ApplicationComponent_id-81280.xml#id-81280"/>
+      href="ApplicationComponent_3b8223ce-c4bf-4b36-b70a-6abba372e4e4.xml#3b8223ce-c4bf-4b36-b70a-6abba372e4e4"/>
 </archimate:SpecializationRelationship>
