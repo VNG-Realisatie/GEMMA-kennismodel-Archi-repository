@@ -7,8 +7,8 @@
       value="9712333e-bc07-4399-89f1-e79a8f75826f"/>
   <source
       xsi:type="archimate:ApplicationComponent"
-      href="ApplicationComponent_id-80995.xml#id-80995"/>
+      href="ApplicationComponent_id-81280.xml#id-81280"/>
   <target
       xsi:type="archimate:ApplicationFunction"
-      href="ApplicationFunction_id-81010.xml#id-81010"/>
+      href="ApplicationFunction_id-81273.xml#id-81273"/>
 </archimate:AssignmentRelationship>

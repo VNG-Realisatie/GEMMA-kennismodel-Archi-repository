@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-ba0cf3970fae4e8ebf50053601388b5a">
+  <properties
+      key="Object ID"
+      value="8ceb56e1-109c-475a-bf06-3399f313dbc2"/>
+  <source
+      xsi:type="archimate:FlowRelationship"
+      href="FlowRelationship_id-81009.xml#id-81009"/>
+  <target
+      xsi:type="archimate:Constraint"
+      href="Constraint_id-80986.xml#id-80986"/>
+</archimate:AssociationRelationship>

@@ -1,7 +1,7 @@
 <archimate:RealizationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Ondersteunt standaardversie"
+    name="ondersteunt standaardversie"
     id="id-81007"
     documentation="Een pakketversie ondersteunt één of meerdere standaarversie. Een pakketversie is compliant, indien de leverancier d.m.v. het uploaden van een testrapport aantoond aan de standaard te voldoen.">
   <properties

@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="GEMMA kennismodel -Standaardenlijst"
+    name="GEMMA kennismodel - Standaarden voor Softwarecatalogus"
     id="id-26042"
     documentation="Het GEMMA 2.0 kennismodel is de invulling van de ArchiMate conventie voor de informatievoorziening van het gemeentelijk domein">
   <children
@@ -21,7 +21,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-81645"
-      targetConnections="id-81652 id-81653 id-81655 id-81656"
+      targetConnections="id-81656 id-81653 id-81655"
       font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
       lineColor="#000000"
       fillColor="#ccccff">
@@ -32,7 +32,7 @@
         height="53"/>
     <archimateElement
         xsi:type="archimate:Constraint"
-        href="Constraint_id-81077.xml#id-81077"/>
+        href="Constraint_id-80988.xml#id-80988"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -41,17 +41,6 @@
       lineColor="#000000"
       textAlignment="1"
       fillColor="#ffffff">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-81652"
-        font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
-        lineColor="#000000"
-        source="id-81646"
-        target="id-81645">
-      <archimateRelationship
-          xsi:type="archimate:AggregationRelationship"
-          href="AggregationRelationship_id-81087.xml#id-81087"/>
-    </sourceConnections>
     <bounds
         x="80"
         y="27"
@@ -86,7 +75,7 @@
         height="53"/>
     <archimateElement
         xsi:type="archimate:Constraint"
-        href="Constraint_id-81081.xml#id-81081"/>
+        href="Constraint_id-80986.xml#id-80986"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
@@ -142,7 +131,7 @@
         height="53"/>
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
-        href="ApplicationComponent_id-81283.xml#id-81283"/>
+        href="ApplicationComponent_id-80971.xml#id-80971"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -169,12 +158,12 @@
         height="53"/>
     <archimateElement
         xsi:type="archimate:ApplicationService"
-        href="ApplicationService_id-81287.xml#id-81287"/>
+        href="ApplicationService_id-80972.xml#id-80972"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-81650"
-      targetConnections="id-81658"
+      targetConnections="id-2f58d1bf3d324c80aab15d0d3d79984e"
       font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
       lineColor="#000000"
       fillColor="#daeef3"
@@ -224,13 +213,14 @@
       fillColor="#ffffff">
     <bounds
         x="15"
-        y="467"
+        y="480"
         width="660"
-        height="200"/>
+        height="221"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-81651"
+      targetConnections="id-2dd913af333343a1a2ebc9707351d670"
       font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
       lineColor="#000000"
       fillColor="#daeef3"
@@ -246,25 +236,14 @@
           xsi:type="archimate:RealizationRelationship"
           href="RealizationRelationship_id-81386.xml#id-81386"/>
     </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-81658"
-        font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
-        lineColor="#000000"
-        source="id-81651"
-        target="id-81650">
-      <archimateRelationship
-          xsi:type="archimate:SpecializationRelationship"
-          href="SpecializationRelationship_id-81388.xml#id-81388"/>
-    </sourceConnections>
     <bounds
-        x="28"
-        y="593"
-        width="527"
-        height="53"/>
+        x="300"
+        y="620"
+        width="141"
+        height="61"/>
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
-        href="ApplicationComponent_id-81387.xml#id-81387"/>
+        href="ApplicationComponent_id-80980.xml#id-80980"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
@@ -276,10 +255,41 @@
       fillColor="#ffffc8"
       content="Standaarden verbonden met de Softwarecatalogus. Welke pakketversie ondersteunt één of meer standaarden">
     <bounds
-        x="447"
-        y="480"
+        x="450"
+        y="490"
         width="213"
         height="87"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-3b06904c168c43b894fac8db0cd590fb"
+      type="1">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-2dd913af333343a1a2ebc9707351d670"
+        source="id-3b06904c168c43b894fac8db0cd590fb"
+        target="id-81651">
+      <archimateRelationship
+          xsi:type="archimate:AggregationRelationship"
+          href="AggregationRelationship_id-80970.xml#id-80970"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-2f58d1bf3d324c80aab15d0d3d79984e"
+        source="id-3b06904c168c43b894fac8db0cd590fb"
+        target="id-81650">
+      <archimateRelationship
+          xsi:type="archimate:SpecializationRelationship"
+          href="SpecializationRelationship_id-81376.xml#id-81376"/>
+    </sourceConnections>
+    <bounds
+        x="170"
+        y="510"
+        width="141"
+        height="61"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_id-80982.xml#id-80982"/>
   </children>
   <properties
       key="Object ID"

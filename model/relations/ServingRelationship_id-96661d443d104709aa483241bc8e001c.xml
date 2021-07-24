@@ -1,0 +1,16 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="gebruikt door"
+    id="id-96661d443d104709aa483241bc8e001c"
+    documentation="Pakket wordt gebruikt door samenwerking">
+  <properties
+      key="Object ID"
+      value="b2778e59-b871-432d-a83c-7086df1b0b20"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-80982.xml#id-80982"/>
+  <target
+      xsi:type="archimate:BusinessCollaboration"
+      href="BusinessCollaboration_id-80979.xml#id-80979"/>
+</archimate:ServingRelationship>

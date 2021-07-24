@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="GEMMA modelleerafspraken afgeleide relaties"
+    name="Softwarecatalogus afgeleide relaties"
     id="id-26026"
     documentation="Deze view toont de modelleerafspraken die gehanteerd zijn bij het maken van de GEMMA 2. De modelleerafspraken zijn van belang om voor de Softwarecatalogus de afgeleide relaties te kunnen maken (getekend als gestreepte associatie relaties)">
   <children
@@ -17,7 +17,7 @@
         x="740"
         y="507"
         width="293"
-        height="340"/>
+        height="354"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -55,6 +55,28 @@
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-81509"
+        font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+        lineWidth="2"
+        lineColor="#000000"
+        source="id-81533"
+        target="id-81540">
+      <bendpoints
+          startX="136"
+          startY="-3"
+          endX="136"
+          endY="530"/>
+      <bendpoints
+          startX="136"
+          startY="-523"
+          endX="136"
+          endY="10"/>
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-81358.xml#id-81358"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-81517"
         font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
         lineColor="#000000"
@@ -63,27 +85,6 @@
       <archimateRelationship
           xsi:type="archimate:ServingRelationship"
           href="ServingRelationship_id-80959.xml#id-80959"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-81509"
-        font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
-        lineWidth="2"
-        lineColor="#000000"
-        source="id-81533"
-        target="id-81540">
-      <bendpoints
-          startX="137"
-          endX="137"
-          endY="390"/>
-      <bendpoints
-          startX="137"
-          startY="-380"
-          endX="137"
-          endY="10"/>
-      <archimateRelationship
-          xsi:type="archimate:AssociationRelationship"
-          href="AssociationRelationship_id-81358.xml#id-81358"/>
     </sourceConnections>
     <bounds
         x="781"
@@ -109,13 +110,14 @@
         source="id-81534"
         target="id-81540">
       <bendpoints
-          startX="164"
-          endX="164"
-          endY="503"/>
+          startX="166"
+          startY="4"
+          endX="166"
+          endY="650"/>
       <bendpoints
-          startX="164"
-          startY="-513"
-          endX="164"
+          startX="166"
+          startY="-656"
+          endX="166"
           endY="-10"/>
       <archimateRelationship
           xsi:type="archimate:RealizationRelationship"
@@ -138,8 +140,8 @@
           href="ServingRelationship_id-81013.xml#id-81013"/>
     </sourceConnections>
     <bounds
-        x="781"
-        y="760"
+        x="780"
+        y="790"
         width="207"
         height="53"/>
     <archimateElement
@@ -157,7 +159,7 @@
       content="GEMMA standaardenlijst">
     <bounds
         x="740"
-        y="53"
+        y="-90"
         width="293"
         height="433"/>
   </children>
@@ -181,7 +183,7 @@
     </sourceConnections>
     <bounds
         x="781"
-        y="400"
+        y="257"
         width="207"
         height="53"/>
     <archimateElement
@@ -191,13 +193,13 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-81540"
-      targetConnections="id-81519 id-81520 id-81521 id-81502 id-81508 id-81509"
+      targetConnections="id-81502 id-81508 id-81509 id-81519 id-81521"
       font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
       lineColor="#000000"
       fillColor="#ccccff">
     <bounds
         x="781"
-        y="260"
+        y="117"
         width="207"
         height="47"/>
     <archimateElement
@@ -223,39 +225,13 @@
           href="AggregationRelationship_id-80974.xml#id-80974"/>
     </sourceConnections>
     <bounds
-        x="753"
-        y="180"
-        width="124"
+        x="780"
+        y="10"
+        width="207"
         height="47"/>
     <archimateElement
         xsi:type="archimate:Grouping"
-        href="Grouping_id-80991.xml#id-80991"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-81543"
-      font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
-      lineColor="#000000"
-      fillColor="#e4e4e4">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-81520"
-        font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
-        lineColor="#000000"
-        source="id-81543"
-        target="id-81540">
-      <archimateRelationship
-          xsi:type="archimate:AggregationRelationship"
-          href="AggregationRelationship_id-81082.xml#id-81082"/>
-    </sourceConnections>
-    <bounds
-        x="888"
-        y="180"
-        width="133"
-        height="47"/>
-    <archimateElement
-        xsi:type="archimate:Constraint"
-        href="Constraint_id-81083.xml#id-81083"/>
+        href="Grouping_id-81088.xml#id-81088"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
@@ -267,15 +243,15 @@
       fillColor="#f7f7f7"
       content="GEMMA">
     <bounds
-        x="87"
-        y="53"
-        width="587"
-        height="793"/>
+        x="50"
+        y="-90"
+        width="551"
+        height="951"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-81512"
-      targetConnections="id-81526"
+      targetConnections="id-6475dbd18c55437b8970517a1051d92a"
       font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
       lineColor="#000000"
       fillColor="#b7dee8">
@@ -285,106 +261,19 @@
         font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
         lineColor="#000000"
         source="id-81512"
-        target="id-81546">
+        target="id-1a537d322b2348fabbfd857fcff51fac">
       <archimateRelationship
           xsi:type="archimate:AggregationRelationship"
           href="AggregationRelationship_id-80990.xml#id-80990"/>
     </sourceConnections>
     <bounds
         x="220"
-        y="491"
-        width="147"
-        height="53"/>
+        y="520"
+        width="141"
+        height="61"/>
     <archimateElement
         xsi:type="archimate:ApplicationFunction"
         href="ApplicationFunction_id-80969.xml#id-80969"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-81546"
-      targetConnections="id-81525 id-81545"
-      font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
-      lineColor="#000000"
-      fillColor="#b7dee8">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-81522"
-        font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
-        lineColor="#000000"
-        source="id-81546"
-        target="id-81505">
-      <archimateRelationship
-          xsi:type="archimate:AggregationRelationship"
-          href="AggregationRelationship_id-80993.xml#id-80993"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-81523"
-        font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
-        lineColor="#000000"
-        source="id-81546"
-        target="id-81507">
-      <archimateRelationship
-          xsi:type="archimate:ServingRelationship"
-          href="ServingRelationship_id-80987.xml#id-80987"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-81531"
-        font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
-        lineColor="#000000"
-        source="id-81546"
-        target="id-81501">
-      <archimateRelationship
-          xsi:type="archimate:ServingRelationship"
-          href="ServingRelationship_id-80992.xml#id-80992"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-81537"
-        font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
-        lineColor="#000000"
-        source="id-81546"
-        target="id-81514">
-      <archimateRelationship
-          xsi:type="archimate:ServingRelationship"
-          href="ServingRelationship_id-80996.xml#id-80996"/>
-    </sourceConnections>
-    <bounds
-        x="333"
-        y="580"
-        width="333"
-        height="53"/>
-    <archimateElement
-        xsi:type="archimate:ApplicationFunction"
-        href="ApplicationFunction_id-81010.xml#id-81010"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-81501"
-      targetConnections="id-81529 id-81531 id-81532 id-81539 id-81518"
-      font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
-      lineColor="#000000"
-      fillColor="#ffffcc">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-81524"
-        font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
-        lineColor="#000000"
-        source="id-81501"
-        target="id-81507">
-      <archimateRelationship
-          xsi:type="archimate:AggregationRelationship"
-          href="AggregationRelationship_id-80983.xml#id-80983"/>
-    </sourceConnections>
-    <bounds
-        x="333"
-        y="334"
-        width="133"
-        height="53"/>
-    <archimateElement
-        xsi:type="archimate:BusinessFunction"
-        href="BusinessFunction_id-81008.xml#id-81008"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -396,20 +285,65 @@
       type="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-81527"
+        id="id-81504"
         font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
         lineWidth="2"
         lineColor="#000000"
+        textPosition="0"
         source="id-81503"
-        target="id-81510">
+        target="id-81538">
       <bendpoints
-          startX="-198"
-          startY="-23"
-          endX="-5"
-          endY="320"/>
+          startX="324"
+          startY="5"
+          endX="-174"
+          endY="517"/>
+      <bendpoints
+          startX="324"
+          startY="-506"
+          endX="-174"
+          endY="-3"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
-          href="AssociationRelationship_id-81381.xml#id-81381"/>
+          href="AssociationRelationship_id-81384.xml#id-81384"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-81508"
+        font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+        lineColor="#000000"
+        textPosition="0"
+        source="id-81503"
+        target="id-81540">
+      <bendpoints
+          startX="274"
+          startY="-35"
+          endX="-224"
+          endY="620"/>
+      <bendpoints
+          startX="274"
+          startY="-655"
+          endX="-224"/>
+      <archimateRelationship
+          xsi:type="archimate:RealizationRelationship"
+          href="RealizationRelationship_id-81016.xml#id-81016"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-3bae1f18a46e4ae699af465a4457c2c3"
+        font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+        lineWidth="2"
+        lineColor="#000000"
+        textPosition="0"
+        source="id-81503"
+        target="id-c4d077f787994769801701f47d18a6df">
+      <bendpoints
+          startX="-236"
+          startY="-26"
+          endX="-65"
+          endY="305"/>
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-89159b2d90bd477daadf80ae7494531c.xml#id-89159b2d90bd477daadf80ae7494531c"/>
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
@@ -417,18 +351,18 @@
         font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
         lineWidth="2"
         lineColor="#000000"
+        textPosition="0"
         source="id-81503"
-        target="id-81515">
+        target="id-99f126ab2f684a52b3569aefb31ddb11">
       <bendpoints
-          startX="-299"
-          startY="30"
-          endX="-199"
-          endY="696"/>
+          startX="-326"
+          startY="25"
+          endX="-159"
+          endY="720"/>
       <bendpoints
-          startX="-306"
-          startY="-663"
-          endX="-206"
-          endY="3"/>
+          startX="-326"
+          startY="-695"
+          endX="-159"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-81382.xml#id-81382"/>
@@ -439,18 +373,19 @@
         font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
         lineWidth="2"
         lineColor="#000000"
+        textPosition="0"
         source="id-81503"
-        target="id-81501">
+        target="id-0042fa80ec734660832f7e7354658f73">
+      <bendpoints
+          startX="-276"
+          startY="-5"
+          endX="-287"
+          endY="457"/>
       <bendpoints
           startX="-279"
-          startY="4"
-          endX="-279"
-          endY="427"/>
-      <bendpoints
-          startX="-279"
-          startY="-410"
-          endX="-279"
-          endY="13"/>
+          startY="-433"
+          endX="-290"
+          endY="20"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-81383.xml#id-81383"/>
@@ -461,279 +396,303 @@
         font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
         lineColor="#000000"
         source="id-81503"
-        target="id-81546">
+        target="id-1a537d322b2348fabbfd857fcff51fac">
       <archimateRelationship
           xsi:type="archimate:AssignmentRelationship"
           href="AssignmentRelationship_id-80994.xml#id-80994"/>
     </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-81547"
-        font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
-        lineColor="#000000"
-        source="id-81503"
-        target="id-81505">
-      <archimateRelationship
-          xsi:type="archimate:AssignmentRelationship"
-          href="AssignmentRelationship_id-80977.xml#id-80977"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-81504"
-        font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
-        lineWidth="2"
-        lineColor="#000000"
-        source="id-81503"
-        target="id-81538">
-      <bendpoints
-          startX="309"
-          startY="3"
-          endX="-176"
-          endY="360"/>
-      <bendpoints
-          startX="309"
-          startY="-357"
-          endX="-176"/>
-      <archimateRelationship
-          xsi:type="archimate:AssociationRelationship"
-          href="AssociationRelationship_id-81384.xml#id-81384"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-81508"
-        font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
-        lineColor="#000000"
-        source="id-81503"
-        target="id-81540">
-      <bendpoints
-          startX="287"
-          startY="-23"
-          endX="-198"
-          endY="477"/>
-      <bendpoints
-          startX="287"
-          startY="-496"
-          endX="-198"
-          endY="4"/>
-      <archimateRelationship
-          xsi:type="archimate:RealizationRelationship"
-          href="RealizationRelationship_id-81016.xml#id-81016"/>
-    </sourceConnections>
     <bounds
-        x="313"
-        y="747"
+        x="300"
+        y="750"
         width="173"
-        height="73"/>
+        height="91"/>
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
-        href="ApplicationComponent_id-80995.xml#id-80995"/>
+        href="ApplicationComponent_id-81280.xml#id-81280"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-81505"
-      targetConnections="id-81522 id-81547"
-      font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
-      lineColor="#000000"
-      fillColor="#b7dee8">
-    <bounds
-        x="413"
-        y="667"
-        width="167"
-        height="53"/>
-    <archimateElement
-        xsi:type="archimate:ApplicationFunction"
-        href="ApplicationFunction_id-80997.xml#id-80997"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-81507"
-      targetConnections="id-81523 id-81524"
-      font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
-      lineColor="#000000"
-      fillColor="#ffffcc">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-81536"
-        font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
-        lineColor="#000000"
-        source="id-81507"
-        target="id-81514">
-      <archimateRelationship
-          xsi:type="archimate:AggregationRelationship"
-          href="AggregationRelationship_id-80998.xml#id-80998"/>
-    </sourceConnections>
-    <bounds
-        x="433"
-        y="414"
-        width="133"
-        height="53"/>
-    <archimateElement
-        xsi:type="archimate:BusinessFunction"
-        href="BusinessFunction_id-81004.xml#id-81004"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-81510"
-      targetConnections="id-81527"
+      id="id-c4d077f787994769801701f47d18a6df"
+      targetConnections="id-3bae1f18a46e4ae699af465a4457c2c3"
       font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
       lineColor="#000000"
       textAlignment="1"
       fillColor="#ffffff">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-81526"
-        font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
-        lineColor="#000000"
-        source="id-81510"
+        id="id-6475dbd18c55437b8970517a1051d92a"
+        source="id-c4d077f787994769801701f47d18a6df"
         target="id-81512">
       <archimateRelationship
           xsi:type="archimate:AggregationRelationship"
-          href="AggregationRelationship_id-80989.xml#id-80989"/>
+          href="AggregationRelationship_id-af2ac48017c54968972ffa10d15b3640.xml#id-af2ac48017c54968972ffa10d15b3640"/>
     </sourceConnections>
     <bounds
-        x="133"
-        y="414"
-        width="147"
-        height="53"/>
+        x="130"
+        y="430"
+        width="171"
+        height="51"/>
     <archimateElement
         xsi:type="archimate:Grouping"
-        href="Grouping_id-80999.xml#id-80999"/>
+        href="Grouping_id-0605cee8819b41e78144939f6d1dacee.xml#id-0605cee8819b41e78144939f6d1dacee"/>
   </children>
   <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-81511"
-      targetConnections="id-81544"
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-f3289452e1034998a3f0084a07136289"
+      name="GEMMA bedrijfsfunctiemodel"
       font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
       lineColor="#000000"
-      fillColor="#ffffcc">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-81532"
-        font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
-        lineColor="#000000"
-        source="id-81511"
-        target="id-81501">
-      <bendpoints
-          startX="1"
-          startY="147"
-          endX="-192"
-          endY="-13"/>
-      <archimateRelationship
-          xsi:type="archimate:AggregationRelationship"
-          href="AggregationRelationship_id-80984.xml#id-80984"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-81535"
-        font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
-        lineColor="#000000"
-        source="id-81511"
-        target="id-81513">
-      <archimateRelationship
-          xsi:type="archimate:AggregationRelationship"
-          href="AggregationRelationship_id-81001.xml#id-81001"/>
-    </sourceConnections>
+      textAlignment="1"
+      fillColor="#ffffff"
+      borderType="1">
     <bounds
-        x="133"
-        y="174"
-        width="147"
-        height="53"/>
-    <archimateElement
-        xsi:type="archimate:BusinessFunction"
-        href="BusinessFunction_id-81002.xml#id-81002"/>
+        x="80"
+        y="40"
+        width="491"
+        height="221"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-99f126ab2f684a52b3569aefb31ddb11"
+        targetConnections="id-81528 id-947141a48e2641c78d189c08d1a2e72c"
+        font="1|Segoe UI|10.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+        fontColor="#000000"
+        lineColor="#000000"
+        fillColor="#fff29b">
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-7ecdaea463984c8183beaec3fd308f2f"
+          font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+          lineColor="#000000"
+          source="id-99f126ab2f684a52b3569aefb31ddb11"
+          target="id-0042fa80ec734660832f7e7354658f73">
+        <bendpoints
+            startX="1"
+            startY="210"
+            endX="-177"
+            endY="-13"/>
+        <archimateRelationship
+            xsi:type="archimate:AggregationRelationship"
+            href="AggregationRelationship_id-c9c383bfaaf34cff9d6df8db945bfcd2.xml#id-c9c383bfaaf34cff9d6df8db945bfcd2"/>
+      </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-5bb1febb38b64fe78a4c1070392d7f92"
+          font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+          lineColor="#000000"
+          source="id-99f126ab2f684a52b3569aefb31ddb11"
+          target="id-b6d67e6d32ab4849803cc7ce61c81e27">
+        <archimateRelationship
+            xsi:type="archimate:AggregationRelationship"
+            href="AggregationRelationship_id-4a50aa428eb64542936b0b76b2ab9346.xml#id-4a50aa428eb64542936b0b76b2ab9346"/>
+      </sourceConnections>
+      <bounds
+          x="69"
+          y="30"
+          width="141"
+          height="61"/>
+      <archimateElement
+          xsi:type="archimate:BusinessFunction"
+          href="BusinessFunction_id-ef3c09351956481fa2d10844319b5f9c.xml#id-ef3c09351956481fa2d10844319b5f9c"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-b6d67e6d32ab4849803cc7ce61c81e27"
+        targetConnections="id-5bb1febb38b64fe78a4c1070392d7f92 id-d66c6953c3b24ed7bca2038c62c2f776"
+        font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+        fontColor="#000000"
+        lineColor="#000000"
+        fillColor="#fff8b7">
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-f12aef97bd3f4dc9b56212377d01ad09"
+          font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+          lineColor="#000000"
+          source="id-b6d67e6d32ab4849803cc7ce61c81e27"
+          target="id-0042fa80ec734660832f7e7354658f73">
+        <archimateRelationship
+            xsi:type="archimate:AggregationRelationship"
+            href="AggregationRelationship_id-9c54ea27979e4398bbb71b06f6cb8ec6.xml#id-9c54ea27979e4398bbb71b06f6cb8ec6"/>
+      </sourceConnections>
+      <bounds
+          x="160"
+          y="130"
+          width="141"
+          height="61"/>
+      <archimateElement
+          xsi:type="archimate:BusinessFunction"
+          href="BusinessFunction_id-083b57dc6709458c95b5d01b5372e0cf.xml#id-083b57dc6709458c95b5d01b5372e0cf"/>
+    </children>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-81513"
-      targetConnections="id-81535 id-81541"
-      font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
-      lineColor="#000000"
-      fillColor="#ffffcc">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-81539"
-        font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
-        lineColor="#000000"
-        source="id-81513"
-        target="id-81501">
-      <archimateRelationship
-          xsi:type="archimate:AggregationRelationship"
-          href="AggregationRelationship_id-81003.xml#id-81003"/>
-    </sourceConnections>
-    <bounds
-        x="220"
-        y="254"
-        width="147"
-        height="53"/>
-    <archimateElement
-        xsi:type="archimate:BusinessFunction"
-        href="BusinessFunction_id-81014.xml#id-81014"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-81514"
-      targetConnections="id-81536 id-81537"
-      font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
-      lineColor="#000000"
-      fillColor="#ffffcc">
-    <bounds
-        x="533"
-        y="494"
-        width="133"
-        height="61"/>
-    <archimateElement
-        xsi:type="archimate:BusinessFunction"
-        href="BusinessFunction_id-81012.xml#id-81012"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-81515"
-      targetConnections="id-81528"
+      id="id-dd60e8ec73464fd688235e4345e02f35"
       font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
       lineColor="#000000"
       textAlignment="1"
       fillColor="#ffffff">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-81541"
+        id="id-8e71246b8d6a4cfba63cd23486803848"
         font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
         lineColor="#000000"
-        source="id-81515"
-        target="id-81513">
+        source="id-dd60e8ec73464fd688235e4345e02f35"
+        target="id-0042fa80ec734660832f7e7354658f73">
       <archimateRelationship
           xsi:type="archimate:AggregationRelationship"
-          href="AggregationRelationship_id-81000.xml#id-81000"/>
+          href="AggregationRelationship_id-80d5da1276db4275bb8f9eb9a2bc5d01.xml#id-80d5da1276db4275bb8f9eb9a2bc5d01"/>
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-81544"
+        id="id-d66c6953c3b24ed7bca2038c62c2f776"
         font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
         lineColor="#000000"
-        source="id-81515"
-        target="id-81511">
+        source="id-dd60e8ec73464fd688235e4345e02f35"
+        target="id-b6d67e6d32ab4849803cc7ce61c81e27">
       <archimateRelationship
           xsi:type="archimate:AggregationRelationship"
-          href="AggregationRelationship_id-80981.xml#id-80981"/>
+          href="AggregationRelationship_id-38ff5c0f9e4d44febd16cd77eb13c795.xml#id-38ff5c0f9e4d44febd16cd77eb13c795"/>
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-81518"
+        id="id-947141a48e2641c78d189c08d1a2e72c"
         font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
         lineColor="#000000"
-        source="id-81515"
-        target="id-81501">
+        source="id-dd60e8ec73464fd688235e4345e02f35"
+        target="id-99f126ab2f684a52b3569aefb31ddb11">
       <archimateRelationship
           xsi:type="archimate:AggregationRelationship"
-          href="AggregationRelationship_id-80985.xml#id-80985"/>
+          href="AggregationRelationship_id-3e65e9b1a1b94c92968e5dab5bec4e34.xml#id-3e65e9b1a1b94c92968e5dab5bec4e34"/>
     </sourceConnections>
     <bounds
-        x="133"
-        y="94"
-        width="333"
-        height="47"/>
+        x="80"
+        y="-50"
+        width="491"
+        height="61"/>
     <archimateElement
         xsi:type="archimate:Grouping"
-        href="Grouping_id-81006.xml#id-81006"/>
+        href="Grouping_id-81091.xml#id-81091"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-0042fa80ec734660832f7e7354658f73"
+      targetConnections="id-0e5f0dabfa404f29b1a9fee5d5819e6e id-81529 id-f12aef97bd3f4dc9b56212377d01ad09 id-7ecdaea463984c8183beaec3fd308f2f id-d2093ba1d0c84bfe9631a588fb96432a id-8e71246b8d6a4cfba63cd23486803848"
+      font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+      lineColor="#000000"
+      fillColor="#ffffcc">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-b9d88566b5b042998dcc08c1bd52caf6"
+        source="id-0042fa80ec734660832f7e7354658f73"
+        target="id-e1efc981271d4c2a9ee2537ef44c1a94">
+      <archimateRelationship
+          xsi:type="archimate:AccessRelationship"
+          href="AccessRelationship_id-81171.xml#id-81171"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-0e5f0dabfa404f29b1a9fee5d5819e6e"
+        source="id-0042fa80ec734660832f7e7354658f73"
+        target="id-0042fa80ec734660832f7e7354658f73">
+      <bendpoints
+          startX="40"
+          startY="-60"
+          endX="40"
+          endY="-60"/>
+      <bendpoints
+          startX="110"
+          startY="-60"
+          endX="110"
+          endY="-60"/>
+      <bendpoints
+          startX="110"
+          startY="-10"
+          endX="110"
+          endY="-10"/>
+      <archimateRelationship
+          xsi:type="archimate:AggregationRelationship"
+          href="AggregationRelationship_id-80983.xml#id-80983"/>
+    </sourceConnections>
+    <bounds
+        x="327"
+        y="303"
+        width="141"
+        height="61"/>
+    <archimateElement
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_id-44bbb0184dbb43adaca73495aaf7155f.xml#id-44bbb0184dbb43adaca73495aaf7155f"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-1a537d322b2348fabbfd857fcff51fac"
+      targetConnections="id-81545 id-81522 id-81525">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-81522"
+        font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+        lineColor="#000000"
+        source="id-1a537d322b2348fabbfd857fcff51fac"
+        target="id-1a537d322b2348fabbfd857fcff51fac">
+      <bendpoints
+          startX="40"
+          startY="-60"
+          endX="40"
+          endY="-60"/>
+      <bendpoints
+          startX="110"
+          startY="-60"
+          endX="110"
+          endY="-60"/>
+      <bendpoints
+          startX="110"
+          startY="-10"
+          endX="110"
+          endY="-10"/>
+      <archimateRelationship
+          xsi:type="archimate:AggregationRelationship"
+          href="AggregationRelationship_id-80993.xml#id-80993"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-d2093ba1d0c84bfe9631a588fb96432a"
+        source="id-1a537d322b2348fabbfd857fcff51fac"
+        target="id-0042fa80ec734660832f7e7354658f73">
+      <archimateRelationship
+          xsi:type="archimate:ServingRelationship"
+          href="ServingRelationship_id-80996.xml#id-80996"/>
+    </sourceConnections>
+    <bounds
+        x="330"
+        y="620"
+        width="141"
+        height="61"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationFunction"
+        href="ApplicationFunction_id-81273.xml#id-81273"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-e1efc981271d4c2a9ee2537ef44c1a94"
+      targetConnections="id-b9d88566b5b042998dcc08c1bd52caf6">
+    <bounds
+        x="440"
+        y="420"
+        width="141"
+        height="61"/>
+    <archimateElement
+        xsi:type="archimate:BusinessObject"
+        href="BusinessObject_id-81158.xml#id-81158"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-8bc00afcca334a5eab2be85dcf559937"
+      textAlignment="1"
+      fillColor="#ffffff"
+      content="De vetgedrukte relaties worden afgeleid door de GEMMA List API en aangeboden aan de Softwarecatalogus.&#xD;&#xA;&#xD;&#xA;Deze afgeleide relaties worden niet opgeslagen in het model">
+    <bounds
+        x="1050"
+        y="-90"
+        width="212"
+        height="142"/>
   </children>
   <properties
       key="Toelichting"

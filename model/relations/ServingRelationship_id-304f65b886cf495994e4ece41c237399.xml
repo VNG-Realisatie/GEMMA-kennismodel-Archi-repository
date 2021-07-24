@@ -1,0 +1,16 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="gebruikt door"
+    id="id-304f65b886cf495994e4ece41c237399"
+    documentation="Pakket wordt gebruikt door gemeente">
+  <properties
+      key="Object ID"
+      value="1dd69980-c715-4e37-b1cb-c026a604a37f"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-80982.xml#id-80982"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-80978.xml#id-80978"/>
+</archimate:ServingRelationship>

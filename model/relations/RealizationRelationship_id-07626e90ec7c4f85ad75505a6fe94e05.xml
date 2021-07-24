@@ -3,9 +3,12 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Verplicht/Aanbevolen"
     id="id-07626e90ec7c4f85ad75505a6fe94e05">
+  <properties
+      key="Object ID"
+      value="04db00cf-d48b-444b-be15-1b755b977002"/>
   <source
       xsi:type="archimate:ApplicationComponent"
-      href="ApplicationComponent_id-44cff1100e46413e8ec8b2789c2ce029.xml#id-44cff1100e46413e8ec8b2789c2ce029"/>
+      href="ApplicationComponent_id-81280.xml#id-81280"/>
   <target
       xsi:type="archimate:Constraint"
       href="Constraint_id-80988.xml#id-80988"/>

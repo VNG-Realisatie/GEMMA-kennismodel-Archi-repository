@@ -8,8 +8,8 @@
       value="d2c0e7c0-a648-4a50-afbb-9ad9147aa3eb"/>
   <source
       xsi:type="archimate:Constraint"
-      href="Constraint_id-81081.xml#id-81081"/>
+      href="Constraint_id-80986.xml#id-80986"/>
   <target
       xsi:type="archimate:Constraint"
-      href="Constraint_id-81077.xml#id-81077"/>
+      href="Constraint_id-80988.xml#id-80988"/>
 </archimate:SpecializationRelationship>

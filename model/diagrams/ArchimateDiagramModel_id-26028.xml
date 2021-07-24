@@ -21,9 +21,9 @@
           href="SpecializationRelationship_id-81140.xml#id-81140"/>
     </sourceConnections>
     <bounds
-        x="4"
+        x="-23"
         y="107"
-        width="167"
+        width="211"
         height="62"/>
     <archimateElement
         xsi:type="archimate:BusinessProcess"
@@ -48,9 +48,9 @@
           href="SpecializationRelationship_id-81143.xml#id-81143"/>
     </sourceConnections>
     <bounds
-        x="287"
+        x="260"
         y="107"
-        width="167"
+        width="211"
         height="62"/>
     <archimateElement
         xsi:type="archimate:BusinessProcess"
@@ -64,9 +64,9 @@
       lineColor="#000000"
       fillColor="#ffffcc">
     <bounds
-        x="147"
+        x="120"
         y="7"
-        width="167"
+        width="211"
         height="62"/>
     <archimateElement
         xsi:type="archimate:BusinessProcess"
@@ -90,9 +90,9 @@
           href="SpecializationRelationship_id-81145.xml#id-81145"/>
     </sourceConnections>
     <bounds
-        x="147"
+        x="120"
         y="213"
-        width="167"
+        width="211"
         height="62"/>
     <archimateElement
         xsi:type="archimate:BusinessProcess"
@@ -116,9 +116,9 @@
           href="SpecializationRelationship_id-81147.xml#id-81147"/>
     </sourceConnections>
     <bounds
-        x="427"
+        x="400"
         y="213"
-        width="167"
+        width="211"
         height="62"/>
     <archimateElement
         xsi:type="archimate:BusinessProcess"

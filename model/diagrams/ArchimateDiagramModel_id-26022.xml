@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="GEMMA kennismodel -Standaardenlijst verplicht en aanbevolen"
+    name="GEMMA kennismodel - Standaardenlijst verplicht en aanbevolen"
     id="id-26022"
     documentation="Het GEMMA 2.0 kennismodel is de invulling van de ArchiMate conventie voor de informatievoorziening van het gemeentelijk domein">
   <children
@@ -32,7 +32,7 @@
         height="53"/>
     <archimateElement
         xsi:type="archimate:Constraint"
-        href="Constraint_id-81077.xml#id-81077"/>
+        href="Constraint_id-80988.xml#id-80988"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
@@ -88,7 +88,7 @@
         height="53"/>
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
-        href="ApplicationComponent_id-81283.xml#id-81283"/>
+        href="ApplicationComponent_id-80971.xml#id-80971"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -120,7 +120,7 @@
         height="53"/>
     <archimateElement
         xsi:type="archimate:ApplicationService"
-        href="ApplicationService_id-81287.xml#id-81287"/>
+        href="ApplicationService_id-80972.xml#id-80972"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

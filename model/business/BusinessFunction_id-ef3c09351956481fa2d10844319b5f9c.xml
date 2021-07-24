@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Laag"
+    id="id-ef3c09351956481fa2d10844319b5f9c"
+    documentation="De lagen van het GEMMA bedrijfsfunctiemodel&#xD;&#xA;&#xD;&#xA;Eigenchappen:&#xD;&#xA;* GEMMA type ='Bedrijfsfunctie laag'">
+  <properties
+      key="Toelichting"
+      value="Bron: GEMMA 2"/>
+  <properties
+      key="Object ID"
+      value="b4e9751b-776a-4f23-885c-cc615cbd7799"/>
+</archimate:BusinessFunction>

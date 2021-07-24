@@ -1,7 +1,7 @@
 <archimate:RealizationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Verplicht/Aanbevolen"
+    name="Verplicht / Aanbevolen"
     id="id-81016"
     documentation="Met de relatie worden de voor een referentiecomponent verplichte of aanbevolen standaarden aangewezen.">
   <properties
@@ -12,7 +12,7 @@
       value="da4abf03-1a1c-4100-94ce-3a4d2bb67599"/>
   <source
       xsi:type="archimate:ApplicationComponent"
-      href="ApplicationComponent_id-80995.xml#id-80995"/>
+      href="ApplicationComponent_id-81280.xml#id-81280"/>
   <target
       xsi:type="archimate:Constraint"
       href="Constraint_id-80988.xml#id-80988"/>

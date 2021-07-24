@@ -1,11 +1,18 @@
 <archimate:SpecializationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Wordt gebruikt voor"
-    id="id-81376">
+    name="wordt gebruikt voor"
+    id="id-81376"
+    documentation="&#xA;&#xA;De door de gemeente geregistreerde referentiecomponenten, waarvoor het pakket of de pakketversie gebruikt wordt.">
   <properties
       key="Object ID"
       value="6cd27e43-66b2-4b40-8801-41b98267e8ae"/>
+  <properties
+      key="Object ID"
+      value="5b6ed42d-9595-4dd0-a2a3-035616598242"/>
+  <properties
+      key="Object ID"
+      value="4689ee51-1cbf-44d5-92a1-35ceb1f851b0"/>
   <source
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_id-80982.xml#id-80982"/>

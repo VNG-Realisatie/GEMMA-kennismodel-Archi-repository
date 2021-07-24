@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Referentiecomponent"
     id="id-81280"
-    documentation="Definitie: een referentiecomponent is een type applicatiecomponent.&#xA;&#xA;De ArchiMate definitie van een applicatiecomponent is: Een modulair, zelfstandig inzetbaar en vervangbaar deel van een systeem, dat zijn functionaliteit aanbiedt via goed gedefinieerde interfaces. Applicatiecomponenten stellen functionaliteit beschikbaar, die gebruikt wordt om de applicatiediensten mee te leveren. ">
+    documentation="Een referentiecomponent is een type applicatiecomponent. Een applicatiecomponent is een modulair, zelfstandig inzetbaar en vervangbaar deel van een systeem, dat zijn functionaliteit aanbiedt via goed gedefinieerde interfaces. Applicatiecomponenten stellen functionaliteit beschikbaar, die gebruikt wordt om de applicatiediensten mee te leveren. &#xD;&#xA;&#xD;&#xA;Eigenschappen van de referentiecomponent:&#xD;&#xA;* GEMMA type = 'Referentiecomponent'&#xD;&#xA;* GEMMA status - Status van de referentiecomponent in de GEMMA. Alleen referentiecomponenten met status 'In gebruik' worden opgenomen in de Softwarecatalogus">
   <properties
       key="Toelichting"
       value="Bron: GEMMA 2.0"/>
