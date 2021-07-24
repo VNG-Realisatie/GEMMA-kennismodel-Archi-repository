@@ -626,7 +626,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-81272"
-      targetConnections="id-81316 id-81266 id-81270"
+      targetConnections="id-81316 id-81270"
       font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
       lineColor="#000000"
       fillColor="#b7dee8">
@@ -777,7 +777,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-81276"
-      targetConnections="id-81277 id-81288 id-81300"
+      targetConnections="id-81288 id-81300 id-81277"
       font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
       lineColor="#000000"
       fillColor="#ccccff">
@@ -826,19 +826,19 @@
       type="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-81266"
+        id="id-81302"
         font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
         lineColor="#000000"
         source="id-81279"
-        target="id-81272">
+        target="id-81264">
       <bendpoints
           startX="1"
-          startY="61"
+          startY="-52"
           endX="287"
           endY="1"/>
       <archimateRelationship
-          xsi:type="archimate:AssignmentRelationship"
-          href="AssignmentRelationship_id-81267.xml#id-81267"/>
+          xsi:type="archimate:RealizationRelationship"
+          href="RealizationRelationship_id-81303.xml#id-81303"/>
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
@@ -855,22 +855,6 @@
       <archimateRelationship
           xsi:type="archimate:RealizationRelationship"
           href="RealizationRelationship_id-81278.xml#id-81278"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-81302"
-        font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
-        lineColor="#000000"
-        source="id-81279"
-        target="id-81264">
-      <bendpoints
-          startX="1"
-          startY="-52"
-          endX="287"
-          endY="1"/>
-      <archimateRelationship
-          xsi:type="archimate:RealizationRelationship"
-          href="RealizationRelationship_id-81303.xml#id-81303"/>
     </sourceConnections>
     <bounds
         x="633"
