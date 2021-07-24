@@ -1,0 +1,15 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Standaard"
+    id="id-81077"
+    documentation="Een standaard is een afspraak tussen organisaties of afdelingen om in specifieke situaties gebruik te maken van een bepaald voorgedefinieerd formaat of protocol.">
+  <properties
+      key="Toelichting"
+      value="Bron: NORA 3.0"/>
+  <properties
+      key="GEMMA type"
+      value="Standaard"/>
+  <properties
+      key="Object ID"
+      value="f144971a-c7cb-43b6-a461-56e4cdea56a0"/>
+</archimate:Constraint>
