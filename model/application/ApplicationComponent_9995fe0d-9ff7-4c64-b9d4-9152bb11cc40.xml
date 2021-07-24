@@ -1,5 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Referentieregister"
-    id="9995fe0d-9ff7-4c64-b9d4-9152bb11cc40"
-    documentation="Definitie: een referentieregister is een type applicatiecomponent.&#xD;&#xA;&#xD;&#xA;De ArchiMate definitie van een applicatiecomponent is: Een modulair, zelfstandig inzetbaar en vervangbaar deel van een systeem, dat zijn functionaliteit aanbiedt via goed gedefinieerde interfaces. Applicatiecomponenten stellen functionaliteit beschikbaar, die gebruikt wordt om de applicatiediensten mee te leveren. "/>

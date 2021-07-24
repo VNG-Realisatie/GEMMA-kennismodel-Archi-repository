@@ -1,6 +1,7 @@
 <archimate:CompositionRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="verplicht (als aanbieder)"
     id="5b98111a-3930-42f7-ae8d-624b3f45139d">
   <source
       xsi:type="archimate:ApplicationComponent"

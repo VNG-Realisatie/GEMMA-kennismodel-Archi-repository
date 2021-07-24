@@ -204,7 +204,7 @@
         height="47"/>
     <archimateElement
         xsi:type="archimate:Constraint"
-        href="Constraint_id-80988.xml#id-80988"/>
+        href="Constraint_id-81077.xml#id-81077"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -399,7 +399,7 @@
         target="id-1a537d322b2348fabbfd857fcff51fac">
       <archimateRelationship
           xsi:type="archimate:AssignmentRelationship"
-          href="AssignmentRelationship_id-80994.xml#id-80994"/>
+          href="AssignmentRelationship_id-80977.xml#id-80977"/>
     </sourceConnections>
     <bounds
         x="300"
@@ -624,7 +624,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-1a537d322b2348fabbfd857fcff51fac"
-      targetConnections="id-81545 id-81522 id-81525">
+      targetConnections="id-81522 id-81525 id-81545">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-81522"

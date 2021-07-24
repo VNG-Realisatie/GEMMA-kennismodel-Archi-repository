@@ -98,7 +98,7 @@
     </sourceConnections>
     <bounds
         x="60"
-        y="520"
+        y="450"
         width="371"
         height="61"/>
     <archimateElement
@@ -111,7 +111,7 @@
       targetConnections="id-4a301d479d954371a7392ecb11c74fc0 id-20365f3f46bd421c8493741ca3cf38e0">
     <bounds
         x="380"
-        y="270"
+        y="260"
         width="141"
         height="61"/>
     <archimateElement

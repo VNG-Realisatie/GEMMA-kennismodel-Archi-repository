@@ -1,7 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Referentie-afnemer"
-    id="id-87d2ea4ee8f94f31a4d7f34280f9c9ca">
+    name="Referentieafnemer"
+    id="id-87d2ea4ee8f94f31a4d7f34280f9c9ca"
+    documentation="Een referentiecomponent met een beperkte functie. Eindigt (voorlopig) op -component">
   <properties
       key="Object ID"
       value="f139963c-b96f-4d54-a02d-17be79b1a191"/>

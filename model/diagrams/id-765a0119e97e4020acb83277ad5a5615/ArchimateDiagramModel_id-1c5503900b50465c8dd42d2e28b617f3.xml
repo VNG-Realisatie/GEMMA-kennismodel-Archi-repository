@@ -60,7 +60,7 @@
         height="61"/>
     <archimateElement
         xsi:type="archimate:Constraint"
-        href="Constraint_id-80988.xml#id-80988"/>
+        href="Constraint_id-81077.xml#id-81077"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelGroup"
@@ -106,7 +106,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-8c36f9c3fbd54ef293f5ab93f2721277"
-        targetConnections="id-f7f51747557d44d2af414d1417202add id-860c508e578945ea88ac5bc201c7fad2 id-82f131f41eea479aa21598d0af668eb5 id-acc5f421dab241e984bdbcd2b8b29ca6 id-fc5fb28be0c442cfa27d9e0ba935bd14"
+        targetConnections="id-860c508e578945ea88ac5bc201c7fad2 id-82f131f41eea479aa21598d0af668eb5 id-acc5f421dab241e984bdbcd2b8b29ca6 id-fc5fb28be0c442cfa27d9e0ba935bd14 id-f7f51747557d44d2af414d1417202add"
         font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
         lineColor="#000000"
         fillColor="#b7dee8"
@@ -176,6 +176,15 @@
         type="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-d0413131030a4da2907731114aabd968"
+          source="id-c1794376f5834e92a5e47fc2507068ed"
+          target="id-90890e5ada8d4b589b76133df90f9b62">
+        <archimateRelationship
+            xsi:type="archimate:RealizationRelationship"
+            href="RealizationRelationship_id-81016.xml#id-81016"/>
+      </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-f7f51747557d44d2af414d1417202add"
           font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
           lineColor="#000000"
@@ -183,16 +192,7 @@
           target="id-8c36f9c3fbd54ef293f5ab93f2721277">
         <archimateRelationship
             xsi:type="archimate:AssignmentRelationship"
-            href="AssignmentRelationship_id-80994.xml#id-80994"/>
-      </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-d0413131030a4da2907731114aabd968"
-          source="id-c1794376f5834e92a5e47fc2507068ed"
-          target="id-90890e5ada8d4b589b76133df90f9b62">
-        <archimateRelationship
-            xsi:type="archimate:RealizationRelationship"
-            href="RealizationRelationship_id-81016.xml#id-81016"/>
+            href="AssignmentRelationship_id-80977.xml#id-80977"/>
       </sourceConnections>
       <bounds
           x="210"
