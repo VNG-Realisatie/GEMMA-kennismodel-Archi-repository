@@ -3,9 +3,12 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="is een"
     id="id-e8cc83bde52043238b25b60f12ae7367">
+  <properties
+      key="Object ID"
+      value="eb300f8f-38d0-485e-a83a-d55a51a23ede"/>
   <source
       xsi:type="archimate:ApplicationComponent"
-      href="ApplicationComponent_id-81283.xml#id-81283"/>
+      href="ApplicationComponent_id-80971.xml#id-80971"/>
   <target
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_id-81341.xml#id-81341"/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service-component"
+    id="id-1f82794f5a8a4ec0a04f085755c68d21"
+    documentation="Component voor  toegang tot data of andere service (API's)"/>

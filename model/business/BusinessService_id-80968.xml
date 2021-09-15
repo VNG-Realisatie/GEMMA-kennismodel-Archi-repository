@@ -1,11 +1,11 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Bedrijfsservice"
+    name="Buitengemeentelijke dienst"
     id="id-80968"
-    documentation="Een buitengemeentelijk dienst die (indirect) gebruik maakt van een buitengemeentelijk component.">
+    documentation="Een buitengemeentelijk dienst die (indirect) gebruik maakt van een buitengemeentelijk component.&#xD;&#xA;&#xD;&#xA;Eigenschappen van een buitengemeentelijke dienst&#xD;&#xA;* GEMMA type = 'Buitengemeentelijke dienst'">
   <properties
       key="Toelichting"
-      value="Eigenschappen van een buitengemeentelijke dienst * Naam - Naam van de buitengemeentelijke dienst * Documentatie - definitie van de buitengemeentelijke dienst * Object ID - Unieke sleutel van buitengemeentelijke dienst, GUID overgenomen uit KING architectuurtool * GEMMA type = 'Buitengemeentelijke dienst'"/>
+      value="Bron: GEMMA 2"/>
   <properties
       key="Object ID"
       value="cb037b04-8570-4165-9457-2e1d6407f593"/>

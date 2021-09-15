@@ -1,7 +1,7 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Afgeleide aanbevolen of verplichte standaardversie"
+    name="Afgeleide standaardversie refcomp"
     id="id-81384"
     documentation="Dit is een afgeleide relatie die wordt aangemaakt en doorgeven aan de Softwarecatalogus.&#xA;&#xA;Regel voor afleiden:&#xA;* Als een referentiecomponent een &quot;Aanbevolen of verplicht&quot; relatie met een standaard heeft, maak dan een &quot;Aanbevolen of verplicht&quot; relatie met alle onderliggende standaardversies waarvoor geldt dat de GEMMA status in gebruik is.&#xA;* Deze relatie bestaat niet in het model, alleen in de Softwarecatalogus ">
   <properties
@@ -12,7 +12,7 @@
       value="85d6e92f-95d4-4f00-9c4a-1bf3b8ba8413"/>
   <source
       xsi:type="archimate:ApplicationComponent"
-      href="ApplicationComponent_id-81280.xml#id-81280"/>
+      href="ApplicationComponent_id-243e822c7020403fa367d6e1b9df7fb5.xml#id-243e822c7020403fa367d6e1b9df7fb5"/>
   <target
       xsi:type="archimate:Constraint"
       href="Constraint_id-80986.xml#id-80986"/>

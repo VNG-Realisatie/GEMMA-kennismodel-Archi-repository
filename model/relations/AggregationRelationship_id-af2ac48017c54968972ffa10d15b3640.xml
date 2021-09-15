@@ -6,8 +6,8 @@
       key="Object ID"
       value="5efbcf34-eb5e-452a-9f84-b8b40ad3ad11"/>
   <source
-      xsi:type="archimate:Grouping"
-      href="Grouping_id-0605cee8819b41e78144939f6d1dacee.xml#id-0605cee8819b41e78144939f6d1dacee"/>
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_id-f29a03888c9640ed810c6f61abf48898.xml#id-f29a03888c9640ed810c6f61abf48898"/>
   <target
       xsi:type="archimate:ApplicationFunction"
       href="ApplicationFunction_id-80969.xml#id-80969"/>

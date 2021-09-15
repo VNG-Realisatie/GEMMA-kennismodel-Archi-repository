@@ -539,7 +539,7 @@
           endY="131"/>
       <archimateRelationship
           xsi:type="archimate:ServingRelationship"
-          href="ServingRelationship_id-81357.xml#id-81357"/>
+          href="ServingRelationship_id-80996.xml#id-80996"/>
     </sourceConnections>
     <bounds
         x="567"
@@ -624,7 +624,7 @@
         height="53"/>
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
-        href="ApplicationComponent_id-81280.xml#id-81280"/>
+        href="ApplicationComponent_id-243e822c7020403fa367d6e1b9df7fb5.xml#id-243e822c7020403fa367d6e1b9df7fb5"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -719,10 +719,32 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-81591"
-      targetConnections="id-81579 id-81590"
+      targetConnections="id-81579 id-81590 id-895348cb37c04ae7930f3d3e0d7fdfdc"
       font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
       lineColor="#000000"
       fillColor="#ccccff">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-895348cb37c04ae7930f3d3e0d7fdfdc"
+        source="id-81591"
+        target="id-81591">
+      <bendpoints
+          startX="31"
+          startY="-53"
+          endX="31"
+          endY="-53"/>
+      <bendpoints
+          startX="101"
+          startY="-53"
+          endX="101"
+          endY="-53"/>
+      <bendpoints
+          startX="100"
+          endX="100"/>
+      <archimateRelationship
+          xsi:type="archimate:SpecializationRelationship"
+          href="SpecializationRelationship_id-81076.xml#id-81076"/>
+    </sourceConnections>
     <bounds
         x="313"
         y="707"
@@ -778,7 +800,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-81597"
-      targetConnections="id-81584 id-81586 id-81582 id-81574"
+      targetConnections="id-81584 id-81582 id-81574 id-81586"
       font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
       lineColor="#000000"
       fillColor="#daeef3"
@@ -899,7 +921,7 @@
         target="id-81597">
       <archimateRelationship
           xsi:type="archimate:SpecializationRelationship"
-          href="SpecializationRelationship_id-81342.xml#id-81342"/>
+          href="SpecializationRelationship_id-e8cc83bde52043238b25b60f12ae7367.xml#id-e8cc83bde52043238b25b60f12ae7367"/>
     </sourceConnections>
     <bounds
         x="100"

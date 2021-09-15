@@ -1,7 +1,7 @@
 <archimate:ServingRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Verplicht (als afnemer)"
+    name="Verplicht / Aanbevolen"
     id="id-2f63e4cb27894ba49f9e87e141ac09e2">
   <properties
       key="Object ID"
@@ -11,5 +11,5 @@
       href="ApplicationInterface_id-81344.xml#id-81344"/>
   <target
       xsi:type="archimate:ApplicationComponent"
-      href="ApplicationComponent_id-80971.xml#id-80971"/>
+      href="ApplicationComponent_id-cdab1d335dbe4244bb18cdb13099dadd.xml#id-cdab1d335dbe4244bb18cdb13099dadd"/>
 </archimate:ServingRelationship>

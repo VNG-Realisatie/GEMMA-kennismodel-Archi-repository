@@ -1,7 +1,8 @@
 <archimate:Constraint
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Beperking"
-    id="id-3a3320c04ff048cda3151efdd632b0be">
+    id="id-3a3320c04ff048cda3151efdd632b0be"
+    documentation="Beschrijving met beperkingen van de ontwerpruimte voor het realiseren van 'iets'">
   <properties
       key="Object ID"
       value="81b56329-6c2c-494a-be90-d1431484cf30"/>

@@ -1,11 +1,11 @@
 <archimate:RealizationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="realiseert"
+    name="ondersteunt"
     id="id-81289">
   <properties
       key="Object ID"
-      value="dcbd87a6-bd84-44cd-b702-6166b5cdf9c8"/>
+      value="d75e55e2-05c7-4729-b032-db579cc3a2e8"/>
   <source
       xsi:type="archimate:ApplicationService"
       href="ApplicationService_id-80972.xml#id-80972"/>

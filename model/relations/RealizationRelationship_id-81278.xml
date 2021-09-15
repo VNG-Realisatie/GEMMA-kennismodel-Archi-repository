@@ -1,14 +1,18 @@
 <archimate:RealizationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="realiseert"
-    id="id-81278">
+    name="Verplicht / Aanbevolen"
+    id="id-81278"
+    documentation="Met de 'Verplicht / Aanbevolen' relatie wordt voor een referentiecomponent voorgeschreven welke standaard verplicht of aanbevolen is.&#xD;&#xA;&#xD;&#xA;Eigenschappen van de relatie 'aanbevolen of verplichte standaard'&#xD;&#xA;* Verbindingsrol = 'Aanbevolen' of 'Verplicht'">
+  <properties
+      key="Toelichting"
+      value="Met deze relatie word vastgelegd wanneer - voor welke referentiecomponent - een standaard verplicht of aanbevolen is. Van de verplichte standaard wordt een pakket geacht de in gebruik zijnde standaardversie(s) te ondersteunen. Eigenschappen van de relatie 'aanbevolen of verplichte standaard' * Verbindingsrol = 'Aanbevolen' of 'Verplicht' * Object ID - Unieke sleutel van standaardversie, GUID overgenomen uit KING architectuurtool"/>
   <properties
       key="Object ID"
-      value="cd3caa27-9a06-4f3e-aa58-d33f27e28460"/>
+      value="da4abf03-1a1c-4100-94ce-3a4d2bb67599"/>
   <source
       xsi:type="archimate:ApplicationComponent"
-      href="ApplicationComponent_id-81280.xml#id-81280"/>
+      href="ApplicationComponent_id-243e822c7020403fa367d6e1b9df7fb5.xml#id-243e822c7020403fa367d6e1b9df7fb5"/>
   <target
       xsi:type="archimate:Constraint"
       href="Constraint_id-81077.xml#id-81077"/>

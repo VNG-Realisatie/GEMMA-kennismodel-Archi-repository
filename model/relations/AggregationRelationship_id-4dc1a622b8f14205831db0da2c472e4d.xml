@@ -1,6 +1,7 @@
 <archimate:AggregationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="groepeert"
     id="id-4dc1a622b8f14205831db0da2c472e4d">
   <properties
       key="Object ID"

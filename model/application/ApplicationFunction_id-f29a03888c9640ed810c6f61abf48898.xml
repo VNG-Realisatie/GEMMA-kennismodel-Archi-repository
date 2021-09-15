@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Doelgroep"
+    id="id-f29a03888c9640ed810c6f61abf48898"
+    documentation="De doelgroep is een ordening van de gemeentelijke applicatiefuncties naar de groep gebruikers van deze functies. Een doelgroep is bijvoorbeeld de inwoners en ondernemers&#xA;&#xD;&#xA;Eigenchappen van een doelgroep:&#xD;&#xA;* GEMMA type ='Groep'&#xD;&#xA;* GEMMA subtype ='Doelgroep'">
+  <properties
+      key="Toelichting"
+      value="Bron: GEMMA 2"/>
+  <properties
+      key="Object ID"
+      value="4807ff94-8f06-4a1c-ae4c-fcc9955e4eda"/>
+  <properties
+      key="GEMMA type"
+      value="Groep"/>
+  <properties
+      key="GEMMA subtype"
+      value="Doelgroep"/>
+</archimate:ApplicationFunction>

@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="GEMMA modelleerafspraken producten en services"
+    name="GEMMA modellering product en service"
     id="id-457565941d874ef0a08a671f23832821">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -17,7 +17,7 @@
           href="ServingRelationship_id-81339.xml#id-81339"/>
     </sourceConnections>
     <bounds
-        x="280"
+        x="310"
         y="260"
         width="141"
         height="61"/>
@@ -30,7 +30,7 @@
       id="id-b5030ba98983475a8ca59dfc7c92eaa9"
       targetConnections="id-b697c176bee3487c86e2e53689068ba3">
     <bounds
-        x="280"
+        x="310"
         y="30"
         width="141"
         height="61"/>
@@ -52,7 +52,7 @@
           href="AssociationRelationship_id-81159.xml#id-81159"/>
     </sourceConnections>
     <bounds
-        x="280"
+        x="310"
         y="150"
         width="141"
         height="61"/>
@@ -113,13 +113,26 @@
           href="ServingRelationship_id-6efbc6266331418ea0b19d97e798be01.xml#id-6efbc6266331418ea0b19d97e798be01"/>
     </sourceConnections>
     <bounds
-        x="280"
+        x="310"
         y="370"
         width="141"
         height="61"/>
     <archimateElement
         xsi:type="archimate:TechnologyService"
         href="TechnologyService_id-daa817da8ea5439ba8b5cae576798392.xml#id-daa817da8ea5439ba8b5cae576798392"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-1cdce3e74e474b9faa65ebb925b54539"
+      fillColor="#fef3b6">
+    <bounds
+        x="60"
+        y="30"
+        width="171"
+        height="61"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_id-200b7e807ff646b4a9a50e85cdf49b1e.xml#id-200b7e807ff646b4a9a50e85cdf49b1e"/>
   </children>
   <properties
       key="Publiceren"

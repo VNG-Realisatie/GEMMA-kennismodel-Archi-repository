@@ -1,7 +1,7 @@
 <archimate:SpecializationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="wordt gebruikt voor"
+    name="is een"
     id="id-1ffda64649ef4a85a315e8302c472628">
   <properties
       key="Object ID"
@@ -11,5 +11,5 @@
       href="ApplicationComponent_id-0ea699472cbd4a4eb81d3ec09cd00f04.xml#id-0ea699472cbd4a4eb81d3ec09cd00f04"/>
   <target
       xsi:type="archimate:ApplicationComponent"
-      href="ApplicationComponent_id-81280.xml#id-81280"/>
+      href="ApplicationComponent_id-80982.xml#id-80982"/>
 </archimate:SpecializationRelationship>
