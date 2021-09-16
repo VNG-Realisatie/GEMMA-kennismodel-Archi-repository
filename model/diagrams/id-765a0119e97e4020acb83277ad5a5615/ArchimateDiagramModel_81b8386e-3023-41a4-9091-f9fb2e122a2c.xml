@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="GEMMA specialisaties applicatiecomponent"
-    id="81b8386e-3023-41a4-9091-f9fb2e122a2c">
+    id="81b8386e-3023-41a4-9091-f9fb2e122a2c"
+    documentation="Deze view toont alle mogelijke specialisaties van de applicatiecomponent in de GEMMA. De specialisaties worden gebruikt voor het definieren van specifieke gemeentelijke applicaties en voor het kunnen definieren van de rol die een applicatie heeft in een koppeling en of dit een interne of externe koppeling is (een koppeling met een buitengemeentelijke component).&#xD;&#xA;&#xD;&#xA;Tevens wordt in deze view een relatie gelegd tussen de GEMMA referentiecomponent en de in de Common Ground onderkende componenten en lagen.">
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="id-b6f0766c339a459888ed2eb84fe8d907"

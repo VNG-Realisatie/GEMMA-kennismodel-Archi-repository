@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Buitengemeentelijke afnemer"
     id="id-cdab1d335dbe4244bb18cdb13099dadd"
-    documentation="Een referentiecomponent met een beperkte functie. Eindigt (voorlopig) op -component">
+    documentation="Een landelijke- of sectorale afnemer van een gemeentelijke applicatiedienst.">
   <properties
       key="Object ID"
       value="f139963c-b96f-4d54-a02d-17be79b1a191"/>

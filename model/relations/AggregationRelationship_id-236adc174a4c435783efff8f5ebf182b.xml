@@ -1,6 +1,7 @@
 <archimate:AggregationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="hergebruikt"
     id="id-236adc174a4c435783efff8f5ebf182b">
   <source
       xsi:type="archimate:ApplicationComponent"

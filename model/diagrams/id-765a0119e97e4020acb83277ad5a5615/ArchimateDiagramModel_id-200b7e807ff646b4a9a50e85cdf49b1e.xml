@@ -32,9 +32,10 @@
         source="id-676f97f655f249c79df17d3c752ab4ed"
         target="id-fa65c0360332448dbb2e1bb3b76d2ae2">
       <bendpoints
-          startX="-10"
-          startY="490"
-          endX="505"/>
+          startX="-11"
+          startY="472"
+          endX="514"
+          endY="-18"/>
       <archimateRelationship
           xsi:type="archimate:AggregationRelationship"
           href="AggregationRelationship_id-4e910671d9ed4b9bb1b99d8525d916ef.xml#id-4e910671d9ed4b9bb1b99d8525d916ef"/>
@@ -252,14 +253,14 @@
           name="labelExpression"
           value="${wordwrap:12:${name}}"/>
       <bendpoints
-          startX="-120"
+          startX="110"
           startY="-20"
-          endX="-120"
+          endX="110"
           endY="-20"/>
       <bendpoints
-          startX="-110"
+          startX="110"
           startY="-50"
-          endX="-110"
+          endX="110"
           endY="-50"/>
       <bendpoints
           startX="50"
@@ -271,8 +272,8 @@
           href="AssociationRelationship_id-81190.xml#id-81190"/>
     </sourceConnections>
     <bounds
-        x="931"
-        y="148"
+        x="1019"
+        y="502"
         width="141"
         height="61"/>
     <archimateElement
@@ -292,6 +293,10 @@
         id="id-a93d59d33372466fbe9721975d6c2dd5"
         source="id-b5233d88fed841c784d5082c4100cb49"
         target="id-716556f329a24fb0b4caa84eb35495b4">
+      <bendpoints
+          startX="355"
+          endX="1"
+          endY="-342"/>
       <archimateRelationship
           xsi:type="archimate:AccessRelationship"
           href="AccessRelationship_id-81195.xml#id-81195"/>
@@ -301,6 +306,11 @@
         id="id-06c528a3c42d4475b346d58295553ea6"
         source="id-b5233d88fed841c784d5082c4100cb49"
         target="id-1b082a6f1ccf48afbcbbd12ada3b836d">
+      <bendpoints
+          startX="-50"
+          startY="50"
+          endX="-76"
+          endY="-168"/>
       <archimateRelationship
           xsi:type="archimate:AssignmentRelationship"
           href="AssignmentRelationship_id-119c32e6c66545b088da3546a2d92a9d.xml#id-119c32e6c66545b088da3546a2d92a9d"/>
@@ -316,14 +326,14 @@
           name="labelExpression"
           value="${wordwrap:12:${name}}"/>
       <bendpoints
-          startX="100"
+          startX="115"
           startY="-20"
-          endX="100"
+          endX="115"
           endY="-20"/>
       <bendpoints
-          startX="100"
+          startX="115"
           startY="-50"
-          endX="100"
+          endX="115"
           endY="-50"/>
       <bendpoints
           startX="50"
@@ -335,9 +345,9 @@
           href="SpecializationRelationship_id-81193.xml#id-81193"/>
     </sourceConnections>
     <bounds
-        x="301"
-        y="148"
-        width="141"
+        x="590"
+        y="160"
+        width="191"
         height="61"/>
     <archimateElement
         xsi:type="archimate:BusinessRole"
@@ -365,8 +375,8 @@
           href="AggregationRelationship_id-81181.xml#id-81181"/>
     </sourceConnections>
     <bounds
-        x="31"
-        y="148"
+        x="299"
+        y="162"
         width="141"
         height="61"/>
     <archimateElement
@@ -395,9 +405,9 @@
           href="AssignmentRelationship_id-81187.xml#id-81187"/>
     </sourceConnections>
     <bounds
-        x="301"
-        y="18"
-        width="141"
+        x="589"
+        y="32"
+        width="191"
         height="61"/>
     <archimateElement
         xsi:type="archimate:BusinessActor"
@@ -411,8 +421,8 @@
       fillColor="#ccccff"
       textPosition="1">
     <bounds
-        x="31"
-        y="18"
+        x="300"
+        y="30"
         width="141"
         height="61"/>
     <archimateElement
@@ -456,10 +466,10 @@
           name="labelExpression"
           value="${wordwrap:12:${name}}"/>
       <bendpoints
-          startX="225"
-          startY="20"
-          endX="-50"
-          endY="-280"/>
+          startX="334"
+          startY="2"
+          endX="-40"
+          endY="-300"/>
       <archimateRelationship
           xsi:type="archimate:AccessRelationship"
           href="AccessRelationship_id-81324.xml#id-81324"/>
@@ -605,8 +615,8 @@
           href="RealizationRelationship_id-81321.xml#id-81321"/>
     </sourceConnections>
     <bounds
-        x="941"
-        y="1048"
+        x="1030"
+        y="1050"
         width="141"
         height="61"/>
     <children
@@ -780,10 +790,6 @@
         id="id-c09da65c777c43889fb3c6c2a095757b"
         source="id-24f9940c172f4cc691e98e50bebcad38"
         target="id-716556f329a24fb0b4caa84eb35495b4">
-      <bendpoints
-          startX="175"
-          endX="-50"
-          endY="350"/>
       <archimateRelationship
           xsi:type="archimate:AccessRelationship"
           href="AccessRelationship_id-81171.xml#id-81171"/>
@@ -1016,10 +1022,10 @@
         target="id-9527edeafffe406dbd249ff1af2984ba"
         type="2"/>
     <bounds
-        x="1051"
-        y="858"
-        width="201"
-        height="141"/>
+        x="870"
+        y="820"
+        width="181"
+        height="161"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -1077,7 +1083,7 @@
       textPosition="1">
     <bounds
         x="10"
-        y="960"
+        y="1170"
         width="141"
         height="61"/>
     <children
@@ -1094,23 +1100,6 @@
     <archimateElement
         xsi:type="archimate:Requirement"
         href="Requirement_id-1550bdff3a5a40c5a256e21ca75311f2.xml#id-1550bdff3a5a40c5a256e21ca75311f2"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-df66276528674d7abdcb88870b4f17f5"
-      textAlignment="1"
-      content="Requirements in projectarchitectuur&#xD;&#xA;- logging - groeperingen van requirements&#xD;&#xA;- omgevingswet: applicatiecomponenten realiseren requirements (ongegroepeerd)">
-    <sourceConnections
-        id="id-fcec0bcded36417b9257797c22e27425"
-        lineWidth="2"
-        source="id-df66276528674d7abdcb88870b4f17f5"
-        target="id-b503194e82ba4e9ea21f295e5a036a34"
-        type="2"/>
-    <bounds
-        x="91"
-        y="408"
-        width="161"
-        height="181"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -1347,8 +1336,8 @@
       textAlignment="1"
       content="In het kennismodel wordt het gebruik van groepen niet getoond, dit houdt de plaat overzichtelijk&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Voor de GEMMA geldt:&#xD;&#xA;- Alle concepten kunnen worden gegroepeerd door een groep.&#xD;&#xA;- Alle concepten kunnen zichzelf aggregeren">
     <bounds
-        x="11"
-        y="1138"
+        x="10"
+        y="30"
         width="251"
         height="221"/>
   </children>
@@ -1360,13 +1349,30 @@
       textAlignment="1"
       fillColor="#ffffff">
     <bounds
-        x="41"
-        y="1198"
+        x="50"
+        y="90"
         width="141"
         height="61"/>
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_id-bd33c6c868514f7780d80f62179cb315.xml#id-bd33c6c868514f7780d80f62179cb315"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-df66276528674d7abdcb88870b4f17f5"
+      textAlignment="1"
+      content="Requirements in projectarchitectuur&#xD;&#xA;- logging - groeperingen van requirements&#xD;&#xA;- omgevingswet: applicatiecomponenten realiseren requirements (ongegroepeerd)">
+    <sourceConnections
+        id="id-fcec0bcded36417b9257797c22e27425"
+        lineWidth="2"
+        source="id-df66276528674d7abdcb88870b4f17f5"
+        target="id-b503194e82ba4e9ea21f295e5a036a34"
+        type="2"/>
+    <bounds
+        x="10"
+        y="1270"
+        width="251"
+        height="81"/>
   </children>
   <properties
       key="Publiceren"
