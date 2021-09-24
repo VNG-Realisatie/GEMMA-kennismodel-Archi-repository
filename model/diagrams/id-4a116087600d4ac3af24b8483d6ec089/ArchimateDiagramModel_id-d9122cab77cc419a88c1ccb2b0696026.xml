@@ -7,8 +7,8 @@
       xsi:type="archimate:DiagramModelReference"
       id="id-d85f132097694cd6aa2238f291359f0f">
     <bounds
-        x="280"
-        y="70"
+        x="90"
+        y="50"
         width="151"
         height="55"/>
     <referencedModel
@@ -21,8 +21,8 @@
       name="Bedrijfsarchitectuur"
       textAlignment="1">
     <bounds
-        x="270"
-        y="150"
+        x="70"
+        y="120"
         width="531"
         height="111"/>
     <children
@@ -30,7 +30,7 @@
         id="id-948232c168454098a1793e6ec419b695">
       <bounds
           x="342"
-          y="36"
+          y="40"
           width="151"
           height="55"/>
       <referencedModel
@@ -42,7 +42,7 @@
         id="id-d64ed2ac2e214ff4ac4300c3a4c0f681">
       <bounds
           x="183"
-          y="34"
+          y="40"
           width="151"
           height="55"/>
       <referencedModel
@@ -54,7 +54,7 @@
         id="id-11fd4b86b7c34503808e38e203c60161">
       <bounds
           x="20"
-          y="30"
+          y="40"
           width="151"
           height="55"/>
       <referencedModel
@@ -68,10 +68,10 @@
       name="Informatiearchitectuur"
       textAlignment="1">
     <bounds
-        x="270"
-        y="280"
-        width="400"
-        height="181"/>
+        x="70"
+        y="250"
+        width="531"
+        height="121"/>
     <children
         xsi:type="archimate:DiagramModelReference"
         id="id-ce6e6511a50c423ebcf31edfde5bef92">
@@ -88,8 +88,8 @@
         xsi:type="archimate:DiagramModelReference"
         id="id-d6745d9de9f94402a03bf7aa91c20636">
       <bounds
-          x="187"
-          y="33"
+          x="180"
+          y="40"
           width="151"
           height="55"/>
       <referencedModel
@@ -100,8 +100,8 @@
         xsi:type="archimate:DiagramModelReference"
         id="id-147dbfa18db147969646daf697e33980">
       <bounds
-          x="20"
-          y="110"
+          x="340"
+          y="40"
           width="151"
           height="55"/>
       <referencedModel
@@ -115,10 +115,10 @@
       name="Projectarchitectuur"
       textAlignment="1">
     <bounds
-        x="269"
-        y="487"
-        width="400"
-        height="140"/>
+        x="70"
+        y="390"
+        width="531"
+        height="131"/>
     <children
         xsi:type="archimate:DiagramModelReference"
         id="id-8f9196fbdb974b33ae74adf740773951">
@@ -148,9 +148,27 @@
       key="drivingView"
       value="true"/>
   <properties
+      key="author"
+      value="Mark Backer"/>
+  <properties
+      key="organisation"
+      value="VNG Realisatie"/>
+  <properties
+      key="paragraphNumber"
+      value="false"/>
+  <properties
       key="renderViewEmbed"
       value="false"/>
   <properties
       key="path"
       value="C:\D-schijf\Data\Dropbox\KING\KING ICT\Archi\Werkbestanden\Documentation\Kennismodel"/>
+  <properties
+      key="includeTableOfAllViews"
+      value="true"/>
+  <properties
+      key="tableOneLineDoc"
+      value="true"/>
+  <properties
+      key="renderViewScale"
+      value="4"/>
 </archimate:ArchimateDiagramModel>

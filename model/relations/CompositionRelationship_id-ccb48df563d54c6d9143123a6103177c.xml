@@ -6,8 +6,8 @@
       key="Object ID"
       value="ec1ecbae-55da-4869-af1d-ea94e45983bd"/>
   <source
-      xsi:type="archimate:SystemSoftware"
-      href="SystemSoftware_id-7df504ffdbca47b3bf66f670fe1bc7db.xml#id-7df504ffdbca47b3bf66f670fe1bc7db"/>
+      xsi:type="archimate:Node"
+      href="Node_id-295f575bc5d14c5a994a32f7d237492e.xml#id-295f575bc5d14c5a994a32f7d237492e"/>
   <target
       xsi:type="archimate:TechnologyInterface"
       href="TechnologyInterface_id-bf1cf8c2d9af4134b8af8f4f769105d9.xml#id-bf1cf8c2d9af4134b8af8f4f769105d9"/>

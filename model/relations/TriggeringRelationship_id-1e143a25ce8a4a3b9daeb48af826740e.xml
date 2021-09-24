@@ -1,6 +1,7 @@
 <archimate:TriggeringRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="leidt tot"
     id="id-1e143a25ce8a4a3b9daeb48af826740e">
   <source
       xsi:type="archimate:ApplicationProcess"

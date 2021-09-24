@@ -599,7 +599,7 @@
               href="RealizationRelationship_id-81293.xml#id-81293"/>
         </sourceConnections>
         <bounds
-            x="820"
+            x="840"
             y="160"
             width="181"
             height="61"/>
@@ -620,7 +620,7 @@
               href="AggregationRelationship_id-230aa71ce1494095aa46eed823a31c83.xml#id-230aa71ce1494095aa46eed823a31c83"/>
         </sourceConnections>
         <bounds
-            x="820"
+            x="840"
             y="60"
             width="181"
             height="61"/>
