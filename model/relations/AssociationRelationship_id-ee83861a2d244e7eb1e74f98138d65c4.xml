@@ -6,6 +6,6 @@
       xsi:type="archimate:DataObject"
       href="DataObject_id-fc52c716e4674a10aaa9b58bc44d0780.xml#id-fc52c716e4674a10aaa9b58bc44d0780"/>
   <target
-      xsi:type="archimate:TriggeringRelationship"
-      href="TriggeringRelationship_id-0295261e279648db95a20e5dcba1af22.xml#id-0295261e279648db95a20e5dcba1af22"/>
+      xsi:type="archimate:FlowRelationship"
+      href="FlowRelationship_id-203c5464f1b145f49a8c8d424f26db57.xml#id-203c5464f1b145f49a8c8d424f26db57"/>
 </archimate:AssociationRelationship>
