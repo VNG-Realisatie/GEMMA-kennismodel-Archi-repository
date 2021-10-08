@@ -299,6 +299,19 @@
         xsi:type="archimate:ArchimateDiagramModel"
         href="ArchimateDiagramModel_id-200b7e807ff646b4a9a50e85cdf49b1e.xml#id-200b7e807ff646b4a9a50e85cdf49b1e"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-d64b924e2368484e94d7329b1798cfe2"
+      lineColor="#4f4f4f"
+      textAlignment="1"
+      fillColor="#ffffff"
+      content="Opm Paul:&#xD;&#xA;- Wordt de Applicatiecomponent herleidt vanuit de Applicatiefunctie? Of kan de Bedrijfsfunctie ook gebruikt worden door een Applicatiecomponent?">
+    <bounds
+        x="720"
+        y="180"
+        width="409"
+        height="133"/>
+  </children>
   <properties
       key="Toelichting"
       value="De modelleerafspraken geven weer hoe het GEMMA 2 architectuurmodel is opgebouwd. De modelleerafspraken helpen bij het beheerbaar en controleerbaar houden van het model. Een voorbeeld van een afspraak is dat de GEMMA bedrijfsfuncties en applicatiefuncties als een hierarchie zijn opgezet, het is niet toegestaan een subfunctie te hergebruiken in meerdere hoofdfuncties. Het model met modelleerafspraken is tevens de documentatie voor het AMEFF exportbestand dat kan worden gedownload op GEMMA Online of met de Softwarecatalogus"/>

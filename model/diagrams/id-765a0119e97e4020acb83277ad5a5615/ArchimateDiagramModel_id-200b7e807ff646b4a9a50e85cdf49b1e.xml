@@ -1732,6 +1732,19 @@
         width="251"
         height="81"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-e16040087df84e4ba25b6b13f077ea72"
+      lineColor="#4f4f4f"
+      textAlignment="1"
+      fillColor="#ffffff"
+      content="Opm Paul:&#xD;&#xA;- Ik mis een serving relatie van de Applicatieservice naar Applicatiecomponent. Uiteraard is die te herleiden vanuit de Applicatiefunctie, maar direct zou wat mij betreft beter zijn.&#xD;&#xA;- Waarom Bedrijfsinteractie verwijderen als Bedrijfssamenwerking blijft? Die 2 zijn aan elkaar gerelateerd?&#xD;&#xA;- De groepering van Requirements in het projectmodel Logging is niet bewust gedaan. Wellicht nog eens bekijken hoe Requirements aan elkaar worden gerelateerd.&#xD;&#xA;- Misschien ook een serving relatie aanleggen tussen Infrastructuurservice en Applicatiecomponent?&#xD;&#xA;- Waarom de term Notificatie? Waaorm niet gewoon Gebeurtenis?">
+    <bounds
+        x="1500"
+        y="660"
+        width="553"
+        height="180"/>
+  </children>
   <properties
       key="Publiceren"
       value="Niet"/>

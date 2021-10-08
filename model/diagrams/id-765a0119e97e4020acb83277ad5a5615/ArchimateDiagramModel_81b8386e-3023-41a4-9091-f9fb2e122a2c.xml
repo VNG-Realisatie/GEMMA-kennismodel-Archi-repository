@@ -329,6 +329,19 @@
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_id-cdab1d335dbe4244bb18cdb13099dadd.xml#id-cdab1d335dbe4244bb18cdb13099dadd"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-370949ad1e344465a38f92665a3d3b0e"
+      lineColor="#4f4f4f"
+      textAlignment="1"
+      fillColor="#ffffff"
+      content="Opm Paul:&#xD;&#xA;GEMMA kent nu de referentiecomponent Servicebuscomponent. Dat is een Applicatiecomponent en kan prima gepositionerd worden als Integratiecomponent. Hoe verhoudt zich dat tot de Systeemsoftware?">
+    <bounds
+        x="984"
+        y="153"
+        width="265"
+        height="145"/>
+  </children>
   <properties
       key="tableOneLineDoc"
       value="true"/>
