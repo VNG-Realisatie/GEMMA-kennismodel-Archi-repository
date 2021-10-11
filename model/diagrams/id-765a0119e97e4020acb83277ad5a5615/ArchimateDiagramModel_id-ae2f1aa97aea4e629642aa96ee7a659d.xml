@@ -650,7 +650,7 @@
       lineColor="#4f4f4f"
       textAlignment="1"
       fillColor="#ffffff"
-      content="Opm Paul:&#xD;&#xA;- Volgens mijj wordt een ketenproces gemodelleerd als er meerdere organisaties aan hetzelfde product werken. Het koppelt de interne bedrijfsprocessen van elke organisatie aan elkaar. Het zou ook aan elkaar gekoppeld kunnen worden door gebruik te maken van een Bedrijfsservice.">
+      content="Opm Paul:&#xD;&#xA;- Volgens mijj wordt een ketenproces gemodelleerd als er meerdere organisaties aan hetzelfde product werken. Het koppelt de interne bedrijfsprocessen van elke organisatie aan elkaar. Het zou ook aan elkaar gekoppeld kunnen worden door gebruik te maken van een Bedrijfsservice.&#xD;&#xA;&#xD;&#xA;=> bespreken. Ook in relatie tot nut en noodzaak bedrijfsinteractie">
     <bounds
         x="864"
         y="36"
@@ -663,7 +663,7 @@
       lineColor="#4f4f4f"
       textAlignment="1"
       fillColor="#ffffff"
-      content="Opm Paul:&#xD;&#xA;Koppelen we Handelingen aan een Applicatieinterface? Dan modelleer je namelijk het gebruik van de API's?">
+      content="Opm Paul:&#xD;&#xA;Koppelen we Handelingen aan een Applicatieinterface? Dan modelleer je namelijk het gebruik van de API's?&#xD;&#xA;&#xD;&#xA;=> deze moet je even uitleggen. Hoe verhoudt dit zich tot applicatieprocessen?">
     <bounds
         x="432"
         y="792"

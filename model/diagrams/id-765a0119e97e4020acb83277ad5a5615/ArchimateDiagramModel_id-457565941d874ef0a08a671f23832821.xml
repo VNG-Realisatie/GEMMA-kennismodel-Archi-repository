@@ -140,12 +140,12 @@
       lineColor="#4f4f4f"
       textAlignment="1"
       fillColor="#ffffff"
-      content="Opm Paul:&#xD;&#xA;- Een groepering van Bedrijfsservices snap ik. Die andere 2 niet. Misschien ipv de Applicatieservice en de Infrastructuurservice de Bedrijfsobjecten groeperen? Samen met de Bedrijfsservices vormen die een Product?">
+      content="Opm Paul:&#xD;&#xA;- Een groepering van Bedrijfsservices snap ik. Die andere 2 niet. Misschien ipv de Applicatieservice en de Infrastructuurservice de Bedrijfsobjecten groeperen? Samen met de Bedrijfsservices vormen die een Product?&#xD;&#xA;> MB: een product kan bestaan uit bedrijfsservices en/of applicatieservices en/of infraservices. &#xD;&#xA;Bijvoorbeeld de SDG invoervoorziening is straks een applicatieservice die VNG aanbiedt aan gemeenten. ">
     <bounds
         x="516"
         y="210"
         width="337"
-        height="127"/>
+        height="171"/>
   </children>
   <properties
       key="Publiceren"

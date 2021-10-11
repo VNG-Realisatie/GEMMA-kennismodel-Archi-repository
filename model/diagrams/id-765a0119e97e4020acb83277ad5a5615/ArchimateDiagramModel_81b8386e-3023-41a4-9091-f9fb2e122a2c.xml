@@ -335,12 +335,12 @@
       lineColor="#4f4f4f"
       textAlignment="1"
       fillColor="#ffffff"
-      content="Opm Paul:&#xD;&#xA;GEMMA kent nu de referentiecomponent Servicebuscomponent. Dat is een Applicatiecomponent en kan prima gepositionerd worden als Integratiecomponent. Hoe verhoudt zich dat tot de Systeemsoftware?">
+      content="Opm Paul:&#xD;&#xA;GEMMA kent nu de referentiecomponent Servicebuscomponent. Dat is een Applicatiecomponent en kan prima gepositionerd worden als Integratiecomponent. Hoe verhoudt zich dat tot de Systeemsoftware?&#xD;&#xA;&#xD;&#xA;> MB: Dat verhoudt zich niet. De servicebuscomponent zou gemodelleerd moeten worden als systeemsoftware. Er zijn alleen pragmatische redenen om dit niet door te voeren, dit heeft namelijk impact op de Softwarecatalogus. &#xD;&#xA;&#xD;&#xA;Kijk eens rechtsonderin de view &quot;RC00 Alle referentiecomponenten&quot;">
     <bounds
         x="984"
         y="153"
-        width="265"
-        height="145"/>
+        width="287"
+        height="238"/>
   </children>
   <properties
       key="tableOneLineDoc"

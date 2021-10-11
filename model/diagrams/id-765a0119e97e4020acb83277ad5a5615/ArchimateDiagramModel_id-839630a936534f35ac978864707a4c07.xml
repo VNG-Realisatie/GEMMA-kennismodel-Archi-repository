@@ -305,12 +305,12 @@
       lineColor="#4f4f4f"
       textAlignment="1"
       fillColor="#ffffff"
-      content="Opm Paul:&#xD;&#xA;- Wordt de Applicatiecomponent herleidt vanuit de Applicatiefunctie? Of kan de Bedrijfsfunctie ook gebruikt worden door een Applicatiecomponent?">
+      content="Opm Paul:&#xD;&#xA;- Wordt de Applicatiecomponent herleidt vanuit de Applicatiefunctie? Of kan de Bedrijfsfunctie ook gebruikt worden door een Applicatiecomponent?&#xD;&#xA;> MB: in de GEMMA is de relatie van applicatiecomponent (of eigenlijk de referentiecomponent) vastgelegd via de applicatiefuncties. Afgeleide relaties zijn ook hier weer niet uitgewerkt in de GEMMA om redenen van overzichtelijkheid en beheerbaarheid. &#xD;&#xA;&#xD;&#xA;Volgens mij kan bijvoorbeeld BizzDesign deze relatie automatisch afleiden, Archi kan dat (nog) niet.&#xD;&#xA;De SWC heeft juist de relatie van refcomp naar bedrijfsfunctie nodig voor zijn filters/facets. Deze afgeleide relaties worden met een maatwerk script (van Toine) door de wiki afgeleid. &#xD;&#xA;Zie de view &quot;Softwarecatalogus afgeleide relaties&quot; ">
     <bounds
         x="720"
-        y="180"
+        y="130"
         width="409"
-        height="133"/>
+        height="261"/>
   </children>
   <properties
       key="Toelichting"
