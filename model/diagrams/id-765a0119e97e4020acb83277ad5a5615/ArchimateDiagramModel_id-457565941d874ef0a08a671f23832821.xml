@@ -140,12 +140,12 @@
       lineColor="#4f4f4f"
       textAlignment="1"
       fillColor="#ffffff"
-      content="Opm Paul:&#xD;&#xA;- Een groepering van Bedrijfsservices snap ik. Die andere 2 niet. Misschien ipv de Applicatieservice en de Infrastructuurservice de Bedrijfsobjecten groeperen? Samen met de Bedrijfsservices vormen die een Product?&#xD;&#xA;> MB: een product kan bestaan uit bedrijfsservices en/of applicatieservices en/of infraservices. &#xD;&#xA;Bijvoorbeeld de SDG invoervoorziening is straks een applicatieservice die VNG aanbiedt aan gemeenten. ">
+      content="Opm Paul:&#xD;&#xA;- Een groepering van Bedrijfsservices snap ik. Die andere 2 niet. Misschien ipv de Applicatieservice en de Infrastructuurservice de Bedrijfsobjecten groeperen? Samen met de Bedrijfsservices vormen die een Product?&#xD;&#xA;> MB: een product kan bestaan uit bedrijfsservices en/of applicatieservices en/of infraservices. &#xD;&#xA;Bijvoorbeeld de SDG invoervoorziening is straks een applicatieservice die VNG aanbiedt aan gemeenten.&#xD;&#xA;&#xD;&#xA;Ivo: wat is het doel van dit model? In feite expliciteer je hier afgeleide relaties om in beeld duidelijk te maken waaruit een product bestaat, toch? Die snap ik, maar zou deze dan compleet maken en product ook bedrijfsobject, contract, dataobject en technologieobject laten aggregeren.">
     <bounds
         x="516"
         y="210"
         width="337"
-        height="171"/>
+        height="211"/>
   </children>
   <properties
       key="Publiceren"

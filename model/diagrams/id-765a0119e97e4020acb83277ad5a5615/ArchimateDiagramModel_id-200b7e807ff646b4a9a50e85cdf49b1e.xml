@@ -1279,7 +1279,7 @@
       id="id-67a981075ba74da5a3df99be298e0762"
       targetConnections="id-f255d9da187e4620bb627565f4bbad71"
       textAlignment="1"
-      content="Zoals gebruikt in projectarchitectuur logging en verwerking. &#xD;&#xA;Constatering dat bedrijfsprocessen bedrijfsservices realiseren en dat applicatiefunctie applicatieservices realiseren. &#xD;&#xA;Precies tegengesteld "
+      content="Zoals gebruikt in projectarchitectuur logging en verwerking. &#xD;&#xA;Constatering dat bedrijfsprocessen bedrijfsservices realiseren en dat applicatiefunctie applicatieservices realiseren. &#xD;&#xA;Precies tegengesteld &#xD;&#xA;&#xD;&#xA;Ivo: graag toelichting hierbij."
       textPosition="1">
     <sourceConnections
         id="id-4b032098e58b42bd8487e80d7d5fd17a"
@@ -1634,6 +1634,10 @@
           xsi:type="archimate:RealizationRelationship"
           href="RealizationRelationship_id-d01c16b424d340889db3c20a40624c42.xml#id-d01c16b424d340889db3c20a40624c42"/>
     </sourceConnections>
+    <sourceConnections
+        id="id-208c207fbeb349f7be9636f7efabfd06"
+        source="id-eca692f39d68418295cee70c4c6a7913"
+        target="id-b6c8e550f9234162b50ed18ab02d8c03"/>
     <bounds
         x="1190"
         y="1280"
@@ -1738,12 +1742,35 @@
       lineColor="#4f4f4f"
       textAlignment="1"
       fillColor="#ffffff"
-      content="Opm Paul:&#xD;&#xA;- Ik mis een serving relatie van de Applicatieservice naar Applicatiecomponent. Uiteraard is die te herleiden vanuit de Applicatiefunctie, maar direct zou wat mij betreft beter zijn. &#xD;&#xA;> MB: In de GEMMA leggen we dit juist vast via de applicatie-interface, en de afgeleide relatie niet. Dit om het model overzichtelijker en beter onderhoudbaar te houden. In een projectarchitectuur kun je ervoor kiezen de afgeleide relaties toe te voegen, dit dan weer om bv. een view overzichtelijker te maken.&#xD;&#xA;&#xD;&#xA;- Waarom Bedrijfsinteractie verwijderen als Bedrijfssamenwerking blijft? Die 2 zijn aan elkaar gerelateerd? &#xD;&#xA;> MB: volgens de ArchiMate definitie is een business interactie juist vergelijkbaar met een bedrijfsfunctie/proces. Waarvoor zou jij de bedrijfsinteractie in de GEMMA willen gebruiken? &#xD;&#xA;=> Laten we deze met elkaar bespreken.&#xD;&#xA;&#xD;&#xA;- De groepering van Requirements in het projectmodel Logging is niet bewust gedaan. Wellicht nog eens bekijken hoe Requirements aan elkaar worden gerelateerd.&#xD;&#xA;- Misschien ook een serving relatie aanleggen tussen Infrastructuurservice en Applicatiecomponent?&#xD;&#xA;> MB: zelfde redenatie als voor applicatieservice...&#xD;&#xA;- Waarom de term Notificatie? Waaorm niet gewoon Gebeurtenis?&#xD;&#xA;> MB: Viel zo mooi samen met het project notificaties. En daarmee een mooi onderscheid in de taal tussen applicatie en business gebeurtenissen/events">
+      content="Opm Paul:&#xD;&#xA;- Ik mis een serving relatie van de Applicatieservice naar Applicatiecomponent. Uiteraard is die te herleiden vanuit de Applicatiefunctie, maar direct zou wat mij betreft beter zijn. &#xD;&#xA;> MB: In de GEMMA leggen we dit juist vast via de applicatie-interface, en de afgeleide relatie niet. Dit om het model overzichtelijker en beter onderhoudbaar te houden. In een projectarchitectuur kun je ervoor kiezen de afgeleide relaties toe te voegen, dit dan weer om bv. een view overzichtelijker te maken.&#xD;&#xA;&#xD;&#xA;- Waarom Bedrijfsinteractie verwijderen als Bedrijfssamenwerking blijft? Die 2 zijn aan elkaar gerelateerd? &#xD;&#xA;> MB: volgens de ArchiMate definitie is een business interactie juist vergelijkbaar met een bedrijfsfunctie/proces. Waarvoor zou jij de bedrijfsinteractie in de GEMMA willen gebruiken? &#xD;&#xA;=> Laten we deze met elkaar bespreken.&#xD;&#xA;&#xD;&#xA;- De groepering van Requirements in het projectmodel Logging is niet bewust gedaan. Wellicht nog eens bekijken hoe Requirements aan elkaar worden gerelateerd.&#xD;&#xA;- Misschien ook een serving relatie aanleggen tussen Infrastructuurservice en Applicatiecomponent?&#xD;&#xA;> MB: zelfde redenatie als voor applicatieservice...&#xD;&#xA;- Waarom de term Notificatie? Waaorm niet gewoon Gebeurtenis?&#xD;&#xA;> MB: Viel zo mooi samen met het project notificaties. En daarmee een mooi onderscheid in de taal tussen applicatie en business gebeurtenissen/events&#xD;&#xA;&#xD;&#xA;Ivo: aangezien in dit model verder de archimateterminologie wordt gevolgd zou ik omwille van herkenbaarheid in plaats van 'Notificatie' 'Applicatiegebeurtenis' aanhouden. Sowieso om de vraag over verhouding tussen die twee (1:1?) eens aan Ad voor te leggen.&#xD;&#xA;&#xD;&#xA;Aanvullende vraag is te overwegen of 'service' omwille van consistentie niet zou moeten worden vertaald door 'dienst'.">
     <bounds
         x="1500"
         y="660"
         width="553"
-        height="180"/>
+        height="321"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-b6c8e550f9234162b50ed18ab02d8c03"
+      targetConnections="id-208c207fbeb349f7be9636f7efabfd06"
+      textAlignment="1"
+      content="Ivo: een artifact is volgens mij geen gegevensdrager, maar een verzameling volgens een bepaalde conventie opgeslagen gegevens. ">
+    <bounds
+        x="1510"
+        y="1280"
+        width="185"
+        height="72"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-6f5fbfcc23ce419899be4cce7339655e"
+      textAlignment="1"
+      content="Ivo: Deze plaat vind ik mooi, maar laat ook zien dat we het niet simpeler hebben gemaakt :). Dat is ook wat ik lastig vind aan de grote hoeveelheid toelichtende en verklarende modellen. Is de verhouding daartussen duidelijk genoeg? En gaan die gemeenten helpen bij het begrijpen/volgen/bijdragen aan de GEMMA-referentiearchitectuur?">
+    <bounds
+        x="1508"
+        y="296"
+        width="453"
+        height="74"/>
   </children>
   <properties
       key="Publiceren"
