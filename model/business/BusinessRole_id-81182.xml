@@ -1,6 +1,6 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Bedrijfsrol"
+    name="Rol"
     id="id-81182"
     documentation="Een bedrijfsrol is de verantwoordelijkheid voor specifiek gedrag waar een bedrijfsactor aan toegewezen kan worden.">
   <properties
