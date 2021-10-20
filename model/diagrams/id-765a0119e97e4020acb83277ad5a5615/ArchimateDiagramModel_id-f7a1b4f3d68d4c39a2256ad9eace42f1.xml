@@ -12,9 +12,9 @@
       fillColor="#ffffff"
       borderType="1">
     <bounds
-        x="-70"
+        x="130"
         y="20"
-        width="421"
+        width="221"
         height="741"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -31,7 +31,7 @@
             href="SpecializationRelationship_id-81080.xml#id-81080"/>
       </sourceConnections>
       <bounds
-          x="240"
+          x="40"
           y="650"
           width="141"
           height="61"/>
@@ -56,7 +56,7 @@
             href="AggregationRelationship_id-80974.xml#id-80974"/>
       </sourceConnections>
       <bounds
-          x="240"
+          x="40"
           y="50"
           width="141"
           height="61"/>
@@ -70,36 +70,14 @@
         targetConnections="id-cf6bc95ae76d47bbb707ac0147651b55 id-3e48ffc157b541efa74c192da7ccb4f3 id-20a3f7f45b6641b8a6afb6743247c617 id-da9f5112953b43228d79171eee67c0f4 id-91fdffe823a34c19ba841d86b9c094f5"
         font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
         lineColor="#000000">
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-719c40ffd9734cc6b2ea08267e3e853f"
-          source="id-54621890ff31494ab73ad60e86e347d3"
-          target="id-f517ff64926d46c08f7781bea6125d36">
-        <archimateRelationship
-            xsi:type="archimate:SpecializationRelationship"
-            href="SpecializationRelationship_id-70e8ca374601462cbf70b2be6f7ef3e2.xml#id-70e8ca374601462cbf70b2be6f7ef3e2"/>
-      </sourceConnections>
       <bounds
-          x="240"
+          x="40"
           y="160"
           width="141"
           height="431"/>
       <archimateElement
           xsi:type="archimate:Constraint"
           href="Constraint_id-81077.xml#id-81077"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-f517ff64926d46c08f7781bea6125d36"
-        targetConnections="id-719c40ffd9734cc6b2ea08267e3e853f">
-      <bounds
-          x="20"
-          y="160"
-          width="141"
-          height="61"/>
-      <archimateElement
-          xsi:type="archimate:Constraint"
-          href="Constraint_id-3a3320c04ff048cda3151efdd632b0be.xml#id-3a3320c04ff048cda3151efdd632b0be"/>
     </children>
   </children>
   <children
@@ -382,7 +360,7 @@
         x="1103"
         y="235"
         width="185"
-        height="126"/>
+        height="166"/>
   </children>
   <properties
       key="Toelichting"

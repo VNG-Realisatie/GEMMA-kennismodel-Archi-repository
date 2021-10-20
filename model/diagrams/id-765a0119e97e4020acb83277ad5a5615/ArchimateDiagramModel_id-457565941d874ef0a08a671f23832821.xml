@@ -102,7 +102,19 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-1adc771228fd46e8a4915540550772d9"
-      targetConnections="id-ce9d697fbb4645d5932cb08d7ee79e8e">
+      targetConnections="id-ce9d697fbb4645d5932cb08d7ee79e8e"
+      font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+      fontColor="#808080"
+      lineColor="#000000"
+      fillColor="#c6efce"
+      alpha="128"
+      textPosition="1">
+    <features
+        name="lineAlpha"
+        value="128"/>
+    <features
+        name="gradient"
+        value="2"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-ab5a722266d04f05b5d89f9ab1788f2e"
@@ -142,10 +154,10 @@
       fillColor="#ffffff"
       content="Opm Paul:&#xD;&#xA;- Een groepering van Bedrijfsservices snap ik. Die andere 2 niet. Misschien ipv de Applicatieservice en de Infrastructuurservice de Bedrijfsobjecten groeperen? Samen met de Bedrijfsservices vormen die een Product?&#xD;&#xA;> MB: een product kan bestaan uit bedrijfsservices en/of applicatieservices en/of infraservices. &#xD;&#xA;Bijvoorbeeld de SDG invoervoorziening is straks een applicatieservice die VNG aanbiedt aan gemeenten.&#xD;&#xA;&#xD;&#xA;Ivo: ik snap dit model, maar dit biedt een incompleet beeld. Liever aanvullen maken en Product ook Bedrijfsobject, Contract, Dataobject en Artifacten laten aggregeren. Maar dan wordt het 'algemene' kennismodel weer onleesbaar. Keuzes...">
     <bounds
-        x="516"
-        y="210"
-        width="337"
-        height="211"/>
+        x="520"
+        y="200"
+        width="365"
+        height="231"/>
   </children>
   <properties
       key="Publiceren"
