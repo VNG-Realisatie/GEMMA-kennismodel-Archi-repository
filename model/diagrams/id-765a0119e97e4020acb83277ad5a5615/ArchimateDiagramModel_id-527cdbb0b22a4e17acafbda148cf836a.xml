@@ -150,9 +150,6 @@
           lineColor="#000000"
           source="id-55d7952c6d954c80ad0c379738b3e0f3"
           target="id-55d7952c6d954c80ad0c379738b3e0f3">
-        <features
-            name="labelExpression"
-            value="${wordwrap:12:${name}}"/>
         <bendpoints
             startX="110"
             startY="-20"
@@ -229,9 +226,6 @@
           textPosition="0"
           source="id-8b31fbcf7dca4a21a8fbe4b42ae8aa15"
           target="id-218addb737cd4138b9aac8ca1fc6bf7f">
-        <features
-            name="labelExpression"
-            value="${wordwrap:12:${name}}"/>
         <archimateRelationship
             xsi:type="archimate:AggregationRelationship"
             href="AggregationRelationship_id-81173.xml#id-81173"/>
@@ -275,9 +269,6 @@
           id="id-f005063aa29949f2aac2f033077f8572"
           source="id-218addb737cd4138b9aac8ca1fc6bf7f"
           target="id-b1c34289b4454fe090da670747c0f782">
-        <features
-            name="labelExpression"
-            value="${wordwrap:12:${name}}"/>
         <bendpoints
             startX="-65"
             startY="100"
@@ -335,9 +326,6 @@
           lineColor="#000000"
           source="id-b1c34289b4454fe090da670747c0f782"
           target="id-b1c34289b4454fe090da670747c0f782">
-        <features
-            name="labelExpression"
-            value="${wordwrap:12:${name}}"/>
         <bendpoints
             startX="105"
             startY="20"
@@ -413,9 +401,6 @@
           id="id-56464bc5f5514dd8bca5eb1af37e9734"
           source="id-d6650a06da144f978a59b24746c5b3d3"
           target="id-b1c34289b4454fe090da670747c0f782">
-        <features
-            name="labelExpression"
-            value="${wordwrap:12:${name}}"/>
         <bendpoints
             startX="-25"
             startY="80"
@@ -430,9 +415,6 @@
           id="id-4089cdf7436246dfb5d809e4fc34f0a8"
           source="id-d6650a06da144f978a59b24746c5b3d3"
           target="id-b1c34289b4454fe090da670747c0f782">
-        <features
-            name="labelExpression"
-            value="${wordwrap:12:${name}}"/>
         <bendpoints
             startX="-30"
             startY="-60"
@@ -499,9 +481,6 @@
           id="id-e2440879e00b4766b60bb3b08a8ec6b4"
           source="id-6d55921712344e59b552ed8664938caa"
           target="id-6c19af504dfd4bdea47b20b2ea1584bc">
-        <features
-            name="labelExpression"
-            value="${wordwrap:12:${name}}"/>
         <bendpoints
             startX="20"
             startY="-70"
@@ -680,9 +659,6 @@
           textPosition="0"
           source="id-c31d4009ab304eaa9492a134f59c03c7"
           target="id-564958c5900b4ec28ddfdf05a3a21d53">
-        <features
-            name="labelExpression"
-            value="${wordwrap:12:${name}}"/>
         <bendpoints
             startX="-15"
             startY="-70"
@@ -699,9 +675,6 @@
           lineColor="#000000"
           source="id-c31d4009ab304eaa9492a134f59c03c7"
           target="id-59c23891de6b47b09e0e0336976e41f9">
-        <features
-            name="labelExpression"
-            value="${wordwrap:12:${name}}"/>
         <bendpoints
             startX="-75"
             startY="-70"
@@ -731,9 +704,6 @@
           textPosition="0"
           source="id-c31d4009ab304eaa9492a134f59c03c7"
           target="id-d6650a06da144f978a59b24746c5b3d3">
-        <features
-            name="labelExpression"
-            value="${wordwrap:12:${name}}"/>
         <bendpoints
             startX="85"
             startY="-280"
@@ -787,9 +757,6 @@
           lineColor="#000000"
           source="id-6c19af504dfd4bdea47b20b2ea1584bc"
           target="id-59c23891de6b47b09e0e0336976e41f9">
-        <features
-            name="labelExpression"
-            value="${wordwrap:12:${name}}"/>
         <archimateRelationship
             xsi:type="archimate:AssignmentRelationship"
             href="AssignmentRelationship_id-81361.xml#id-81361"/>
@@ -808,9 +775,6 @@
           id="id-7a71eb6786cf42b785b6571289fe3a9d"
           source="id-6c19af504dfd4bdea47b20b2ea1584bc"
           target="id-6d55921712344e59b552ed8664938caa">
-        <features
-            name="labelExpression"
-            value="${wordwrap:12:${name}}"/>
         <bendpoints
             startX="-50"
             startY="60"
@@ -921,9 +885,6 @@
           textPosition="0"
           source="id-59c23891de6b47b09e0e0336976e41f9"
           target="id-d6650a06da144f978a59b24746c5b3d3">
-        <features
-            name="labelExpression"
-            value="${wordwrap:12:${name}}"/>
         <bendpoints
             startX="85"
             startY="-160"
@@ -940,9 +901,6 @@
           lineColor="#000000"
           source="id-59c23891de6b47b09e0e0336976e41f9"
           target="id-4415a43f09a3418a9c00adc04418b297">
-        <features
-            name="labelExpression"
-            value="${wordwrap:12:${name}}"/>
         <bendpoints
             startX="335"
             startY="10"
@@ -957,9 +915,6 @@
           id="id-46fd56b08b1d4265a7e1db89e199a353"
           source="id-59c23891de6b47b09e0e0336976e41f9"
           target="id-c31d4009ab304eaa9492a134f59c03c7">
-        <features
-            name="labelExpression"
-            value="${wordwrap:12:${name}}"/>
         <bendpoints
             startX="45"
             startY="70"
@@ -975,9 +930,6 @@
           textPosition="0"
           source="id-59c23891de6b47b09e0e0336976e41f9"
           target="id-b1c34289b4454fe090da670747c0f782">
-        <features
-            name="labelExpression"
-            value="${wordwrap:12:${name}}"/>
         <archimateRelationship
             xsi:type="archimate:ServingRelationship"
             href="ServingRelationship_id-c25596bb68f54d73b78329ed85947631.xml#id-c25596bb68f54d73b78329ed85947631"/>
@@ -1004,9 +956,6 @@
           lineColor="#000000"
           source="id-4415a43f09a3418a9c00adc04418b297"
           target="id-55d7952c6d954c80ad0c379738b3e0f3">
-        <features
-            name="labelExpression"
-            value="${wordwrap:12:${name}}"/>
         <archimateRelationship
             xsi:type="archimate:RealizationRelationship"
             href="RealizationRelationship_id-81321.xml#id-81321"/>
@@ -1042,9 +991,6 @@
         textPosition="0"
         source="id-5e0c77d7f23844ec9a7782a76523657f"
         target="id-564958c5900b4ec28ddfdf05a3a21d53">
-      <features
-          name="labelExpression"
-          value="${wordwrap:12:${name}}"/>
       <bendpoints
           startX="-70"
           startY="-140"
@@ -1060,9 +1006,6 @@
         textPosition="0"
         source="id-5e0c77d7f23844ec9a7782a76523657f"
         target="id-c31d4009ab304eaa9492a134f59c03c7">
-      <features
-          name="labelExpression"
-          value="${wordwrap:12:${name}}"/>
       <bendpoints
           startX="80"
           startY="-170"

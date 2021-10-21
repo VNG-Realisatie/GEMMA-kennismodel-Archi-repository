@@ -322,9 +322,6 @@
           textPosition="0"
           source="id-bea2bb6c2be041ad8fa5e478b9ecfba5"
           target="id-3d4d562a6e5645d88ea0f1ad22bd863f">
-        <features
-            name="labelExpression"
-            value="${wordwrap:12:${name}}"/>
         <bendpoints
             startX="-15"
             startY="-70"
@@ -490,9 +487,6 @@
         textPosition="0"
         source="id-c3bbd29f3a064d7a9f88b9b19207581e"
         target="id-3d4d562a6e5645d88ea0f1ad22bd863f">
-      <features
-          name="labelExpression"
-          value="${wordwrap:12:${name}}"/>
       <bendpoints
           startX="-70"
           startY="-140"
@@ -508,9 +502,6 @@
         textPosition="0"
         source="id-c3bbd29f3a064d7a9f88b9b19207581e"
         target="id-bea2bb6c2be041ad8fa5e478b9ecfba5">
-      <features
-          name="labelExpression"
-          value="${wordwrap:12:${name}}"/>
       <bendpoints
           startX="80"
           startY="-170"

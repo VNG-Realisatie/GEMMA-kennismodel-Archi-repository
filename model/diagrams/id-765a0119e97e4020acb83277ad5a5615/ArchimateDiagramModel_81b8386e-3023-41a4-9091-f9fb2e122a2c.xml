@@ -12,7 +12,7 @@
       fillColor="#ffffff"
       borderType="1">
     <bounds
-        x="760"
+        x="700"
         y="20"
         width="201"
         height="411"/>
@@ -80,9 +80,6 @@
           id="id-c7a70b02eba444f3b3440a5bc17b1624"
           source="id-47780f723ad34c2e97fd480cfdf25de8"
           target="id-6409f9d704e1400e9f6bb31b2a79dd95">
-        <features
-            name="labelExpression"
-            value="${wordwrap:12:${name}}"/>
         <archimateRelationship
             xsi:type="archimate:ServingRelationship"
             href="ServingRelationship_id-668a4e26df014407bb300e6b06381ddc.xml#id-668a4e26df014407bb300e6b06381ddc"/>
@@ -92,9 +89,6 @@
           id="id-38b26fe864cf4c3c91f007b222ee66b9"
           source="id-47780f723ad34c2e97fd480cfdf25de8"
           target="id-6afc974c6fc64421ba8608fa43d579ad">
-        <features
-            name="labelExpression"
-            value="${wordwrap:12:${name}}"/>
         <archimateRelationship
             xsi:type="archimate:ServingRelationship"
             href="ServingRelationship_id-b12b2a47b2814d8a941b16ac8ab6bffe.xml#id-b12b2a47b2814d8a941b16ac8ab6bffe"/>
@@ -114,7 +108,7 @@
       id="id-7dd8c73294ce4ab49ca4d4cf80cb6520"
       fillColor="#fef3b6">
     <bounds
-        x="760"
+        x="700"
         y="520"
         width="201"
         height="61"/>
@@ -337,7 +331,7 @@
       fillColor="#ffffff"
       content="Opm Paul:&#xD;&#xA;GEMMA kent nu de referentiecomponent Servicebuscomponent. Dat is een Applicatiecomponent en kan prima gepositionerd worden als Integratiecomponent. Hoe verhoudt zich dat tot de Systeemsoftware?&#xD;&#xA;&#xD;&#xA;> MB: Dat verhoudt zich niet. De servicebuscomponent zou gemodelleerd moeten worden als systeemsoftware. Er zijn alleen pragmatische redenen om dit niet door te voeren, dit heeft namelijk impact op de Softwarecatalogus. &#xD;&#xA;&#xD;&#xA;Kijk eens rechtsonderin de view &quot;RC00 Alle referentiecomponenten&quot;&#xD;&#xA;&#xD;&#xA;Ivo: sluit me aan bij Mark; vraag me wel af of de integratiecomponent geen Node moet zijn in plaats van 'alleen' Systeemsoftware.">
     <bounds
-        x="984"
+        x="924"
         y="153"
         width="287"
         height="318"/>

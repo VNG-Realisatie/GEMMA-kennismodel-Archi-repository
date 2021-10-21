@@ -61,9 +61,6 @@
           lineColor="#000000"
           source="id-2f1248102a2a427f8d691cb2d6dca4f7"
           target="id-2f1248102a2a427f8d691cb2d6dca4f7">
-        <features
-            name="labelExpression"
-            value="${wordwrap:12:${name}}"/>
         <bendpoints
             startX="110"
             startY="-20"
@@ -106,9 +103,6 @@
           lineColor="#000000"
           source="id-aea3bf6c69a34f4d9d4cb476870d696a"
           target="id-09d3b487519a461499d90c4e7a448aaa">
-        <features
-            name="labelExpression"
-            value="${wordwrap:12:${name}}"/>
         <archimateRelationship
             xsi:type="archimate:AggregationRelationship"
             href="AggregationRelationship_id-81181.xml#id-81181"/>
@@ -161,9 +155,6 @@
           lineColor="#000000"
           source="id-9bb6d990d0974bc396b29a3675c4dcc4"
           target="id-9bb6d990d0974bc396b29a3675c4dcc4">
-        <features
-            name="labelExpression"
-            value="${wordwrap:12:${name}}"/>
         <bendpoints
             startX="105"
             startY="20"
@@ -231,9 +222,6 @@
           lineColor="#000000"
           source="id-b5284c5381ee4f2b92183c2533885c43"
           target="id-09d3b487519a461499d90c4e7a448aaa">
-        <features
-            name="labelExpression"
-            value="${wordwrap:12:${name}}"/>
         <archimateRelationship
             xsi:type="archimate:AssignmentRelationship"
             href="AssignmentRelationship_id-81187.xml#id-81187"/>
@@ -258,9 +246,6 @@
           id="id-d97feafa282e4a4b88c5cc07fb23bf49"
           source="id-144331fb628c48eaac4e97af75548a1c"
           target="id-9bb6d990d0974bc396b29a3675c4dcc4">
-        <features
-            name="labelExpression"
-            value="${wordwrap:12:${name}}"/>
         <archimateRelationship
             xsi:type="archimate:TriggeringRelationship"
             href="TriggeringRelationship_id-81177.xml#id-81177"/>
@@ -317,9 +302,6 @@
           lineColor="#000000"
           source="id-09d3b487519a461499d90c4e7a448aaa"
           target="id-09d3b487519a461499d90c4e7a448aaa">
-        <features
-            name="labelExpression"
-            value="${wordwrap:12:${name}}"/>
         <bendpoints
             startX="120"
             startY="-20"
@@ -384,9 +366,6 @@
           id="id-600dda6c83184d3893fb9fc969b049b1"
           source="id-3f3a5c1b856945499d967ac2e8c1c6f8"
           target="id-9bb6d990d0974bc396b29a3675c4dcc4">
-        <features
-            name="labelExpression"
-            value="${wordwrap:12:${name}}"/>
         <bendpoints
             startX="-25"
             startY="80"
@@ -401,9 +380,6 @@
           id="id-2228e64d40c442fd8bd92c93012e9b03"
           source="id-3f3a5c1b856945499d967ac2e8c1c6f8"
           target="id-9bb6d990d0974bc396b29a3675c4dcc4">
-        <features
-            name="labelExpression"
-            value="${wordwrap:12:${name}}"/>
         <bendpoints
             startX="-30"
             startY="-60"
@@ -537,9 +513,6 @@
           textPosition="0"
           source="id-4e82c70426f3412695e10e24f1df6843"
           target="id-3f3a5c1b856945499d967ac2e8c1c6f8">
-        <features
-            name="labelExpression"
-            value="${wordwrap:12:${name}}"/>
         <bendpoints
             startX="85"
             startY="-280"
