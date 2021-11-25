@@ -180,7 +180,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-81440"
-      targetConnections="id-81400 id-81425 id-81419"
+      targetConnections="id-81425 id-81419"
       font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
       lineColor="#000000"
       fillColor="#ffffcc">
@@ -235,37 +235,6 @@
       <archimateRelationship
           xsi:type="archimate:AggregationRelationship"
           href="AggregationRelationship_id-81179.xml#id-81179"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-81411"
-        font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
-        lineColor="#000000"
-        source="id-81440"
-        target="id-81445">
-      <bendpoints
-          startX="127"
-          startY="8"
-          endX="434"
-          endY="-386"/>
-      <bendpoints
-          startX="127"
-          startY="-279"
-          endX="434"
-          endY="-673"/>
-      <bendpoints
-          startX="-393"
-          startY="-279"
-          endX="-86"
-          endY="-673"/>
-      <bendpoints
-          startX="-393"
-          startY="395"
-          endX="-86"
-          endY="1"/>
-      <archimateRelationship
-          xsi:type="archimate:AccessRelationship"
-          href="AccessRelationship_id-81194.xml#id-81194"/>
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
@@ -358,7 +327,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-81445"
-      targetConnections="id-81415 id-81394 id-81404 id-81438 id-81411"
+      targetConnections="id-81415 id-81394 id-81404 id-81438"
       font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
       lineColor="#000000"
       fillColor="#fefeb4">
@@ -871,27 +840,6 @@
       font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
       lineColor="#000000"
       fillColor="#ffffcc">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-81400"
-        font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
-        lineColor="#000000"
-        source="id-81395"
-        target="id-81440">
-      <bendpoints
-          startX="154"
-          startY="14"
-          endX="154"
-          endY="408"/>
-      <bendpoints
-          startX="154"
-          startY="-373"
-          endX="154"
-          endY="21"/>
-      <archimateRelationship
-          xsi:type="archimate:AggregationRelationship"
-          href="AggregationRelationship_id-81172.xml#id-81172"/>
-    </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-81404"

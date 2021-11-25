@@ -27,6 +27,62 @@
           y="30"
           width="641"
           height="321"/>
+      <children
+          xsi:type="archimate:DiagramModelArchimateObject"
+          id="id-6ce1f7a11e5143aa8ed60fadf26da5fc"
+          targetConnections="id-a1d6adc1f95b481e89ef49a63e2d62d8 id-3394d18d7bb245c187ee2abd8f0f829a"
+          font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
+          fontColor="#808080"
+          lineColor="#000000"
+          alpha="128"
+          textPosition="1">
+        <features
+            name="lineAlpha"
+            value="128"/>
+        <features
+            name="gradient"
+            value="2"/>
+        <sourceConnections
+            xsi:type="archimate:DiagramModelArchimateConnection"
+            id="id-0b574f24bd174d07806cc6c0e57f0fab"
+            source="id-6ce1f7a11e5143aa8ed60fadf26da5fc"
+            target="id-7efbee8535f145fea3cd224f9454fbd9">
+          <archimateRelationship
+              xsi:type="archimate:ServingRelationship"
+              href="ServingRelationship_id-9b4d8ce90f914418b7cd665659c5efbc.xml#id-9b4d8ce90f914418b7cd665659c5efbc"/>
+        </sourceConnections>
+        <bounds
+            x="390"
+            y="130"
+            width="191"
+            height="61"/>
+        <archimateElement
+            xsi:type="archimate:ApplicationService"
+            href="ApplicationService_id-81265.xml#id-81265"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelArchimateObject"
+          id="id-897b3bdf48194f7a9168707e713eb8f0"
+          textAlignment="1"
+          type="1">
+        <sourceConnections
+            xsi:type="archimate:DiagramModelArchimateConnection"
+            id="id-a1d6adc1f95b481e89ef49a63e2d62d8"
+            source="id-897b3bdf48194f7a9168707e713eb8f0"
+            target="id-6ce1f7a11e5143aa8ed60fadf26da5fc">
+          <archimateRelationship
+              xsi:type="archimate:AggregationRelationship"
+              href="AggregationRelationship_id-d02139d0583543adac8838cf3d6eea37.xml#id-d02139d0583543adac8838cf3d6eea37"/>
+        </sourceConnections>
+        <bounds
+            x="470"
+            y="20"
+            width="158"
+            height="68"/>
+        <archimateElement
+            xsi:type="archimate:Grouping"
+            href="Grouping_id-0c3192d95af34bb39a763b4c6e33242b.xml#id-0c3192d95af34bb39a763b4c6e33242b"/>
+      </children>
     </children>
     <children
         xsi:type="archimate:DiagramModelGroup"
@@ -146,7 +202,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-00da4f25c44843b796bb58a3d378c3e6"
-        targetConnections="id-d12eaaf3fd464f5c86c072137ade03a1"
+        targetConnections="id-996f22cb9e074b2fb8f8e55c5be2e08c id-d12eaaf3fd464f5c86c072137ade03a1"
         font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
         lineColor="#000000"
         fillColor="#b7dee8">
@@ -200,6 +256,15 @@
             xsi:type="archimate:AggregationRelationship"
             href="AggregationRelationship_id-80993.xml#id-80993"/>
       </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-3394d18d7bb245c187ee2abd8f0f829a"
+          source="id-3b85c6ab9c2e48c5a7dfa5236298905c"
+          target="id-6ce1f7a11e5143aa8ed60fadf26da5fc">
+        <archimateRelationship
+            xsi:type="archimate:RealizationRelationship"
+            href="RealizationRelationship_id-4903307a7d0c431d8d6c201b1c0f4431.xml#id-4903307a7d0c431d8d6c201b1c0f4431"/>
+      </sourceConnections>
       <bounds
           x="160"
           y="160"
@@ -213,26 +278,26 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-7efbee8535f145fea3cd224f9454fbd9"
+      targetConnections="id-0b574f24bd174d07806cc6c0e57f0fab"
       font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
-      lineColor="#000000"
-      fillColor="#b7dee8">
+      lineColor="#000000">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-d12eaaf3fd464f5c86c072137ade03a1"
         source="id-7efbee8535f145fea3cd224f9454fbd9"
         target="id-00da4f25c44843b796bb58a3d378c3e6">
       <archimateRelationship
-          xsi:type="archimate:AggregationRelationship"
-          href="AggregationRelationship_id-af2ac48017c54968972ffa10d15b3640.xml#id-af2ac48017c54968972ffa10d15b3640"/>
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-b88920f18d32411c9ef3fbe17b378333.xml#id-b88920f18d32411c9ef3fbe17b378333"/>
     </sourceConnections>
     <bounds
-        x="100"
+        x="270"
         y="20"
         width="141"
         height="61"/>
     <archimateElement
-        xsi:type="archimate:ApplicationFunction"
-        href="ApplicationFunction_id-f29a03888c9640ed810c6f61abf48898.xml#id-f29a03888c9640ed810c6f61abf48898"/>
+        xsi:type="archimate:BusinessActor"
+        href="BusinessActor_id-ddbaa46db6f14b4ca14fd9d160d818fd.xml#id-ddbaa46db6f14b4ca14fd9d160d818fd"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelReference"
@@ -248,14 +313,26 @@
         href="ArchimateDiagramModel_id-200b7e807ff646b4a9a50e85cdf49b1e.xml#id-200b7e807ff646b4a9a50e85cdf49b1e"/>
   </children>
   <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-d0f6d00bb2b84c20ac0e1d8117370e4e"
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-c1c723e14e094131adf99d845293d67e"
       textAlignment="1"
-      content="Ivo: de term 'Domein en doelgroep' vind ik weinig verduidelijkend - hoe verhoudt die zich tot bestaande GEMMA-applicatiefuncties? Lijkt bovendien dubbelop door de aanwezige recursieve aggregatierelatie op Applicatiefunctie. Kan 'Domein en doelgroep' er niet tussenuit?">
+      type="1">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-996f22cb9e074b2fb8f8e55c5be2e08c"
+        source="id-c1c723e14e094131adf99d845293d67e"
+        target="id-00da4f25c44843b796bb58a3d378c3e6">
+      <archimateRelationship
+          xsi:type="archimate:AggregationRelationship"
+          href="AggregationRelationship_id-7747c6bf8e9144bfb771afcd724a7ba7.xml#id-7747c6bf8e9144bfb771afcd724a7ba7"/>
+    </sourceConnections>
     <bounds
-        x="801"
-        y="185"
-        width="210"
-        height="166"/>
+        x="60"
+        y="20"
+        width="131"
+        height="59"/>
+    <archimateElement
+        xsi:type="archimate:Grouping"
+        href="Grouping_id-81091.xml#id-81091"/>
   </children>
 </archimate:ArchimateDiagramModel>

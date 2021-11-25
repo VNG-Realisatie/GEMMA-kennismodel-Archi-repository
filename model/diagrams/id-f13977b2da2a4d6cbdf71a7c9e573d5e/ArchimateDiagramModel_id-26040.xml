@@ -675,7 +675,7 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-e7cc9e60cc8542f7b20fb0676467b518"
-          targetConnections="id-d6384af893e148199d5466e72d841667 id-cae7489cf0e44562aa4a5fe4ab048125"
+          targetConnections="id-cae7489cf0e44562aa4a5fe4ab048125 id-d6384af893e148199d5466e72d841667"
           font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
           lineColor="#000000"
           fillColor="#b7dee8">
@@ -883,8 +883,8 @@
           source="id-a39c8c756fae41f3a9cc87e24d268708"
           target="id-e7cc9e60cc8542f7b20fb0676467b518">
         <archimateRelationship
-            xsi:type="archimate:AggregationRelationship"
-            href="AggregationRelationship_id-af2ac48017c54968972ffa10d15b3640.xml#id-af2ac48017c54968972ffa10d15b3640"/>
+            xsi:type="archimate:AssociationRelationship"
+            href="AssociationRelationship_id-b88920f18d32411c9ef3fbe17b378333.xml#id-b88920f18d32411c9ef3fbe17b378333"/>
       </sourceConnections>
       <bounds
           x="100"
@@ -892,8 +892,8 @@
           width="141"
           height="61"/>
       <archimateElement
-          xsi:type="archimate:ApplicationFunction"
-          href="ApplicationFunction_id-f29a03888c9640ed810c6f61abf48898.xml#id-f29a03888c9640ed810c6f61abf48898"/>
+          xsi:type="archimate:BusinessActor"
+          href="BusinessActor_id-ddbaa46db6f14b4ca14fd9d160d818fd.xml#id-ddbaa46db6f14b4ca14fd9d160d818fd"/>
     </children>
     <children
         xsi:type="archimate:DiagramModelNote"

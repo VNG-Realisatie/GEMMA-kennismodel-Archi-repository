@@ -1,6 +1,6 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Domein en doelgroep"
+    name="Domein en doelgroep (groep)"
     id="id-80969"
     documentation="De doorsnede van de verzameling generieke functionaliteit van domein en doelgroep&#xD;&#xA;&#xD;&#xA;Eigenschappen:&#xD;&#xA;* GEMMA type ='Groep'&#xD;&#xA;* GEMMA subtype ='Domein en doelgroep'">
   <properties
