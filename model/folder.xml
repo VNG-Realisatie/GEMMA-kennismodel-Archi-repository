@@ -3,7 +3,7 @@
     name="GEMMA kennismodel"
     id="id-5af2e6f1-0ffa-403a-b8e5-1bf6153acfe1"
     purpose="Het kennismodel toont de in de GEMMA toegepaste ArchiMate-concepten en de gehanteerde modelleerafspraken."
-    version="4.9.0">
+    version="4.6.0">
   <properties
       key="Publiceren"
       value="GEMMA Online en redactie"/>
