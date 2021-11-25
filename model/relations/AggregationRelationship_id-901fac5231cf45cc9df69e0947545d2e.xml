@@ -1,7 +1,7 @@
-<archimate:AssociationRelationship
+<archimate:AggregationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="id-b88920f18d32411c9ef3fbe17b378333">
+    id="id-901fac5231cf45cc9df69e0947545d2e">
   <properties
       key="Object ID"
       value="5efbcf34-eb5e-452a-9f84-b8b40ad3ad11"/>
@@ -9,9 +9,9 @@
       key="convertConcept"
       value="Relationship type was &quot;aggregation&quot;. Element &quot;Doelgroep (groep)&quot; converted from &quot;application-function&quot; to &quot;business-actor&quot;"/>
   <source
-      xsi:type="archimate:BusinessActor"
-      href="BusinessActor_id-ddbaa46db6f14b4ca14fd9d160d818fd.xml#id-ddbaa46db6f14b4ca14fd9d160d818fd"/>
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_id-e5f1c1c9fa734f91897a26c2dae5b5b5.xml#id-e5f1c1c9fa734f91897a26c2dae5b5b5"/>
   <target
       xsi:type="archimate:ApplicationFunction"
       href="ApplicationFunction_id-80969.xml#id-80969"/>
-</archimate:AssociationRelationship>
+</archimate:AggregationRelationship>

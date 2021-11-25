@@ -883,8 +883,8 @@
           source="id-a39c8c756fae41f3a9cc87e24d268708"
           target="id-e7cc9e60cc8542f7b20fb0676467b518">
         <archimateRelationship
-            xsi:type="archimate:AssociationRelationship"
-            href="AssociationRelationship_id-b88920f18d32411c9ef3fbe17b378333.xml#id-b88920f18d32411c9ef3fbe17b378333"/>
+            xsi:type="archimate:AggregationRelationship"
+            href="AggregationRelationship_id-901fac5231cf45cc9df69e0947545d2e.xml#id-901fac5231cf45cc9df69e0947545d2e"/>
       </sourceConnections>
       <bounds
           x="100"
@@ -892,8 +892,8 @@
           width="141"
           height="61"/>
       <archimateElement
-          xsi:type="archimate:BusinessActor"
-          href="BusinessActor_id-ddbaa46db6f14b4ca14fd9d160d818fd.xml#id-ddbaa46db6f14b4ca14fd9d160d818fd"/>
+          xsi:type="archimate:ApplicationFunction"
+          href="ApplicationFunction_id-e5f1c1c9fa734f91897a26c2dae5b5b5.xml#id-e5f1c1c9fa734f91897a26c2dae5b5b5"/>
     </children>
     <children
         xsi:type="archimate:DiagramModelNote"

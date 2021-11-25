@@ -10,6 +10,6 @@
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_id-243e822c7020403fa367d6e1b9df7fb5.xml#id-243e822c7020403fa367d6e1b9df7fb5"/>
   <target
-      xsi:type="archimate:BusinessActor"
-      href="BusinessActor_id-ddbaa46db6f14b4ca14fd9d160d818fd.xml#id-ddbaa46db6f14b4ca14fd9d160d818fd"/>
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_id-e5f1c1c9fa734f91897a26c2dae5b5b5.xml#id-e5f1c1c9fa734f91897a26c2dae5b5b5"/>
 </archimate:AssociationRelationship>
