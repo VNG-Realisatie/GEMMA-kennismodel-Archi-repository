@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Product"
     id="id-81174"
-    documentation="Een product is de coherente verzameling van services, vergezeld van een contract of verzameling overeenkomsten, die in zijn geheel wordt aangeboden aan (interne of externe) klanten.">
+    documentation="Een product is de coherente verzameling van diensten, vergezeld van een contract of verzameling overeenkomsten, die in zijn geheel wordt aangeboden aan (interne of externe) klanten.">
   <properties
       key="Toelichting"
       value="Bron: ArchiMate 2.1"/>

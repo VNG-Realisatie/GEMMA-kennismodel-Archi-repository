@@ -1,7 +1,6 @@
 <archimate:SpecializationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="is een"
     id="id-c364417ae30340eca14be5bc4e3d240d">
   <properties
       key="Object ID"

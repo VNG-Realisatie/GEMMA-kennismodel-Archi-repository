@@ -322,9 +322,6 @@
           textPosition="0"
           source="id-bea2bb6c2be041ad8fa5e478b9ecfba5"
           target="id-3d4d562a6e5645d88ea0f1ad22bd863f">
-        <features
-            name="labelExpression"
-            value="${wordwrap:12:${name}}"/>
         <bendpoints
             startX="-15"
             startY="-70"
@@ -490,9 +487,6 @@
         textPosition="0"
         source="id-c3bbd29f3a064d7a9f88b9b19207581e"
         target="id-3d4d562a6e5645d88ea0f1ad22bd863f">
-      <features
-          name="labelExpression"
-          value="${wordwrap:12:${name}}"/>
       <bendpoints
           startX="-70"
           startY="-140"
@@ -508,9 +502,6 @@
         textPosition="0"
         source="id-c3bbd29f3a064d7a9f88b9b19207581e"
         target="id-bea2bb6c2be041ad8fa5e478b9ecfba5">
-      <features
-          name="labelExpression"
-          value="${wordwrap:12:${name}}"/>
       <bendpoints
           startX="80"
           startY="-170"
@@ -876,6 +867,42 @@
           xsi:type="archimate:Grouping"
           href="Grouping_id-bd33c6c868514f7780d80f62179cb315.xml#id-bd33c6c868514f7780d80f62179cb315"/>
     </children>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-3f0776d8c31e4e1fab712fb443ee896f"
+      font="1|Segoe UI|16.2|1|WINDOWS|1|-27|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      fillColor="#ffffff"
+      alpha="0">
+    <features
+        name="labelExpression"
+        value="$view{name}"/>
+    <features
+        name="lineAlpha"
+        value="0"/>
+    <bounds
+        x="559"
+        y="1370"
+        width="481"
+        height="121"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-c038dc6257ca4db68531a3eddcba57d6"
+      font="1|Segoe UI|16.2|1|WINDOWS|1|-27|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      fillColor="#ffffff"
+      alpha="0">
+    <features
+        name="labelExpression"
+        value="$view{name}"/>
+    <features
+        name="lineAlpha"
+        value="0"/>
+    <bounds
+        x="610"
+        y="40"
+        width="481"
+        height="121"/>
   </children>
   <properties
       key="Publiceren"

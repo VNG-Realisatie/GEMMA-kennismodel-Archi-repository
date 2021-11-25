@@ -1,7 +1,6 @@
 <archimate:CompositionRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="bestaat uit"
     id="id-af343e0106f042b3844a4915804a3b2b">
   <properties
       key="Object ID"
