@@ -119,30 +119,6 @@
         y="390"
         width="531"
         height="131"/>
-    <children
-        xsi:type="archimate:DiagramModelReference"
-        id="id-8f9196fbdb974b33ae74adf740773951">
-      <bounds
-          x="211"
-          y="48"
-          width="120"
-          height="55"/>
-      <referencedModel
-          xsi:type="archimate:ArchimateDiagramModel"
-          href="ArchimateDiagramModel_id-6cd179a7b93c41b5a38d3743cc12e83c.xml#id-6cd179a7b93c41b5a38d3743cc12e83c"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelReference"
-        id="id-4ddcb05c17204c2bb4dc982a6d066ca1">
-      <bounds
-          x="24"
-          y="47"
-          width="120"
-          height="55"/>
-      <referencedModel
-          xsi:type="archimate:ArchimateDiagramModel"
-          href="ArchimateDiagramModel_id-a306af56c4c842cb8e8777c1d1bbfc80.xml#id-a306af56c4c842cb8e8777c1d1bbfc80"/>
-    </children>
   </children>
   <properties
       key="drivingView"

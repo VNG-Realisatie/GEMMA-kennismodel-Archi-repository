@@ -5,105 +5,6 @@
     id="81b8386e-3023-41a4-9091-f9fb2e122a2c"
     documentation="Deze view toont alle mogelijke specialisaties van de applicatiecomponent in de GEMMA. De specialisaties worden gebruikt voor het definieren van specifieke gemeentelijke applicaties en voor het kunnen definieren van de rol die een applicatie heeft in een koppeling en of dit een interne of externe koppeling is (een koppeling met een buitengemeentelijke component).&#xD;&#xA;&#xD;&#xA;Tevens wordt in deze view een relatie gelegd tussen de GEMMA referentiecomponent en de in de Common Ground onderkende componenten en lagen.">
   <children
-      xsi:type="archimate:DiagramModelGroup"
-      id="id-b6f0766c339a459888ed2eb84fe8d907"
-      name="Common Ground componenten"
-      textAlignment="1"
-      fillColor="#ffffff"
-      borderType="1">
-    <bounds
-        x="700"
-        y="20"
-        width="201"
-        height="411"/>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-e90996c7c88f4f1d8acdc803697662f9"
-        targetConnections="id-474bb7b7a99649e9a22057805ca2c35d"
-        type="1">
-      <bounds
-          x="30"
-          y="260"
-          width="141"
-          height="61"/>
-      <archimateElement
-          xsi:type="archimate:ApplicationComponent"
-          href="ApplicationComponent_id-1f82794f5a8a4ec0a04f085755c68d21.xml#id-1f82794f5a8a4ec0a04f085755c68d21"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-3e08768097124bed90056d93912a229f"
-        targetConnections="id-0679e36b066041c29252aaab242a7b18"
-        type="1">
-      <bounds
-          x="30"
-          y="100"
-          width="141"
-          height="61"/>
-      <archimateElement
-          xsi:type="archimate:ApplicationComponent"
-          href="ApplicationComponent_id-0625506ffc3248d8b538925c1361d843.xml#id-0625506ffc3248d8b538925c1361d843"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-2dde6d3f8cb2498ca6b8a712720932a8"
-        targetConnections="id-962b7d0e7a6749a1a67be8221030983c"
-        type="1">
-      <bounds
-          x="30"
-          y="330"
-          width="141"
-          height="61"/>
-      <archimateElement
-          xsi:type="archimate:ApplicationComponent"
-          href="ApplicationComponent_id-2a7ab279ebdb4fe382ed1da7a98fc200.xml#id-2a7ab279ebdb4fe382ed1da7a98fc200"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-e6f11557a3e9455bbd732c5da0eec88f"
-        targetConnections="id-94b6fbd8822b4f89882b77802893b7db"
-        type="1">
-      <bounds
-          x="30"
-          y="30"
-          width="141"
-          height="61"/>
-      <archimateElement
-          xsi:type="archimate:ApplicationComponent"
-          href="ApplicationComponent_id-339e3b9c15dd4a4c946cf85bf1cb6ef7.xml#id-339e3b9c15dd4a4c946cf85bf1cb6ef7"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-47780f723ad34c2e97fd480cfdf25de8">
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-c7a70b02eba444f3b3440a5bc17b1624"
-          source="id-47780f723ad34c2e97fd480cfdf25de8"
-          target="id-6409f9d704e1400e9f6bb31b2a79dd95">
-        <archimateRelationship
-            xsi:type="archimate:ServingRelationship"
-            href="ServingRelationship_id-668a4e26df014407bb300e6b06381ddc.xml#id-668a4e26df014407bb300e6b06381ddc"/>
-      </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-38b26fe864cf4c3c91f007b222ee66b9"
-          source="id-47780f723ad34c2e97fd480cfdf25de8"
-          target="id-6afc974c6fc64421ba8608fa43d579ad">
-        <archimateRelationship
-            xsi:type="archimate:ServingRelationship"
-            href="ServingRelationship_id-b12b2a47b2814d8a941b16ac8ab6bffe.xml#id-b12b2a47b2814d8a941b16ac8ab6bffe"/>
-      </sourceConnections>
-      <bounds
-          x="30"
-          y="180"
-          width="141"
-          height="61"/>
-      <archimateElement
-          xsi:type="archimate:SystemSoftware"
-          href="SystemSoftware_id-904a0207b316444ebf8feb9e4a243b76.xml#id-904a0207b316444ebf8feb9e4a243b76"/>
-    </children>
-  </children>
-  <children
       xsi:type="archimate:DiagramModelReference"
       id="id-7dd8c73294ce4ab49ca4d4cf80cb6520"
       fillColor="#fef3b6">
@@ -145,7 +46,6 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-6409f9d704e1400e9f6bb31b2a79dd95"
-      targetConnections="id-c7a70b02eba444f3b3440a5bc17b1624"
       lineColor="#4f4f4f"
       fillColor="#daeef3"
       textPosition="1"
@@ -159,24 +59,6 @@
           xsi:type="archimate:SpecializationRelationship"
           href="SpecializationRelationship_id-483ccb18b5f44934a8822c78aaddfbf8.xml#id-483ccb18b5f44934a8822c78aaddfbf8"/>
     </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-474bb7b7a99649e9a22057805ca2c35d"
-        source="id-6409f9d704e1400e9f6bb31b2a79dd95"
-        target="id-e90996c7c88f4f1d8acdc803697662f9">
-      <archimateRelationship
-          xsi:type="archimate:AggregationRelationship"
-          href="AggregationRelationship_id-451db7a9b334430c93d38f77643501e9.xml#id-451db7a9b334430c93d38f77643501e9"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-962b7d0e7a6749a1a67be8221030983c"
-        source="id-6409f9d704e1400e9f6bb31b2a79dd95"
-        target="id-2dde6d3f8cb2498ca6b8a712720932a8">
-      <archimateRelationship
-          xsi:type="archimate:AggregationRelationship"
-          href="AggregationRelationship_id-a677bd7cba624808939a2a3e23c2bebe.xml#id-a677bd7cba624808939a2a3e23c2bebe"/>
-    </sourceConnections>
     <bounds
         x="480"
         y="240"
@@ -189,20 +71,10 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-6afc974c6fc64421ba8608fa43d579ad"
-      targetConnections="id-38b26fe864cf4c3c91f007b222ee66b9"
       lineColor="#4f4f4f"
       fillColor="#daeef3"
       textPosition="1"
       type="1">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-94b6fbd8822b4f89882b77802893b7db"
-        source="id-6afc974c6fc64421ba8608fa43d579ad"
-        target="id-e6f11557a3e9455bbd732c5da0eec88f">
-      <archimateRelationship
-          xsi:type="archimate:AggregationRelationship"
-          href="AggregationRelationship_id-080feca1694b4ecd927d5cf8c8cb152c.xml#id-080feca1694b4ecd927d5cf8c8cb152c"/>
-    </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-c1205b9dee734cffaf0b3a3f120a1fbc"
@@ -211,15 +83,6 @@
       <archimateRelationship
           xsi:type="archimate:SpecializationRelationship"
           href="SpecializationRelationship_id-c364417ae30340eca14be5bc4e3d240d.xml#id-c364417ae30340eca14be5bc4e3d240d"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-0679e36b066041c29252aaab242a7b18"
-        source="id-6afc974c6fc64421ba8608fa43d579ad"
-        target="id-3e08768097124bed90056d93912a229f">
-      <archimateRelationship
-          xsi:type="archimate:AggregationRelationship"
-          href="AggregationRelationship_id-024fb6755b554abab834d7860a04e15e.xml#id-024fb6755b554abab834d7860a04e15e"/>
     </sourceConnections>
     <bounds
         x="480"
@@ -322,19 +185,6 @@
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_id-cdab1d335dbe4244bb18cdb13099dadd.xml#id-cdab1d335dbe4244bb18cdb13099dadd"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-370949ad1e344465a38f92665a3d3b0e"
-      lineColor="#4f4f4f"
-      textAlignment="1"
-      fillColor="#ffffff"
-      content="Opm Paul:&#xD;&#xA;GEMMA kent nu de referentiecomponent Servicebuscomponent. Dat is een Applicatiecomponent en kan prima gepositionerd worden als Integratiecomponent. Hoe verhoudt zich dat tot de Systeemsoftware?&#xD;&#xA;&#xD;&#xA;> MB: Dat verhoudt zich niet. De servicebuscomponent zou gemodelleerd moeten worden als systeemsoftware. Er zijn alleen pragmatische redenen om dit niet door te voeren, dit heeft namelijk impact op de Softwarecatalogus. &#xD;&#xA;&#xD;&#xA;Kijk eens rechtsonderin de view &quot;RC00 Alle referentiecomponenten&quot;&#xD;&#xA;&#xD;&#xA;Ivo: sluit me aan bij Mark; vraag me wel af of de integratiecomponent geen Node moet zijn in plaats van 'alleen' Systeemsoftware.">
-    <bounds
-        x="924"
-        y="153"
-        width="287"
-        height="318"/>
   </children>
   <properties
       key="tableOneLineDoc"

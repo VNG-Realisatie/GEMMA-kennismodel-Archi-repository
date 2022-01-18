@@ -106,7 +106,7 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-b848d0709f4a41d48ba2c3dda4d0fd80"
-          targetConnections="id-a47a7c69e01343e59b520b99f39cefd6 id-f76caa06b7314b2d8d78f9a2e2e907f4 id-ef3e784960d8408299dfda966a6e48a4 id-a4f51e77942144dd86cb2fe1165a862b id-d481cb61713c403ba26fafeefb0714fc"
+          targetConnections="id-a47a7c69e01343e59b520b99f39cefd6 id-f76caa06b7314b2d8d78f9a2e2e907f4 id-ef3e784960d8408299dfda966a6e48a4 id-d481cb61713c403ba26fafeefb0714fc id-f15691f655634eaab15c6afa28d9e376"
           font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
           lineColor="#000000"
           fillColor="#ffffcc">
@@ -227,28 +227,6 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-53bbdcc45f544a8896e256dd8bb86391">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-a4f51e77942144dd86cb2fe1165a862b"
-        textPosition="0"
-        source="id-53bbdcc45f544a8896e256dd8bb86391"
-        target="id-b848d0709f4a41d48ba2c3dda4d0fd80">
-      <archimateRelationship
-          xsi:type="archimate:ServingRelationship"
-          href="ServingRelationship_id-80996.xml#id-80996"/>
-    </sourceConnections>
-    <bounds
-        x="350"
-        y="640"
-        width="141"
-        height="61"/>
-    <archimateElement
-        xsi:type="archimate:ApplicationFunction"
-        href="ApplicationFunction_id-81273.xml#id-81273"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="id-9e41307476d3491292dca21f2addd26e"
       targetConnections="id-6f29d642f7c942dfa27d822254913da6">
     <sourceConnections
@@ -286,17 +264,48 @@
         href="ArchimateDiagramModel_id-200b7e807ff646b4a9a50e85cdf49b1e.xml#id-200b7e807ff646b4a9a50e85cdf49b1e"/>
   </children>
   <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-d64b924e2368484e94d7329b1798cfe2"
-      lineColor="#4f4f4f"
-      textAlignment="1"
-      fillColor="#ffffff"
-      content="Opm Paul:&#xD;&#xA;- Wordt de Applicatiecomponent herleidt vanuit de Applicatiefunctie? Of kan de Bedrijfsfunctie ook gebruikt worden door een Applicatiecomponent?&#xD;&#xA;> MB: in de GEMMA is de relatie van applicatiecomponent (of eigenlijk de referentiecomponent) vastgelegd via de applicatiefuncties. Afgeleide relaties zijn ook hier weer niet uitgewerkt in de GEMMA om redenen van overzichtelijkheid en beheerbaarheid. &#xD;&#xA;&#xD;&#xA;Volgens mij kan bijvoorbeeld BizzDesign deze relatie automatisch afleiden, Archi kan dat (nog) niet.&#xD;&#xA;De SWC heeft juist de relatie van refcomp naar bedrijfsfunctie nodig voor zijn filters/facets. Deze afgeleide relaties worden met een maatwerk script (van Toine) door de wiki afgeleid. &#xD;&#xA;Zie de view &quot;Softwarecatalogus afgeleide relaties&quot; ">
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-7ad61d083aec4bb598f329fe01d829a9"
+      targetConnections="id-7e29a133f19547d6a19ce79b1739abb8">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-f15691f655634eaab15c6afa28d9e376"
+        source="id-7ad61d083aec4bb598f329fe01d829a9"
+        target="id-b848d0709f4a41d48ba2c3dda4d0fd80">
+      <archimateRelationship
+          xsi:type="archimate:ServingRelationship"
+          href="ServingRelationship_id-81313.xml#id-81313"/>
+    </sourceConnections>
     <bounds
-        x="720"
-        y="130"
-        width="409"
-        height="261"/>
+        x="320"
+        y="650"
+        width="181"
+        height="61"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationService"
+        href="ApplicationService_id-81265.xml#id-81265"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-89faa79dea4041baac49a3125b0866f7"
+      type="1">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-7e29a133f19547d6a19ce79b1739abb8"
+        source="id-89faa79dea4041baac49a3125b0866f7"
+        target="id-7ad61d083aec4bb598f329fe01d829a9">
+      <archimateRelationship
+          xsi:type="archimate:RealizationRelationship"
+          href="RealizationRelationship_id-81303.xml#id-81303"/>
+    </sourceConnections>
+    <bounds
+        x="320"
+        y="750"
+        width="181"
+        height="61"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_id-243e822c7020403fa367d6e1b9df7fb5.xml#id-243e822c7020403fa367d6e1b9df7fb5"/>
   </children>
   <properties
       key="Toelichting"
