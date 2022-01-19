@@ -1,9 +1,0 @@
-<archimate:Requirement
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Sub requirement"
-    id="id-e614a31af77f402589e662dbd3cd95bf"
-    documentation="Deelbeschrijving van dat wat nodig is om een doel te bereiken">
-  <properties
-      key="Object ID"
-      value="5c22cf25-6233-48c4-af19-a4ca71196b6a"/>
-</archimate:Requirement>

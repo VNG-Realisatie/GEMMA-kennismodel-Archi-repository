@@ -587,9 +587,9 @@
       key="Toelichting"
       value="De modelleerafspraken geven weer hoe het GEMMA 2 architectuurmodel is opgebouwd. De modelleerafspraken helpen bij het beheerbaar en controleerbaar houden van het model. Een voorbeeld van een afspraak is dat de GEMMA bedrijfsfuncties en applicatiefuncties als een hierarchie zijn opgezet, het is niet toegestaan een subfunctie te hergebruiken in meerdere hoofdfuncties. Het model met modelleerafspraken is tevens de documentatie voor het AMEFF exportbestand dat kan worden gedownload op GEMMA Online of met de Softwarecatalogus"/>
   <properties
-      key="Object ID"
-      value="8f9862c2-15be-4d94-a960-aba134c67f83"/>
-  <properties
       key="Publiceren"
       value="GEMMA Online en redactie"/>
+  <properties
+      key="Object ID"
+      value="ae79eab2-ce19-4ad3-adf5-bdbbd1ac3881"/>
 </archimate:ArchimateDiagramModel>

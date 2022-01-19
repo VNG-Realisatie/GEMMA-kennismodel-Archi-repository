@@ -224,4 +224,7 @@
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_id-243e822c7020403fa367d6e1b9df7fb5.xml#id-243e822c7020403fa367d6e1b9df7fb5"/>
   </children>
+  <properties
+      key="Object ID"
+      value="f82c31cf-62d7-4519-a4bd-8603d99f9f94"/>
 </archimate:ArchimateDiagramModel>

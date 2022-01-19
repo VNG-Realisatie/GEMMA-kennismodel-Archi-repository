@@ -189,4 +189,7 @@
   <properties
       key="tableOneLineDoc"
       value="true"/>
+  <properties
+      key="Object ID"
+      value="83f66ea3-7cf3-4d40-80d5-231f7428e2ff"/>
 </archimate:ArchimateDiagramModel>

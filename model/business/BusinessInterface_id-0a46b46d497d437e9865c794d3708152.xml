@@ -1,4 +1,8 @@
 <archimate:BusinessInterface
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Kanaal"
-    id="id-0a46b46d497d437e9865c794d3708152"/>
+    id="id-0a46b46d497d437e9865c794d3708152">
+  <properties
+      key="Object ID"
+      value="b2ecce83-a72e-41c0-95b0-00733bde2114"/>
+</archimate:BusinessInterface>

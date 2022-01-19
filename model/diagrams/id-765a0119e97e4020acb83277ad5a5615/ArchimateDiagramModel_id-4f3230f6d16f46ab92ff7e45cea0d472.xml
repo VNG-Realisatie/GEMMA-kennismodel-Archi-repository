@@ -783,12 +783,12 @@
       key="Publiceren"
       value="Niet"/>
   <properties
-      key="Object ID"
-      value="b11939ec-2df0-46f0-8b22-2e92464509ce"/>
-  <properties
       key="renderViewFormat"
       value="png"/>
   <properties
       key="tableOneLineDoc"
       value="fal"/>
+  <properties
+      key="Object ID"
+      value="4bdf7f48-6db9-40cf-ace2-4ce9ce18aa64"/>
 </archimate:ArchimateDiagramModel>

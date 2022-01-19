@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Data-component"
     id="id-2a7ab279ebdb4fe382ed1da7a98fc200"
-    documentation="Component voor opslag en archivering"/>
+    documentation="Component voor opslag en archivering">
+  <properties
+      key="Object ID"
+      value="413c2acd-40db-4150-944c-59933f82489f"/>
+</archimate:ApplicationComponent>

@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Proces-component"
     id="id-0625506ffc3248d8b538925c1361d843"
-    documentation="Component voor het ondersteunen van bedrijfsprocessen"/>
+    documentation="Component voor het ondersteunen van bedrijfsprocessen">
+  <properties
+      key="Object ID"
+      value="d6b2a0bf-b872-46e1-9056-6064baaca578"/>
+</archimate:ApplicationComponent>

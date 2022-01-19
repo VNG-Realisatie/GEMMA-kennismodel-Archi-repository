@@ -64,4 +64,7 @@
   <properties
       key="renderViewScale"
       value="2"/>
+  <properties
+      key="Object ID"
+      value="71ba4c85-e3ea-478a-a13c-048c65a06e3b"/>
 </archimate:ArchimateDiagramModel>

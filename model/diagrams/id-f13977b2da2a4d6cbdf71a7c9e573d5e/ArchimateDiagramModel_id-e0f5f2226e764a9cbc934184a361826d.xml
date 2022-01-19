@@ -108,9 +108,6 @@
             id="id-1dae5498a5214c2bbac18dbded6a1333"
             source="id-521f5546577042f79ca6c0d250f4db95"
             target="id-ca8ccebe573f44b49fbb01004e8fe153">
-          <features
-              name="labelExpression"
-              value="${wordwrap:12:${name}}"/>
           <archimateRelationship
               xsi:type="archimate:SpecializationRelationship"
               href="SpecializationRelationship_id-dcba8842aeb449eb8256b746d8698d53.xml#id-dcba8842aeb449eb8256b746d8698d53"/>
@@ -372,5 +369,5 @@
   </children>
   <properties
       key="Object ID"
-      value="cf551916-b340-43a1-aedd-c6dce264ce36"/>
+      value="767d84ec-fde6-4393-b19b-b236e5e085e7"/>
 </archimate:ArchimateDiagramModel>
