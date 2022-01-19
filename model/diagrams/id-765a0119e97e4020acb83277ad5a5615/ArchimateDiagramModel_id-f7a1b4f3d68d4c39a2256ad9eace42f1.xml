@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="GEMMA modellering beperking"
     id="id-f7a1b4f3d68d4c39a2256ad9eace42f1"
-    documentation="Deze view toont de verschillende manieren waarop de standaarden uit de GEMMA standaardenlijst kunnen worden voorgeschreven voor het realiseren van koppelingen, applicaties en services.">
+    documentation="Deze view toont de verschillende manieren waarop de standaarden uit de GEMMA standaardenlijst kunnen worden voorgeschreven voor het realiseren van koppelingen, applicaties en services.&#xD;&#xA;&#xD;&#xA;API- en koppelingsstandaarden worden bij voorkeur voorgeschreven via een applicatie-interface. Voorschrijven via de applicatie-interface maakt expliciet of een applicatie de standaard ondersteund vanuit de rol aanbieder of afnemer.">
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="id-1070c180059c4103a43b41c09a2abc17"
@@ -337,19 +337,6 @@
         y="20"
         width="181"
         height="151"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-1554f4aacef5477f99a17555a086c4bf"
-      lineColor="#4f4f4f"
-      textAlignment="1"
-      fillColor="#ffffff"
-      content="Opm Paul:&#xD;&#xA;- De Applicatieinterface moet sowieso voldoen aan een bepaalde standaard. De compositierelatie of de servingrelatie geeft aan hoe de standaard moet worden ondersteund?">
-    <bounds
-        x="264"
-        y="-84"
-        width="369"
-        height="96"/>
   </children>
   <properties
       key="Toelichting"

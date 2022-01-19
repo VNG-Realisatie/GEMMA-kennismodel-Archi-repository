@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="GEMMA modellering bedrijfsfunctie"
     id="id-839630a936534f35ac978864707a4c07"
-    documentation="Deze view toont uit welke elementen het GEMMA bedrijfsfunctiemodel en het GEMMA bedrijfsfunctie en -objecten model ">
+    documentation="Deze view toont de ArchiMate modellering achter de views 'GEMMA bedrijfsfunctiemodel' en 'GEMMA bedrijfsfunctie en -objecten model">
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="id-8cb61d159dfc4cfcac85f8e32c1c13a8"

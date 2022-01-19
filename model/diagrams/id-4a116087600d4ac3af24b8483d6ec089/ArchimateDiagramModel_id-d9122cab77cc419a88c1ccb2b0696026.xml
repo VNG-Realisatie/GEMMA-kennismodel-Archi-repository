@@ -4,25 +4,13 @@
     name="GEMMA nieuw elan"
     id="id-d9122cab77cc419a88c1ccb2b0696026">
   <children
-      xsi:type="archimate:DiagramModelReference"
-      id="id-d85f132097694cd6aa2238f291359f0f">
-    <bounds
-        x="90"
-        y="50"
-        width="151"
-        height="55"/>
-    <referencedModel
-        xsi:type="archimate:ArchimateDiagramModel"
-        href="ArchimateDiagramModel_id-200b7e807ff646b4a9a50e85cdf49b1e.xml#id-200b7e807ff646b4a9a50e85cdf49b1e"/>
-  </children>
-  <children
       xsi:type="archimate:DiagramModelGroup"
       id="id-0db76bc1fa7e41fab074a6003eb44ab0"
       name="Bedrijfsarchitectuur"
       textAlignment="1">
     <bounds
         x="70"
-        y="120"
+        y="190"
         width="531"
         height="111"/>
     <children
@@ -69,7 +57,7 @@
       textAlignment="1">
     <bounds
         x="70"
-        y="250"
+        y="320"
         width="531"
         height="121"/>
     <children
@@ -86,21 +74,9 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelReference"
-        id="id-d6745d9de9f94402a03bf7aa91c20636">
-      <bounds
-          x="180"
-          y="40"
-          width="151"
-          height="55"/>
-      <referencedModel
-          xsi:type="archimate:ArchimateDiagramModel"
-          href="ArchimateDiagramModel_id-c3a8f831c1384cd68e5be388555629b1.xml#id-c3a8f831c1384cd68e5be388555629b1"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelReference"
         id="id-147dbfa18db147969646daf697e33980">
       <bounds
-          x="340"
+          x="180"
           y="40"
           width="151"
           height="55"/>
@@ -111,14 +87,38 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelGroup"
-      id="id-aec64e4617d3411dabe6d1b78cf7458b"
-      name="Projectarchitectuur"
+      id="id-36e93eff4295470ba56de9605e7ce698"
+      name="Kennismodel"
       textAlignment="1">
     <bounds
         x="70"
-        y="390"
-        width="531"
-        height="131"/>
+        y="30"
+        width="400"
+        height="140"/>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="id-d85f132097694cd6aa2238f291359f0f">
+      <bounds
+          x="30"
+          y="40"
+          width="151"
+          height="55"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_id-200b7e807ff646b4a9a50e85cdf49b1e.xml#id-200b7e807ff646b4a9a50e85cdf49b1e"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="id-6cabca49b1ae4a9b8f0f090a3b03a562">
+      <bounds
+          x="209"
+          y="41"
+          width="120"
+          height="55"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_id-4f3230f6d16f46ab92ff7e45cea0d472.xml#id-4f3230f6d16f46ab92ff7e45cea0d472"/>
+    </children>
   </children>
   <properties
       key="drivingView"

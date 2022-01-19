@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="GEMMA modellering bedrijfsproces"
-    id="id-ae2f1aa97aea4e629642aa96ee7a659d">
+    id="id-ae2f1aa97aea4e629642aa96ee7a659d"
+    documentation="Deze view toont de ArchiMate modellering in de GEMMA procesarchitectuur.">
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="id-8c88239981ea439a85c2a5a6eedadcec"

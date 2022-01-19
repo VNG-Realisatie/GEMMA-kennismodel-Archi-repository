@@ -3,15 +3,15 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="GEMMA specialisaties applicatiecomponent"
     id="81b8386e-3023-41a4-9091-f9fb2e122a2c"
-    documentation="Deze view toont alle mogelijke specialisaties van de applicatiecomponent in de GEMMA. De specialisaties worden gebruikt voor het definieren van specifieke gemeentelijke applicaties en voor het kunnen definieren van de rol die een applicatie heeft in een koppeling en of dit een interne of externe koppeling is (een koppeling met een buitengemeentelijke component).&#xD;&#xA;&#xD;&#xA;Tevens wordt in deze view een relatie gelegd tussen de GEMMA referentiecomponent en de in de Common Ground onderkende componenten en lagen.">
+    documentation="Deze view toont alle mogelijke specialisaties van de applicatiecomponent in de GEMMA. De specialisaties worden gebruikt voor het definieren van specifieke gemeentelijke applicaties en voor het kunnen definieren van de rol die een applicatie heeft in een koppeling en of dit een interne of externe koppeling is (een koppeling met een buitengemeentelijke component).">
   <children
       xsi:type="archimate:DiagramModelReference"
       id="id-7dd8c73294ce4ab49ca4d4cf80cb6520"
       fillColor="#fef3b6">
     <bounds
-        x="700"
-        y="520"
-        width="201"
+        x="20"
+        y="40"
+        width="161"
         height="61"/>
     <referencedModel
         xsi:type="archimate:ArchimateDiagramModel"
@@ -103,9 +103,9 @@
       type="1">
     <bounds
         x="20"
-        y="40"
+        y="120"
         width="161"
-        height="541"/>
+        height="461"/>
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_id-81341.xml#id-81341"/>

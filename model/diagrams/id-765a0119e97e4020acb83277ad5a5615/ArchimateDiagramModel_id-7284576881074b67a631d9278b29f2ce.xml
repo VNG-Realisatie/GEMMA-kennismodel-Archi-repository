@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="GEMMA modellering informatiearchitectuur"
-    id="id-7284576881074b67a631d9278b29f2ce">
+    id="id-7284576881074b67a631d9278b29f2ce"
+    documentation="Deze view toont de ArchiMate modellering achter de GEMMA informatiearchitectuur views">
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="id-a0b7d8367d85432194135bffb42cd176"

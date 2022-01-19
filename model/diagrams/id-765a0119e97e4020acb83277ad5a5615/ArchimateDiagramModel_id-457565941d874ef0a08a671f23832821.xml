@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="GEMMA modellering product en service"
-    id="id-457565941d874ef0a08a671f23832821">
+    id="id-457565941d874ef0a08a671f23832821"
+    documentation="Gewenste aansluiting van de GEMMA op de NORA modellering van producten en voorzieningen">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-72c19ea50431444cb7de2f9c965ba131"
@@ -174,10 +175,10 @@
       fillColor="#ffffff"
       content="Af te stemmen met de NORA">
     <bounds
-        x="520"
-        y="200"
+        x="490"
+        y="150"
         width="101"
-        height="71"/>
+        height="61"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
