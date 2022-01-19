@@ -5,10 +5,13 @@
   <properties
       key="Object ID"
       value="95227fad-bb79-4408-a618-8354780f3429"/>
+  <properties
+      key="Object ID"
+      value="cc8f36c1-3a6e-45c1-b865-781ce3179b0a"/>
   <source
       xsi:type="archimate:BusinessFunction"
-      href="BusinessFunction_id-81008.xml#id-81008"/>
+      href="BusinessFunction_id-44bbb0184dbb43adaca73495aaf7155f.xml#id-44bbb0184dbb43adaca73495aaf7155f"/>
   <target
       xsi:type="archimate:BusinessFunction"
-      href="BusinessFunction_id-81004.xml#id-81004"/>
+      href="BusinessFunction_id-44bbb0184dbb43adaca73495aaf7155f.xml#id-44bbb0184dbb43adaca73495aaf7155f"/>
 </archimate:AggregationRelationship>

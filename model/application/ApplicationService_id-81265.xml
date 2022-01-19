@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Applicatieservice"
     id="id-81265"
-    documentation="Een applicatieservice ontsluit functionaliteit naar afnemers van die functionaliteit. Een voorbeeld van een applicatieservice is de 'Aanmaken zaak' service.">
+    documentation="Een applicatieservice ontsluit functionaliteit naar afnemers van die functionaliteit. Een voorbeeld van een applicatieservice is de 'Aanmaken zaak' service. ">
   <properties
       key="Toelichting"
       value="Bron: ArchiMate 2.1"/>

@@ -1,0 +1,17 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-22fb339761b84204b4abd97c0faa8083">
+  <properties
+      key="Object ID"
+      value="5efbcf34-eb5e-452a-9f84-b8b40ad3ad11"/>
+  <properties
+      key="convertConcept"
+      value="Relationship type was &quot;aggregation&quot;. Element &quot;Doelgroep&quot; converted from &quot;application-function&quot; to &quot;business-actor&quot;"/>
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-fd9ea98ba75c4dc799ee7e94a21c2774.xml#id-fd9ea98ba75c4dc799ee7e94a21c2774"/>
+  <target
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-cd429ccfa12247a4830e8894e1a96bd1.xml#id-cd429ccfa12247a4830e8894e1a96bd1"/>
+</archimate:AssociationRelationship>

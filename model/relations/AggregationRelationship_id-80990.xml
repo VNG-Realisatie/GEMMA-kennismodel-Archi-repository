@@ -6,9 +6,9 @@
       key="Object ID"
       value="0b23d6ff-1b0d-4f6a-af76-463620aaab38"/>
   <source
-      xsi:type="archimate:ApplicationFunction"
-      href="ApplicationFunction_id-80969.xml#id-80969"/>
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-cd429ccfa12247a4830e8894e1a96bd1.xml#id-cd429ccfa12247a4830e8894e1a96bd1"/>
   <target
       xsi:type="archimate:ApplicationFunction"
-      href="ApplicationFunction_id-81010.xml#id-81010"/>
+      href="ApplicationFunction_id-81273.xml#id-81273"/>
 </archimate:AggregationRelationship>

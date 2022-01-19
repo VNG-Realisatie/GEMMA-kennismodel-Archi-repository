@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Buitengemeentelijke aanbieder"
+    id="id-42ad7bf7ec8b45b28c923f394057bb06"
+    documentation="Een landelijke- of sectorale aanbieder van een voor gemeenten relevante voorziening">
+  <properties
+      key="Object ID"
+      value="e1d64ff5-b839-44b3-96ab-82db90b89f5d"/>
+</archimate:ApplicationComponent>

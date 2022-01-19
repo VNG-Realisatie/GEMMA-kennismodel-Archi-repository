@@ -1,7 +1,7 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Levert"
+    name="levert"
     id="id-80973"
     documentation="Een pakket wordt geleverd door één leverancier">
   <properties

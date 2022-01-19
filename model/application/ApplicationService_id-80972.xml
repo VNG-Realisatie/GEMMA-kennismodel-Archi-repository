@@ -1,15 +1,15 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Buitengemeentelijke service (Verzenden en ontvangen e-Facturen)"
+    name="Buitengemeentelijke service"
     id="id-80972"
-    documentation="Een buitengemeentelijk koppelvlak is een applicatieservice van een buitengemeentelijk component waar een gemeente op aansluit.">
-  <properties
-      key="Toelichting"
-      value="Eigenschappen van een buitengemeentelijke service * GEMMA type = 'Buitengemeentelijke service' * Naam - Naam van de buitengemeentelijke service * Documentatie - definitie van de buitengemeentelijke service * Object ID - Unieke sleutel van buitengemeentelijke service, GUID overgenomen uit KING architectuurtool"/>
+    documentation="De buitengemeentelijke service (of koppelvlak) is een applicatie service die de sectorale en landelijke voorzieningen aanbieden aan haar afnemers.&#xD;&#xA;&#xD;&#xA;Eigenschappen van een buitengemeentelijke service:&#xD;&#xA;* GEMMA type = 'Buitengemeentelijke service'">
   <properties
       key="GEMMA type"
-      value="Geen"/>
+      value="Buitengemeentelijke service"/>
+  <properties
+      key="Toelichting"
+      value="Bron: GEMMA 2.0"/>
   <properties
       key="Object ID"
-      value="c01ee1bc-c05d-46f3-b899-4478001fe75a"/>
+      value="adb80ead-6a6b-4344-8701-ff809f5f5999"/>
 </archimate:ApplicationService>

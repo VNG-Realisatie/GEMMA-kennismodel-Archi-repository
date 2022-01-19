@@ -1,8 +1,8 @@
 <archimate:Principle
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Principe"
+    name="Uitgangspunt"
     id="id-81079"
-    documentation="Principes zijn algemene regels en richtlijnen, en zijn bedoeld voor:&#xA;* langdurig gebruik en worden zelden aangepast,&#xA;* de ondersteuning van het informeren en bereiken van de missie van een organisatie.">
+    documentation="Uitgangspunten zijn algemene regels en richtlijnen, en zijn bedoeld voor:&#xA;* langdurig gebruik en worden zelden aangepast,&#xA;* de ondersteuning van het informeren en bereiken van de missie van een organisatie.">
   <properties
       key="Toelichting"
       value="Bron: The Open Group"/>

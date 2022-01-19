@@ -5,10 +5,13 @@
   <properties
       key="Object ID"
       value="4df5b533-4fb6-40f3-b5b1-1d7f6ef42338"/>
+  <properties
+      key="Object ID"
+      value="f47caf12-c99f-4c2e-b1df-26bb02e2841c"/>
   <source
       xsi:type="archimate:ApplicationFunction"
-      href="ApplicationFunction_id-81010.xml#id-81010"/>
+      href="ApplicationFunction_id-81273.xml#id-81273"/>
   <target
       xsi:type="archimate:ApplicationFunction"
-      href="ApplicationFunction_id-80997.xml#id-80997"/>
+      href="ApplicationFunction_id-81273.xml#id-81273"/>
 </archimate:AggregationRelationship>

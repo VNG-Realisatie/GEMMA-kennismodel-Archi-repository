@@ -1,0 +1,15 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verplicht / Aanbevolen"
+    id="id-79316f6ca56a4007ace08f8f04357ff3">
+  <properties
+      key="Object ID"
+      value="7a0ebac2-4ef7-481a-be6a-fac2ff64b1b8"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-42ad7bf7ec8b45b28c923f394057bb06.xml#id-42ad7bf7ec8b45b28c923f394057bb06"/>
+  <target
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_id-81344.xml#id-81344"/>
+</archimate:CompositionRelationship>

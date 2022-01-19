@@ -1,7 +1,7 @@
 <archimate:SpecializationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="specialiseert standaardversie"
+    name="heeft versie"
     id="id-81076">
   <properties
       key="Object ID"

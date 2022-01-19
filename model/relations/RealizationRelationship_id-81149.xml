@@ -5,10 +5,13 @@
   <properties
       key="Object ID"
       value="e8841154-1b21-4566-9ea0-7a2c68a1230f"/>
+  <properties
+      key="Object ID"
+      value="2afcf27e-1a4a-4d5e-ab08-57715e3df6a5"/>
   <source
       xsi:type="archimate:BusinessProcess"
       href="BusinessProcess_id-81151.xml#id-81151"/>
   <target
       xsi:type="archimate:BusinessService"
-      href="BusinessService_id-81150.xml#id-81150"/>
+      href="BusinessService_id-81176.xml#id-81176"/>
 </archimate:RealizationRelationship>

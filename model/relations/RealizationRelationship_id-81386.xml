@@ -1,15 +1,19 @@
 <archimate:RealizationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Realiseert standaardversie"
-    id="id-81386">
+    name="ondersteunt"
+    id="id-81386"
+    documentation="Een pakketversie ondersteunt één of meerdere standaarversie. Een pakketversie is compliant, indien de leverancier d.m.v. het uploaden van een testrapport aantoont aan de standaard te voldoen.&#xA;&#xA;Eigenschappen van relatie Ondersteunt (Pakketversie - Standaardversie)&#xD;&#xA;* Compliancy testrapport (j/n)&#xD;&#xA; * Testrapport URL - URL naar testrapport in Softwarecatalogus of door leverancier beheerde website">
   <properties
       key="Object ID"
       value="53234fc7-cd0f-4d20-afdd-28e3b2d75e9f"/>
+  <properties
+      key="Toelichting"
+      value="Bron: Softwarecatalogus"/>
   <source
       xsi:type="archimate:ApplicationComponent"
-      href="ApplicationComponent_id-81387.xml#id-81387"/>
+      href="ApplicationComponent_id-80980.xml#id-80980"/>
   <target
       xsi:type="archimate:Constraint"
-      href="Constraint_id-81081.xml#id-81081"/>
+      href="Constraint_id-80986.xml#id-80986"/>
 </archimate:RealizationRelationship>

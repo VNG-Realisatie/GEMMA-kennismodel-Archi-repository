@@ -1,11 +1,11 @@
 <archimate:BusinessCollaboration
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Samenwerking"
+    name="Samenwerkingsverband"
     id="id-80979"
-    documentation="Een samenwerking (of samenwerkingverband) is een juridische vorm waarin gemeenten vastleggen welke specifiek omschreven taken en bevoegdheden aan de samenwerking worden gedelegeerd.">
+    documentation="Een samenwerking (of samenwerkingverband) is een juridische vorm waarin gemeenten vastleggen welke specifiek omschreven taken en bevoegdheden aan de samenwerking worden gedelegeerd.&#xD;&#xA;&#xD;&#xA;Eigenchappen van een samenwerking &#xD;&#xA;* SWC type ='Samenwerking'&#xD;&#xA;* Type - Gekozen vorm van samenwerking">
   <properties
       key="Toelichting"
-      value="Eigenchappen van een samenwerking * GEMMA type ='Samenwerking' * Object ID - Unieke sleutel van samenwerkingsverband, GUID gegenereerd door Softwarecatalogus * Type - Gekozen vorm van samenwerking ** Ambtelijke fusie ** Belastingsamenwerking ** Gemeentelijke herindeling ** GR (gemeenschappelijk regeling) ** ICT (ICT samenwerking/shared service centrum) ** Intergemeentelijke Sociale Dienst ** Omgevingsdienst ** Uitvoeringsdienst ** Sociaal Domein samenwerking"/>
+      value="Bron: Softwarecatalogus"/>
   <properties
       key="Object ID"
       value="d3f40be4-e796-46bb-9cf1-d4d33ad4f934"/>

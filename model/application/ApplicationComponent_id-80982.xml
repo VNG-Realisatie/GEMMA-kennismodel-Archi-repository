@@ -1,12 +1,12 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Pakket (Excel)"
+    name="Pakket"
     id="id-80982"
-    documentation="Een pakket is een door een leverancier in de softwarecatalogus geregistreerde (gemeentelijke) applicatie. Een pakket is zelfstandig inzetbaar, installeerbaar en beheerbaar;">
-  <properties
-      key="Toelichting"
-      value="Eigenschappen van een pakket die aan de AMEFF export worden meegegeven: * GEMMA type='Pakket' * Documentatie - Beschrijving van een pakket * Naam - Naam van het pakket * Object ID - Unieke sleutel van een pakket; GUID gegenereerd door Softwarecatalogus * URL - Pagina op de website van de leverancier met meer gegevens over het pakket Extra gegevens pakket over registratie pakket door leverancier * Mutatiedatum pakket- Datum pakket toegevoegd of gewijzigd in productportfolio leverancier (formaat DD-MM-YY)"/>
+    documentation="Een pakket is een door een leverancier in de softwarecatalogus geregistreerde (gemeentelijke) applicatie. Een pakket is zelfstandig inzetbaar, installeerbaar en beheerbaar;&#xA;&#xD;&#xA;Eigenschappen van een pakket:&#xD;&#xA;* SWC type='Pakket'&#xD;&#xA;* Object ID - Unieke sleutel van een pakket; GUID gegenereerd door Softwarecatalogus&#xD;&#xA;* URL - Pagina op de website van de leverancier met meer gegevens over het pakket&#xD;&#xA;* Mutatiedatum pakket- Datum pakket toegevoegd of gewijzigd in productportfolio leverancier (formaat DD-MM-YY)&#xD;&#xA;&#xD;&#xA;In de export voor een gemeente/samenwerking wordt van een pakket tevens de volgende eigenschappen meegegeven: &#xD;&#xA;* Extern pakket - 'ja/nee'; een externe pakketversie, is een door de gemeente in de softwarecatalogus geregistreerde (versie van een) applicatie">
   <properties
       key="Object ID"
-      value="7134ae15-f5fc-41d7-8f76-628133c6df26"/>
+      value="89be52f4-87b5-4943-bff9-f9b6b889b249"/>
+  <properties
+      key="Toelichting"
+      value="Bron: Softwarecatalogus"/>
 </archimate:ApplicationComponent>

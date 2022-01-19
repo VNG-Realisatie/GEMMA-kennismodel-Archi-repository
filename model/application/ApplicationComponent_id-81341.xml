@@ -2,11 +2,14 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Applicatiecomponent"
     id="id-81341"
-    documentation="Een modulair, zelfstandig inzetbaar en vervangbaar deel van een systeem, dat zijn functionaliteit aanbiedt via goed gedefinieerde interfaces. Applicatiecomponenten stellen functionaliteit beschikbaar, die gebruikt wordt om de applicatiediensten mee te leveren.">
+    documentation="Een modulair, zelfstandig inzetbaar en vervangbaar deel van een systeem, dat zijn functionaliteit aanbiedt via goed gedefinieerde interfaces. Applicatiecomponenten stellen functionaliteit beschikbaar, die gebruikt wordt om de applicatiediensten mee te leveren.&#xA;">
   <properties
       key="Toelichting"
       value="Bron: ArchiMate 2.1"/>
   <properties
       key="Object ID"
       value="08bcd296-6744-45db-9f45-1cc5705ac3ba"/>
+  <properties
+      key="Object ID"
+      value="3e3ae8cb-ec1a-4b48-a16e-9a4826b15b38"/>
 </archimate:ApplicationComponent>

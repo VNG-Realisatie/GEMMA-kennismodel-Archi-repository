@@ -5,10 +5,13 @@
   <properties
       key="Object ID"
       value="0499f65d-f076-4e88-985d-d54dae6b54bd"/>
+  <properties
+      key="Object ID"
+      value="bdd47049-c17f-4c33-87fb-fad79ee65b3c"/>
   <source
       xsi:type="archimate:ApplicationService"
       href="ApplicationService_id-80972.xml#id-80972"/>
   <target
       xsi:type="archimate:ApplicationComponent"
-      href="ApplicationComponent_id-80995.xml#id-80995"/>
+      href="ApplicationComponent_id-243e822c7020403fa367d6e1b9df7fb5.xml#id-243e822c7020403fa367d6e1b9df7fb5"/>
 </archimate:ServingRelationship>

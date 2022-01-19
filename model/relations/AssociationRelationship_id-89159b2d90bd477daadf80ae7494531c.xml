@@ -1,0 +1,15 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Doelgroepfilter"
+    id="id-89159b2d90bd477daadf80ae7494531c">
+  <properties
+      key="Object ID"
+      value="68427ec9-d622-4c47-b081-31bbee1ce864"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-243e822c7020403fa367d6e1b9df7fb5.xml#id-243e822c7020403fa367d6e1b9df7fb5"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-fd9ea98ba75c4dc799ee7e94a21c2774.xml#id-fd9ea98ba75c4dc799ee7e94a21c2774"/>
+</archimate:AssociationRelationship>
