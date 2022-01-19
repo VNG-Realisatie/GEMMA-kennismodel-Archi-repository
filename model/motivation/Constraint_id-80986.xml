@@ -4,9 +4,6 @@
     id="id-80986"
     documentation="Een door de beheerder van de standaard uitgebrachte versie. &#xD;&#xA;&#xD;&#xA;Eigenschappen van een standaarversie:&#xD;&#xA;* GEMMA type='Standaardversie'&#xD;&#xA;* Versieaanduiding - De versieaanduiding van de standaardversie&#xD;&#xA;* Status - Aanduiding of de standaardversie in gebruik is of bijvoorbeeld nog in ontwikkeling">
   <properties
-      key="Toelichting"
-      value="Eigenschappen van een standaarversie * GEMMA type='Standaardversie' * Naam - Naam van de standaardversie * Documentatie - Korte toelichting op de versie van de standaard * Object ID - Unieke sleutel van standaardversie, GUID overgenomen uit KING architectuurtool * Versieaanduiding - De versieaanduiding van de standaardversie * Status - Aanduiding of de standaardversie in gebruik is of bijvoorbeeld nog in ontwikkeling ** Einde ondersteuning ** In gebruik ** In ontwikkeling ** Teruggetrokken"/>
-  <properties
       key="Object ID"
       value="7650b4e2-1f91-434e-a7cb-40286aceaa59"/>
   <properties
@@ -15,7 +12,4 @@
   <properties
       key="GEMMA type"
       value="Standaardversie"/>
-  <properties
-      key="Object ID"
-      value="4c2d83af-4c45-4cae-a05e-ba307147fa7e"/>
 </archimate:Constraint>

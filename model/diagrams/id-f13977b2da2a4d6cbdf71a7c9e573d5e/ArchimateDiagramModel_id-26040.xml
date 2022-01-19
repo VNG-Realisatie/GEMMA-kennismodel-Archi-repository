@@ -155,7 +155,6 @@
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-37ad9a98a9c549249bc675da7f56980f"
-          targetConnections="id-825e6aa365964b7392d639f4bfe363b9"
           lineWidth="3"
           lineColor="#ff0000"
           source="id-81072"
@@ -942,21 +941,6 @@
           xsi:type="archimate:BusinessActor"
           href="BusinessActor_id-fd9ea98ba75c4dc799ee7e94a21c2774.xml#id-fd9ea98ba75c4dc799ee7e94a21c2774"/>
     </children>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-0c2fc659d8984774ad78af694cbfebad"
-      textAlignment="1"
-      content="nog nakijken - is voor leverancier zichtbaar in SWC? Zo ja, dan meeleveren in export">
-    <sourceConnections
-        id="id-825e6aa365964b7392d639f4bfe363b9"
-        source="id-0c2fc659d8984774ad78af694cbfebad"
-        target="id-37ad9a98a9c549249bc675da7f56980f"/>
-    <bounds
-        x="750"
-        y="880"
-        width="161"
-        height="71"/>
   </children>
   <properties
       key="Toelichting"

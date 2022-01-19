@@ -1022,17 +1022,6 @@
           y="70"
           width="141"
           height="61"/>
-      <children
-          xsi:type="archimate:DiagramModelReference"
-          id="id-804a57d5388e4787a3f3b6bf897c5518"
-          fillColor="#fef3b6">
-        <bounds
-            width="31"
-            height="21"/>
-        <referencedModel
-            xsi:type="archimate:ArchimateDiagramModel"
-            href="ArchimateDiagramModel_id-c3a8f831c1384cd68e5be388555629b1.xml#id-c3a8f831c1384cd68e5be388555629b1"/>
-      </children>
       <archimateElement
           xsi:type="archimate:ApplicationInterface"
           href="ApplicationInterface_id-81344.xml#id-81344"/>
@@ -1644,7 +1633,7 @@
         xsi:type="archimate:DiagramModelNote"
         id="id-8adf35a54ad84e67aa97fb624995b097"
         textAlignment="1"
-        content="Voor de GEMMA geldt:&#xD;&#xA;- Een groep kan alle concepten groeperen&#xD;&#xA;- Alle concepten kunnen zichzelf groeperen">
+        content="Voor de GEMMA geldt:&#xD;&#xA;*  Een groep kan alle concepten groeperen&#xD;&#xA;* Alle concepten kunnen zichzelf groeperen">
       <bounds
           x="20"
           y="70"
