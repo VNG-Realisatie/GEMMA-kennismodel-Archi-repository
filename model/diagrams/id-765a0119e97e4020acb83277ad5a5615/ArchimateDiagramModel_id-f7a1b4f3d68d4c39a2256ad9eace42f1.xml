@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="GEMMA modellering beperking"
     id="id-f7a1b4f3d68d4c39a2256ad9eace42f1"
-    documentation="Deze view toont de verschillende manieren waarop de standaarden uit de GEMMA standaardenlijst kunnen worden voorgeschreven voor het realiseren van koppelingen, applicaties en services.&#xD;&#xA;&#xD;&#xA;API- en koppelingsstandaarden worden bij voorkeur voorgeschreven via een applicatie-interface. Voorschrijven via de applicatie-interface maakt expliciet of een applicatie de standaard ondersteund vanuit de rol aanbieder of afnemer.">
+    documentation="Deze view toont de verschillende manieren waarop de standaarden uit de GEMMA standaardenlijst kunnen worden voorgeschreven voor het realiseren van koppelingen, applicaties en services.&#xA;&#xA;API- en koppelingsstandaarden worden bij voorkeur voorgeschreven via een applicatie-interface. Voorschrijven via de applicatie-interface maakt expliciet of een applicatie de standaard ondersteund vanuit de rol aanbieder of afnemer.">
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="id-1070c180059c4103a43b41c09a2abc17"

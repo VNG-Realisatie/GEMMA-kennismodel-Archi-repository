@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Softwarecatalogus kennismodel"
     id="id-0938f29825cd4257bafe7449773a52ac"
-    documentation="Deze view documenteert de ArchiMate export  die de Softwarecatalogus genereert. De elementtypen en relatietypen die het exportbestand bevat worden getoond. ">
+    documentation="Deze view documenteert de ArchiMate export  die de Softwarecatalogus genereert. De elementtypen en relatietypen die het exportbestand bevat worden getoond.">
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="id-90dfdb72a48d493fa972c902a90becd1"

@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="GEMMA kennismodel uitgebreid"
     id="id-200b7e807ff646b4a9a50e85cdf49b1e"
-    documentation="Het GEMMA kennismodel is de invulling van de ArchiMate conventie voor de informatievoorziening van het gemeentelijk domein&#xD;&#xA;&#xD;&#xA;In het GEMMA kennismodel uitgebreid beschrijft aanvullend op de in de GEMMA gemodelleerde ArchiMate elementen:&#xD;&#xA;- de gewensde uitbreidingen op de GEMMA, waaronder het toevoegen van de infrastructuur&#xD;&#xA;- de elementen en relaties die gebruikt worden in projectarchitecturen. Een projectarchitectuur kan volledig Archimate gebruiken.">
+    documentation="Het GEMMA kennismodel is de invulling van de ArchiMate conventie voor de informatievoorziening van het gemeentelijk domein&#xA;&#xA;In het GEMMA kennismodel uitgebreid beschrijft aanvullend op de in de GEMMA gemodelleerde ArchiMate elementen:&#xA;- de gewensde uitbreidingen op de GEMMA, waaronder het toevoegen van de infrastructuur&#xA;- de elementen en relaties die gebruikt worden in projectarchitecturen. Een projectarchitectuur kan volledig Archimate gebruiken.">
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="id-095e491433a24722b5d540b45985ba1f"
@@ -1708,7 +1708,7 @@
   </children>
   <properties
       key="Publiceren"
-      value="Niet"/>
+      value="GEMMA Online en redactie"/>
   <properties
       key="Object ID"
       value="b11939ec-2df0-46f0-8b22-2e92464509ce"/>
