@@ -518,18 +518,6 @@
           y="170"
           width="191"
           height="61"/>
-      <children
-          xsi:type="archimate:DiagramModelReference"
-          id="id-9815910802d6474595b0f7ad48433f9f"
-          fillColor="#fef3b6">
-        <bounds
-            y="160"
-            width="31"
-            height="21"/>
-        <referencedModel
-            xsi:type="archimate:ArchimateDiagramModel"
-            href="ArchimateDiagramModel_id-839630a936534f35ac978864707a4c07.xml#id-839630a936534f35ac978864707a4c07"/>
-      </children>
       <archimateElement
           xsi:type="archimate:BusinessFunction"
           href="BusinessFunction_id-44bbb0184dbb43adaca73495aaf7155f.xml#id-44bbb0184dbb43adaca73495aaf7155f"/>
