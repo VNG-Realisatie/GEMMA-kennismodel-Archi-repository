@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="benadert"
-    id="id-81157">
+    id="id-81157"
+    accessType="3">
   <properties
       key="Object ID"
       value="a9ebc2df-c022-464b-bb24-09ef234d4c61"/>
