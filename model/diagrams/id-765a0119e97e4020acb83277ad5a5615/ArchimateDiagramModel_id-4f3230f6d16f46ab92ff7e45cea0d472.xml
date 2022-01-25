@@ -19,7 +19,7 @@
     <bounds
         x="270"
         y="70"
-        width="941"
+        width="861"
         height="141"/>
   </children>
   <children
@@ -64,7 +64,7 @@
             href="SpecializationRelationship_id-97783dbce73e47849bdebaf47bc641b3.xml#id-97783dbce73e47849bdebaf47bc641b3"/>
       </sourceConnections>
       <bounds
-          x="10"
+          x="20"
           y="390"
           width="141"
           height="61"/>
@@ -80,7 +80,7 @@
         fillColor="#ccccff"
         textPosition="1">
       <bounds
-          x="10"
+          x="20"
           y="40"
           width="141"
           height="61"/>
@@ -100,7 +100,7 @@
     <bounds
         x="220"
         y="870"
-        width="991"
+        width="911"
         height="51"/>
   </children>
   <children
@@ -114,7 +114,7 @@
     <bounds
         x="220"
         y="230"
-        width="991"
+        width="911"
         height="331"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -154,7 +154,7 @@
             href="AssociationRelationship_id-81190.xml#id-81190"/>
       </sourceConnections>
       <bounds
-          x="760"
+          x="680"
           y="90"
           width="141"
           height="61"/>
@@ -262,20 +262,14 @@
           source="id-2f8aed2c711f4e2a866501928fb90a23"
           target="id-151b5a329ef142dc9e0ad9fc48eaa041">
         <bendpoints
-            startX="215"
-            endX="-110"
+            startX="325"
             endY="150"/>
-        <bendpoints
-            startX="215"
-            startY="-130"
-            endX="-110"
-            endY="20"/>
         <archimateRelationship
             xsi:type="archimate:AccessRelationship"
             href="AccessRelationship_id-81157.xml#id-81157"/>
       </sourceConnections>
       <bounds
-          x="420"
+          x="340"
           y="240"
           width="171"
           height="61"/>
@@ -329,9 +323,8 @@
             endX="-570"
             endY="-70"/>
         <bendpoints
-            startX="560"
+            startX="470"
             startY="-70"
-            endX="10"
             endY="-70"/>
         <archimateRelationship
             xsi:type="archimate:AccessRelationship"
@@ -427,7 +420,7 @@
             href="ServingRelationship_id-81156.xml#id-81156"/>
       </sourceConnections>
       <bounds
-          x="510"
+          x="430"
           y="90"
           width="191"
           height="61"/>
@@ -447,7 +440,7 @@
     <bounds
         x="220"
         y="580"
-        width="991"
+        width="911"
         height="271"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -517,7 +510,7 @@
             href="RealizationRelationship_id-81348.xml#id-81348"/>
       </sourceConnections>
       <bounds
-          x="200"
+          x="120"
           y="190"
           width="141"
           height="61"/>
@@ -567,7 +560,7 @@
             href="ServingRelationship_id-81343.xml#id-81343"/>
       </sourceConnections>
       <bounds
-          x="200"
+          x="120"
           y="40"
           width="141"
           height="61"/>
@@ -625,7 +618,7 @@
             href="ServingRelationship_id-1c187d93908940eaa71e4ba415b5faac.xml#id-1c187d93908940eaa71e4ba415b5faac"/>
       </sourceConnections>
       <bounds
-          x="410"
+          x="340"
           y="40"
           width="231"
           height="61"/>

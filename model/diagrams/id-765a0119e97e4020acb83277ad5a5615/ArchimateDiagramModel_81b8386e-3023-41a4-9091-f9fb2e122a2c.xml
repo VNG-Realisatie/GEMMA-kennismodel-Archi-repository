@@ -5,19 +5,6 @@
     id="81b8386e-3023-41a4-9091-f9fb2e122a2c"
     documentation="Deze view toont alle mogelijke specialisaties van de applicatiecomponent in de GEMMA. De specialisaties worden gebruikt voor het definieren van specifieke gemeentelijke applicaties en voor het kunnen definieren van de rol die een applicatie heeft in een koppeling en of dit een interne of externe koppeling is (een koppeling met een buitengemeentelijke component).">
   <children
-      xsi:type="archimate:DiagramModelReference"
-      id="id-7dd8c73294ce4ab49ca4d4cf80cb6520"
-      fillColor="#fef3b6">
-    <bounds
-        x="20"
-        y="40"
-        width="161"
-        height="61"/>
-    <referencedModel
-        xsi:type="archimate:ArchimateDiagramModel"
-        href="ArchimateDiagramModel_id-200b7e807ff646b4a9a50e85cdf49b1e.xml#id-200b7e807ff646b4a9a50e85cdf49b1e"/>
-  </children>
-  <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-776b5331a9d942b4b58d199c0d636387"
       targetConnections="id-c1205b9dee734cffaf0b3a3f120a1fbc id-43467ce116824c16835118017b595159"
@@ -103,9 +90,9 @@
       type="1">
     <bounds
         x="20"
-        y="120"
+        y="40"
         width="161"
-        height="461"/>
+        height="541"/>
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_id-81341.xml#id-81341"/>
