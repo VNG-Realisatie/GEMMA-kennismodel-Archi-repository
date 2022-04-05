@@ -51,9 +51,6 @@
           id="id-bed77ff7d61d42ca81a41dad3b37d1e1"
           source="id-1463fcd7215c429a8c765f1049fec73a"
           target="id-82e455fda4e2403c814f89d1b4c6f523">
-        <features
-            name="labelExpression"
-            value="${wordwrap:12:${name}}"/>
         <archimateRelationship
             xsi:type="archimate:ServingRelationship"
             href="ServingRelationship_id-d111ec84aeb14c0f83efb9e65285ad7d.xml#id-d111ec84aeb14c0f83efb9e65285ad7d"/>
