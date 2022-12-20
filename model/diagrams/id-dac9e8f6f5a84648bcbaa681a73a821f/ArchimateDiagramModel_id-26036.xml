@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="GEMMA modelleerafspraken inheritance"
-    id="id-26036">
+    id="id-26036"
+    documentation="Deze view toont de modellering van inheritance in de GEMMA. Modellering met inheritance wordt gedaan om in het GEMMA model minder relaties te moeten onderhouden.">
   <children
       xsi:type="archimate:DiagramModelNote"
       id="id-81768"
@@ -391,9 +392,9 @@
       content="Eigen relaties, geen invloed op overerving">
     <bounds
         x="8"
-        y="220"
+        y="200"
         width="220"
-        height="173"/>
+        height="193"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -527,4 +528,7 @@
   <properties
       key="Publiceren"
       value="GEMMA Online en redactie"/>
+  <properties
+      key="Toelichting"
+      value="De met inheritance gedefinieerde relaties worden door de GEMMA wiki importmodule aangemaakt. Op GEMMA online zijn alle relaties expliciet aanwezig."/>
 </archimate:ArchimateDiagramModel>

@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Softwarecatalogus en de componentencatalogus"
-    id="id-e0f5f2226e764a9cbc934184a361826d">
+    id="id-e0f5f2226e764a9cbc934184a361826d"
+    documentation="Hoe verhouden pakketten en componenten in de componentencatalogus zich tot de pakketten in de Softwarecatalogus">
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="id-11fb32800099499096a5d7552688c843"
@@ -220,9 +221,6 @@
             id="id-0fed01686ebb49689c4d26f147ecfbf9"
             source="id-4e873bf24f2d48a69397d51826d5d68f"
             target="id-521f5546577042f79ca6c0d250f4db95">
-          <features
-              name="labelExpression"
-              value="${wordwrap:12:${name}}"/>
           <archimateRelationship
               xsi:type="archimate:ServingRelationship"
               href="ServingRelationship_id-d111ec84aeb14c0f83efb9e65285ad7d.xml#id-d111ec84aeb14c0f83efb9e65285ad7d"/>

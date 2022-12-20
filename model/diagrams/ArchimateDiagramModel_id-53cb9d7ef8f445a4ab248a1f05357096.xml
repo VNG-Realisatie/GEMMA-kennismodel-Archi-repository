@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="GEMMA modellering buitengemeentelijk"
-    id="id-53cb9d7ef8f445a4ab248a1f05357096">
+    id="id-53cb9d7ef8f445a4ab248a1f05357096"
+    documentation="Modellering van gegevensuitwisselingen met buitengemeentelijke voorzieningen.">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-56d3337144c149e098fa449aebd3c426"
@@ -219,5 +220,5 @@
       value="f82c31cf-62d7-4519-a4bd-8603d99f9f94"/>
   <properties
       key="Publiceren"
-      value="Niet"/>
+      value="GEMMA Online en redactie"/>
 </archimate:ArchimateDiagramModel>

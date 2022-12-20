@@ -72,18 +72,6 @@
           xsi:type="archimate:ArchimateDiagramModel"
           href="ArchimateDiagramModel_id-26036.xml#id-26036"/>
     </children>
-    <children
-        xsi:type="archimate:DiagramModelReference"
-        id="id-0847ddbbc3d24b5d9cf9e0ea462be8c3">
-      <bounds
-          x="324"
-          y="56"
-          width="120"
-          height="55"/>
-      <referencedModel
-          xsi:type="archimate:ArchimateDiagramModel"
-          href="ArchimateDiagramModel_id-fce4b5f34eb74b858922edb14841f8bd.xml#id-fce4b5f34eb74b858922edb14841f8bd"/>
-    </children>
   </children>
   <children
       xsi:type="archimate:DiagramModelGroup"
@@ -120,4 +108,7 @@
   <properties
       key="Object ID"
       value="ededfd15-d625-42c1-aaff-60a250adadcc"/>
+  <properties
+      key="Publiceren"
+      value="niet"/>
 </archimate:ArchimateDiagramModel>

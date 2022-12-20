@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="GEMMA kennismodel - Bouwstenen bedrijfsservices"
+    name="Procesarchitectuur - Bouwstenen bedrijfsservices"
     id="id-26034">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="GEMMA nieuw elan impact op SWC"
+    name="Softwarecatalogus afgeleide relaties (impact)"
     id="id-8c79cc0df10f4c38b669188116057b31"
     documentation="Deze view toont de modelleerafspraken die gehanteerd zijn bij het maken van de GEMMA 2. De modelleerafspraken zijn van belang om voor de Softwarecatalogus de afgeleide relaties te kunnen maken (getekend als gestreepte associatie relaties)">
   <children
@@ -704,4 +704,10 @@
   <properties
       key="Toelichting"
       value="De modelleerafspraken geven weer hoe het GEMMA 2 architectuurmodel is opgebouwd. De modelleerafspraken helpen bij het beheerbaar en controleerbaar houden van het model. Een voorbeeld van een afspraak is dat de GEMMA bedrijfsfuncties en applicatiefuncties als een hierarchie zijn opgezet, het is niet toegestaan een subfunctie te hergebruiken in meerdere hoofdfuncties. Het model met modelleerafspraken is tevens de documentatie voor het AMEFF exportbestand dat kan worden gedownload op GEMMA Online of met de Softwarecatalogus"/>
+  <properties
+      key="Publiceren"
+      value="Niet"/>
+  <properties
+      key="Object ID"
+      value="a430a194-0cc8-41aa-8a62-c7ce450dd276"/>
 </archimate:ArchimateDiagramModel>
