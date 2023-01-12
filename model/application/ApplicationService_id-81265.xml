@@ -1,14 +1,11 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Applicatieservice"
+    name="Applicatie-service"
     id="id-81265"
-    documentation="Een applicatieservice ontsluit functionaliteit naar afnemers van die functionaliteit. Een voorbeeld van een applicatieservice is de 'Aanmaken zaak' service. ">
+    documentation="In een service gebundelde functionaliteit die gebruikt kan worden middels één of meerdere Applicatie-interfaces.">
   <properties
       key="Toelichting"
-      value="Bron: ArchiMate 2.1"/>
-  <properties
-      key="GEMMA type"
-      value="Geen"/>
+      value="Bron: GEMMA kennismodel"/>
   <properties
       key="Object ID"
       value="316e88db-d39c-447d-96fa-9093cf80703d"/>

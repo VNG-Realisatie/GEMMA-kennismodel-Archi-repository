@@ -1,8 +1,12 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Node"
-    id="id-295f575bc5d14c5a994a32f7d237492e">
+    id="id-295f575bc5d14c5a994a32f7d237492e"
+    documentation="A node represents a computational or physical resource that hosts, manipulates, or interacts with other computational or physical resources.">
   <properties
       key="Object ID"
       value="69321ed5-1fb3-42b6-bb5c-e1a987c2ee9c"/>
+  <properties
+      key="Toelichting"
+      value="Bron: ArchiMate"/>
 </archimate:Node>

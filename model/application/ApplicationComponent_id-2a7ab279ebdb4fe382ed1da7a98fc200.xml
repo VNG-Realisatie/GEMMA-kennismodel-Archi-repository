@@ -6,4 +6,7 @@
   <properties
       key="Object ID"
       value="413c2acd-40db-4150-944c-59933f82489f"/>
+  <properties
+      key="Toelichting"
+      value="Bron: GEMMA kennismodel"/>
 </archimate:ApplicationComponent>

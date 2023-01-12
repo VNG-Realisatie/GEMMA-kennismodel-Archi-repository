@@ -2,14 +2,11 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Standaardversie"
     id="id-80986"
-    documentation="Een door de beheerder van de standaard uitgebrachte versie. &#xD;&#xA;&#xD;&#xA;Eigenschappen van een standaarversie:&#xD;&#xA;* GEMMA type='Standaardversie'&#xD;&#xA;* Versieaanduiding - De versieaanduiding van de standaardversie&#xD;&#xA;* Status - Aanduiding of de standaardversie in gebruik is of bijvoorbeeld nog in ontwikkeling">
+    documentation="Een door de beheerder van de standaard uitgebrachte versie van de standaard">
   <properties
       key="Object ID"
       value="7650b4e2-1f91-434e-a7cb-40286aceaa59"/>
   <properties
       key="Toelichting"
       value="Bron: GEMMA 2.0"/>
-  <properties
-      key="GEMMA type"
-      value="Standaardversie"/>
 </archimate:Constraint>

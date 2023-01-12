@@ -1,8 +1,12 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Buitengemeentelijk stelsel"
-    id="id-dc831168417f4d2ebb95ff02cb30a5d1">
+    id="id-dc831168417f4d2ebb95ff02cb30a5d1"
+    documentation="Groep van landelijke- of sectorale informatievoorzieningen">
   <properties
       key="Object ID"
       value="51dc6b4a-4dfa-4f83-9eb2-fac315707f73"/>
+  <properties
+      key="Toelichting"
+      value="Bron: GEMMA kennismodel"/>
 </archimate:Grouping>

@@ -1,8 +1,12 @@
 <archimate:ApplicationEvent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Applicatie-event"
-    id="id-4f16f7a92c264761b1fb72f6c6d0fc4c">
+    id="id-4f16f7a92c264761b1fb72f6c6d0fc4c"
+    documentation="Iets dat binnen of buiten een applicatie is gebeurd en binnen die applicatie of daarbuiten gevolgen heeft.">
   <properties
       key="Object ID"
       value="02733828-1fc8-4c2f-802f-2762957a9966"/>
+  <properties
+      key="Toelichting"
+      value="Bron: GEMMA kennismodel"/>
 </archimate:ApplicationEvent>

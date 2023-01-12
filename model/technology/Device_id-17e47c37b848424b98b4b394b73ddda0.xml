@@ -1,8 +1,12 @@
 <archimate:Device
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Device"
-    id="id-17e47c37b848424b98b4b394b73ddda0">
+    id="id-17e47c37b848424b98b4b394b73ddda0"
+    documentation="A device is a physical IT resource upon which system software and artifacts may be stored or deployed for execution.">
   <properties
       key="Object ID"
       value="4c2064ad-1a89-48e3-9b4d-609fdc809f4b"/>
+  <properties
+      key="Toelichting"
+      value="Bron: ArchiMate"/>
 </archimate:Device>

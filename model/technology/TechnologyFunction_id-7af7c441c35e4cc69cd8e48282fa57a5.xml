@@ -1,8 +1,12 @@
 <archimate:TechnologyFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Infrastructuurfunctie"
-    id="id-7af7c441c35e4cc69cd8e48282fa57a5">
+    id="id-7af7c441c35e4cc69cd8e48282fa57a5"
+    documentation="A technology function represents a collection of technology behavior that can be performed by a node.">
   <properties
       key="Object ID"
       value="a6783b85-0c62-4a68-ac59-d5e5b543db73"/>
+  <properties
+      key="Toelichting"
+      value="Bron: ArchiMate"/>
 </archimate:TechnologyFunction>

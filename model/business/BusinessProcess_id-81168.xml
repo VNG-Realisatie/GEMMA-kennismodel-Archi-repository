@@ -4,9 +4,9 @@
     id="id-81168"
     documentation="Kleinst mogelijke eenheid van werk, uitgevoerd door één persoon of machine op één plek op één moment.">
   <properties
-      key="GEMMA type"
-      value="Handeling"/>
-  <properties
       key="Object ID"
       value="7b63b629-8a84-4140-874e-b7a1f10a339e"/>
+  <properties
+      key="Toelichting"
+      value="Bron: GEMMA procesarchitectuur"/>
 </archimate:BusinessProcess>

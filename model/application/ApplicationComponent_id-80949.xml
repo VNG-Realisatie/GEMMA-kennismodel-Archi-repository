@@ -2,13 +2,10 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Basis"
     id="id-80949"
-    documentation="ApplicatieComponenten van GEMMA type 'Basiscomponent' definieren de te overerven objecten voor onderliggende applicatiecomponenten. ">
+    documentation="ApplicatieComponenten van GEMMA type 'Basiscomponent' definieren de te overerven objecten voor onderliggende applicatiecomponenten.">
   <properties
       key="Toelichting"
-      value="De onderliggende component moet daarvoor een specialisatierelatie hebben met de basiscomponent. De onderliggende component mag een GEMMA type hebben, maar dit is niet noodzakelijk"/>
-  <properties
-      key="GEMMA type"
-      value="Basiscomponent"/>
+      value="Bron: GEMMA kennismodel"/>
   <properties
       key="Object ID"
       value="a4064dd5-1391-45fa-8998-ae0ed863b4bb"/>

@@ -2,11 +2,11 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Buitengemeentelijke component"
     id="id-80971"
-    documentation="De buitengemeentelijke component is een applicatiecomponent die staat voor de sectorale en landelijke voorzieningen waar gemeenten informatie ophalen, delen en of uitwisselen van gegevens met overheidsorganisaties, ketenpartners, burgers en bedrijven.&#xD;&#xA;&#xD;&#xA;Eigenschappen van een buitengemeentelijke component:&#xD;&#xA;* GEMMA type='buitengemeentelijke component'">
+    documentation="Een voor gemeenten relevante landelijke- of sectorale informatievoorziening">
   <properties
       key="Object ID"
       value="d81c2e96-3c58-43c4-9ff0-a5c2da7bc3bd"/>
   <properties
       key="Toelichting"
-      value="Bron: GEMMA 2.0"/>
+      value="Bron: GEMMA kennismodel"/>
 </archimate:ApplicationComponent>

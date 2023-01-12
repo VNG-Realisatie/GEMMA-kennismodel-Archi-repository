@@ -2,13 +2,10 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Bedrijfsproces"
     id="id-81137"
-    documentation="Een bedrijfsproces is een gedragselement dat gedrag groepeert op basis van een volgordelijkheid van activiteiten en dat tot doel heeft een gedefinieerde verzameling producten of bedrijfsservices te produceren.">
+    documentation="Reeks opeenvolgend uit te voeren activiteiten die bijdraagt aan een specifiek resultaat, zoals de levering van een product of Product of Dienst.">
   <properties
       key="Toelichting"
-      value="Bron: GEMMA procesarchitectuur 3.0"/>
-  <properties
-      key="GEMMA type"
-      value="Bedrijfsproces"/>
+      value="Bron: GEMMA kennismodel"/>
   <properties
       key="Object ID"
       value="ad7e9a1d-bd32-4cd5-a764-779324db7eaf"/>

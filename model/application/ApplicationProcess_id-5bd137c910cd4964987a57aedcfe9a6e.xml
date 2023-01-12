@@ -1,8 +1,12 @@
 <archimate:ApplicationProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Applicatieproces"
-    id="id-5bd137c910cd4964987a57aedcfe9a6e">
+    id="id-5bd137c910cd4964987a57aedcfe9a6e"
+    documentation="An application process represents a sequence of application behaviors that achieves a specific outcome.">
   <properties
       key="Object ID"
       value="d63abac1-d35f-4cd6-af07-f51b889ab710"/>
+  <properties
+      key="Toelichting"
+      value="Bron: ArchiMate"/>
 </archimate:ApplicationProcess>

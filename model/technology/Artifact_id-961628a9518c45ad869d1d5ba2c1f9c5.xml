@@ -1,8 +1,12 @@
 <archimate:Artifact
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Artifact"
-    id="id-961628a9518c45ad869d1d5ba2c1f9c5">
+    id="id-961628a9518c45ad869d1d5ba2c1f9c5"
+    documentation="An artifact represents a piece of data that is used or produced in a software development process, or by deployment and operation of an IT system.">
   <properties
       key="Object ID"
       value="22016250-e7db-44e2-830f-6ed601c285e0"/>
+  <properties
+      key="Toelichting"
+      value="Bron: ArchiMate"/>
 </archimate:Artifact>

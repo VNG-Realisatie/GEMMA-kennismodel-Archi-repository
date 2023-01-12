@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Leverancier"
     id="id-80976"
-    documentation="Aanbieders van standaard-software(pakketten) voor gemeentelijke taken. Alleen leveranciers die het convenant met VNG/KING ondertekend hebben, mogen hun gegevens in de Softwarecatalogus zetten.&#xD;&#xA;&#xD;&#xA;Eigenschappen van een leverancier &#xD;&#xA;* SWC type='Leverancier'&#xD;&#xA;* URL - Website van de leverancier">
+    documentation="Aanbieders van standaard-software(pakketten) voor gemeentelijke taken">
   <properties
       key="Toelichting"
       value="Bron: Softwarecatalogus"/>

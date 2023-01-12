@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Gemeente"
     id="id-80978"
-    documentation="Een gemeente is een groep van woonkernen (dorpen, steden) met het bijbehorende gebied die samen worden bestuurd door een politiek apparaat. De gemeente is de onderste laag uit het politieke bestuursstructuur.&#xD;&#xA;&#xD;&#xA;Eigenschappen van een gemeente &#xD;&#xA;* SWC type = 'Gemeente'&#xD;&#xA;* CBS code - Unieke gemeente code toegekend door het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties in samenwerking met het CBS.">
+    documentation="Een gemeente is een groep van woonkernen (dorpen, steden) met het bijbehorende gebied die samen worden bestuurd door een politiek apparaat. De gemeente is de onderste laag uit het politieke bestuursstructuur.&#xA;&#xA;Eigenschappen van een gemeente &#xA;* SWC type = 'Gemeente'&#xA;* CBS code - Unieke gemeente code toegekend door het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties in samenwerking met het CBS.">
   <properties
       key="Toelichting"
       value="Bron: Softwarecatalogus"/>

@@ -2,10 +2,10 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Domein"
     id="id-81091"
-    documentation="Een domein is een afgebakende groep bedrijfsfuncties die in de gemeentelijke praktijk vaak in samenhang worden ingericht en gebruikt&#xA;&#xD;&#xA;Eigenchappen van domein:&#xD;&#xA;* GEMMA type ='Groep'&#xD;&#xA;* GEMMA subtype ='Domein'">
+    documentation="Een groep bedrijfsfuncties die in de gemeentelijke praktijk vaak in samenhang worden ingericht en gebruikt">
   <properties
       key="Toelichting"
-      value="Bron: GEMMA 2"/>
+      value="Bron: GEMMA kennismodel"/>
   <properties
       key="Object ID"
       value="3e35ecc6-2515-411f-92b8-adfaa8f2a2c3"/>

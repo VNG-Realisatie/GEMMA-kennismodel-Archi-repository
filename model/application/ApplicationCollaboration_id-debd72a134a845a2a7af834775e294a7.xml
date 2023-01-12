@@ -2,8 +2,11 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Buitengemeentelijk stelsel"
     id="id-debd72a134a845a2a7af834775e294a7"
-    documentation="Indeling van de buitengemeentelijke componenten&#xD;&#xA;&#xD;&#xA;Eigenschappen van een Buitengemeentelijk stelsel&#xD;&#xA;* GEMMA type='Buitengemeentelijk'&#xD;&#xA;* GEMMA subtype='Groep'">
+    documentation="Groep van landelijke- of sectorale informatievoorzieningen">
   <properties
       key="Object ID"
       value="aa000f95-a7a7-4001-a754-414ba2e06656"/>
+  <properties
+      key="Toelichting"
+      value="Bron: GEMMA kennismodel"/>
 </archimate:ApplicationCollaboration>

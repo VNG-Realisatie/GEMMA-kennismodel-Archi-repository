@@ -2,8 +2,11 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Requirement"
     id="id-1550bdff3a5a40c5a256e21ca75311f2"
-    documentation="Beschrijving van dat wat nodig is om een doel te bereiken">
+    documentation="Een eis die geldt voor een specifiek informatiesysteem of onderdeel daarvan binnen de architectuur.">
   <properties
       key="Object ID"
       value="5c22cf25-6233-48c4-af19-a4ca71196b6a"/>
+  <properties
+      key="Toelichting"
+      value="Bron: GEMMA kennismodel"/>
 </archimate:Requirement>

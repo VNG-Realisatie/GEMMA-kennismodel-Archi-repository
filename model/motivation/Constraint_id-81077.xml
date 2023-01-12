@@ -2,13 +2,10 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Standaard"
     id="id-81077"
-    documentation="Een document dat een set van regels bevat die beschrijven hoe mensen materialen, producten, diensten, technologieën, taken, processen en systemen dienen te ontwikkelen en beheren&#xD;&#xA;&#xD;&#xA;Een standaard wordt gemodelleerd met het Archimate concept constraint, een beperking van de ontwerpruimte voor het realiseren van 'iets'&#xD;&#xA;&#xD;&#xA;Eigenschappen van een standaard&#xD;&#xA;* GEMMA type='Standaard'&#xD;&#xA;* GEMMA status - Status van de standaard op de GEMMA standaardenlijst. Alleen standaarden met status 'In gebruik' worden opgenomen in de Softwarecatalogus&#xD;&#xA;* URL - Website met meer informatie over de standaard&#xD;&#xA;* Afkorting - Afgekorte aanduiding voor de naam van de standaard&#xD;&#xA;* Beheerder - Organisatie die verantwoordelijk is voor het beheer van de standaard&#xD;&#xA;* Compliancy - Compliancy instrument waarmee kan worden aangetoond dat een pakket de standaard correct heeft implementeerd&#xD;&#xA;* Compliancy URL - Website met meer informatie over het compliancy instrument&#xD;&#xA;* Grondslag - is het gebruik van de standaard verplicht op basis van wettelijke gebruik van een voorziening of de Pas-toe-of-leg-uit lijst&#xA;">
+    documentation="Een document met erkende afspraken, specificaties of criteria over een product, een dienst of een methode.">
   <properties
       key="Toelichting"
-      value="Bron: NORA 3.0"/>
-  <properties
-      key="GEMMA type"
-      value="Standaard"/>
+      value="Wikipedia"/>
   <properties
       key="Object ID"
       value="f144971a-c7cb-43b6-a461-56e4cdea56a0"/>

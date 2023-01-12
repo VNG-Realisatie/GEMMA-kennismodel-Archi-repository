@@ -1,8 +1,12 @@
 <archimate:Contract
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Afspraak"
-    id="id-8fcf2c9a1bb243fe8ca901b5f663ca5d">
+    id="id-8fcf2c9a1bb243fe8ca901b5f663ca5d"
+    documentation="Overeenkomst tussen meerdere partijen betreffende een bepaald onderwerp.">
   <properties
       key="Object ID"
       value="1dbe4033-fd27-4008-a59d-6fd091e72658"/>
+  <properties
+      key="Toelichting"
+      value="Bron: GEMMA kennismodel"/>
 </archimate:Contract>

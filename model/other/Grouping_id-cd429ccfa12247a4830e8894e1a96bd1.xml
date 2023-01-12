@@ -2,14 +2,11 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Domein en doelgroep"
     id="id-cd429ccfa12247a4830e8894e1a96bd1"
-    documentation="De groepering van applicatieservices voor een doelgroep binnen een domein&#xD;&#xA;&#xD;&#xA;Eigenschappen:&#xD;&#xA;* GEMMA type ='Groep'&#xD;&#xA;* GEMMA subtype ='Domein en doelgroep'">
+    documentation="De groepering van applicatieservices voor een doelgroep binnen een domein">
   <properties
       key="Object ID"
       value="79fbf08f-0c1f-490d-8476-b6af584e9537"/>
   <properties
-      key="GEMMA subtype"
-      value="Domein en doelgroep"/>
-  <properties
-      key="GEMMA type"
-      value="Groep"/>
+      key="Toelichting"
+      value="Bron: GEMMA kennismodel"/>
 </archimate:Grouping>

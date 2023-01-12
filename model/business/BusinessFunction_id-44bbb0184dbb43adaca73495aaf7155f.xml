@@ -2,10 +2,10 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Bedrijfsfunctie"
     id="id-44bbb0184dbb43adaca73495aaf7155f"
-    documentation="Een bedrijfsfunctie is een gedragselement dat gedrag groepeert op basis van een bepaalde verzameling criteria (zoals vereiste bedrijfsmiddelen en/of competenties).&#xD;&#xA;&#xD;&#xA;Eigenchappen van bedrijfsfunctie&#xD;&#xA;* GEMMA type ='Bedrijfsfunctie'&#xD;&#xA;* Een bedrijfsfunctie kan meerdere sub bedrijfsfuncties hebben. Sub bedrijfsfuncties hebben geen eigenschap GEMMA type">
+    documentation="Activiteiten die zijn gegroepeerd omdat daarvoor vergelijkbare bedrijfsmiddelen, kennis of competenties nodig zijn.">
   <properties
       key="Toelichting"
-      value="Bron: ArchiMate 2.1"/>
+      value="Bron: GEMMA kennismodel"/>
   <properties
       key="Object ID"
       value="d6b1051e-b169-44ab-9f53-242b8cad0e35"/>
