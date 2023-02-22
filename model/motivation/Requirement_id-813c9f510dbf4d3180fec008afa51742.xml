@@ -1,4 +1,8 @@
 <archimate:Requirement
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Implicatie"
-    id="id-813c9f510dbf4d3180fec008afa51742"/>
+    id="id-813c9f510dbf4d3180fec008afa51742">
+  <properties
+      key="Object ID"
+      value="21c9b5a9-6d9d-47c8-9400-93063429d86d"/>
+</archimate:Requirement>
