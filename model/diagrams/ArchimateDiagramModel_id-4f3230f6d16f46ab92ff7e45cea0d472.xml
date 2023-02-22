@@ -17,9 +17,9 @@
         name="lineAlpha"
         value="0"/>
     <bounds
-        x="270"
+        x="30"
         y="70"
-        width="861"
+        width="1311"
         height="141"/>
   </children>
   <children
@@ -31,8 +31,9 @@
       fillColor="#ffffff"
       borderType="1">
     <bounds
+        x="30"
         y="230"
-        width="201"
+        width="381"
         height="691"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -64,7 +65,7 @@
             href="SpecializationRelationship_id-97783dbce73e47849bdebaf47bc641b3.xml#id-97783dbce73e47849bdebaf47bc641b3"/>
       </sourceConnections>
       <bounds
-          x="20"
+          x="200"
           y="390"
           width="141"
           height="61"/>
@@ -79,14 +80,83 @@
         lineColor="#000000"
         fillColor="#ccccff"
         textPosition="1">
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-43cd90e2623e4992aab52185206c2e85"
+          source="id-87d75d1a2e7a4b748d13afde1b018995"
+          target="id-2310d76aa6a94ba1ba5e5f9753761ee7">
+        <bendpoints
+            startY="-130"
+            endX="160"
+            endY="-7"/>
+        <archimateRelationship
+            xsi:type="archimate:RealizationRelationship"
+            href="RealizationRelationship_id-5022c3d0351646299cdcb8ff36319879.xml#id-5022c3d0351646299cdcb8ff36319879"/>
+      </sourceConnections>
+      <bounds
+          x="200"
+          y="280"
+          width="141"
+          height="61"/>
+      <archimateElement
+          xsi:type="archimate:Principle"
+          href="Principle_id-81079.xml#id-81079"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-2310d76aa6a94ba1ba5e5f9753761ee7"
+        targetConnections="id-3f58911edb1c41e09b72a81127fcf0fe id-43cd90e2623e4992aab52185206c2e85">
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-dc8bd9ce07cd42958e41a6ba20c92be3"
+          source="id-2310d76aa6a94ba1ba5e5f9753761ee7"
+          target="id-b0470ca132f341b29b83e7dd1060953a">
+        <archimateRelationship
+            xsi:type="archimate:InfluenceRelationship"
+            href="InfluenceRelationship_id-8be5f84db04a434ea049f3269b56e038.xml#id-8be5f84db04a434ea049f3269b56e038"/>
+      </sourceConnections>
+      <bounds
+          x="20"
+          y="157"
+          width="141"
+          height="61"/>
+      <archimateElement
+          xsi:type="archimate:Goal"
+          href="Goal_id-e9423a50debe404f897ccd5edbdb89ae.xml#id-e9423a50debe404f897ccd5edbdb89ae"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-0e8b0322929748a59b09f20cfd2a66d3">
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-3f58911edb1c41e09b72a81127fcf0fe"
+          source="id-0e8b0322929748a59b09f20cfd2a66d3"
+          target="id-2310d76aa6a94ba1ba5e5f9753761ee7">
+        <archimateRelationship
+            xsi:type="archimate:InfluenceRelationship"
+            href="InfluenceRelationship_id-2fe6efb62a144f608e9ec310cae29def.xml#id-2fe6efb62a144f608e9ec310cae29def"/>
+      </sourceConnections>
       <bounds
           x="20"
           y="40"
           width="141"
           height="61"/>
       <archimateElement
-          xsi:type="archimate:Principle"
-          href="Principle_id-81079.xml#id-81079"/>
+          xsi:type="archimate:Driver"
+          href="Driver_id-906e3bfc38ef49ed86ea6cc9e8d7ba9f.xml#id-906e3bfc38ef49ed86ea6cc9e8d7ba9f"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-b0470ca132f341b29b83e7dd1060953a"
+        targetConnections="id-dc8bd9ce07cd42958e41a6ba20c92be3">
+      <bounds
+          x="20"
+          y="277"
+          width="141"
+          height="61"/>
+      <archimateElement
+          xsi:type="archimate:Driver"
+          href="Driver_id-7411097eb4224fb99e0989c5f72484e5.xml#id-7411097eb4224fb99e0989c5f72484e5"/>
     </children>
   </children>
   <children
@@ -98,7 +168,7 @@
       fillColor="#ffffff"
       borderType="1">
     <bounds
-        x="220"
+        x="430"
         y="870"
         width="911"
         height="51"/>
@@ -112,7 +182,7 @@
       fillColor="#ffffff"
       borderType="1">
     <bounds
-        x="220"
+        x="430"
         y="230"
         width="911"
         height="331"/>
@@ -438,7 +508,7 @@
       fillColor="#ffffff"
       borderType="1">
     <bounds
-        x="220"
+        x="430"
         y="580"
         width="911"
         height="271"/>
@@ -636,6 +706,7 @@
       fillColor="#ffffff"
       borderType="1">
     <bounds
+        x="30"
         y="70"
         width="511"
         height="141"/>
