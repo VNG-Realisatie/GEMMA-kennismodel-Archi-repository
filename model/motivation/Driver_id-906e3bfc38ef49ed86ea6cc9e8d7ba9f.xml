@@ -5,6 +5,9 @@
     documentation="Beleidskader is gebaseerd op bestaand overheidsbeleid (Nationaal en Europees) en op de instrumenten die in het kader van dat beleid zijn ontwikkeld, zoals wetten, regelgeving, Kamerstukken en bestuursakkoorden">
   <properties
       key="Bron"
+      value="NORA"/>
+  <properties
+      key="URL"
       value="https://www.noraonline.nl/wiki/Beleidskaders"/>
   <properties
       key="Object ID"
