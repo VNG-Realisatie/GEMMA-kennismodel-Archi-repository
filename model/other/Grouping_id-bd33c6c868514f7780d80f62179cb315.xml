@@ -9,4 +9,7 @@
   <properties
       key="Object ID"
       value="25e9da3c-ac44-445b-b30a-478e5c0292b8"/>
+  <properties
+      key="Bron"
+      value="ArchiMate"/>
 </archimate:Grouping>

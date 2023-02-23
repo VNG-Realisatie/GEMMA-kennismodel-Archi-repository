@@ -5,4 +5,7 @@
   <properties
       key="Object ID"
       value="2de23769-35d4-46d2-848a-54e18d970b2a"/>
+  <properties
+      key="Bron"
+      value="GEMMA procesarchitectuur"/>
 </archimate:BusinessProcess>

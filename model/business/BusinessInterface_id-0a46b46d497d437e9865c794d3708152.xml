@@ -9,4 +9,7 @@
   <properties
       key="Toelichting"
       value="Bron: NORA"/>
+  <properties
+      key="Bron"
+      value="NORA"/>
 </archimate:BusinessInterface>

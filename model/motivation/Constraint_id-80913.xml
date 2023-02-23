@@ -5,4 +5,7 @@
   <properties
       key="Object ID"
       value="7dd4c0bb-845b-4136-803b-a9a4312f9c7a"/>
+  <properties
+      key="Bron"
+      value="GEMMA"/>
 </archimate:Constraint>

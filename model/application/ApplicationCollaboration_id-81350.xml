@@ -9,4 +9,7 @@
   <properties
       key="Object ID"
       value="f61faca1-b600-4f75-b603-676b7e0d76cc"/>
+  <properties
+      key="Bron"
+      value="ArchiMate"/>
 </archimate:ApplicationCollaboration>

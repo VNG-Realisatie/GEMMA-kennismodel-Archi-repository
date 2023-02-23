@@ -9,4 +9,7 @@
   <properties
       key="Object ID"
       value="2648fc2f-5f28-40a2-8c66-838d956be736"/>
+  <properties
+      key="Bron"
+      value="NORA"/>
 </archimate:BusinessService>

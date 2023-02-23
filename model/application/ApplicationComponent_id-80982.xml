@@ -2,11 +2,14 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Pakket"
     id="id-80982"
-    documentation="Een pakket is een door een leverancier in de softwarecatalogus geregistreerde (gemeentelijke) applicatie. Een pakket is zelfstandig inzetbaar, installeerbaar en beheerbaar;&#xA;&#xA;Eigenschappen van een pakket:&#xA;* SWC type='Pakket'&#xA;* Object ID - Unieke sleutel van een pakket; GUID gegenereerd door Softwarecatalogus&#xA;* URL - Pagina op de website van de leverancier met meer gegevens over het pakket&#xA;* Mutatiedatum pakket- Datum pakket toegevoegd of gewijzigd in productportfolio leverancier (formaat DD-MM-YY)&#xA;&#xA;In de export voor een gemeente/samenwerking wordt van een pakket tevens de volgende eigenschappen meegegeven: &#xA;* Extern pakket - 'ja/nee'; een externe pakketversie, is een door de gemeente in de softwarecatalogus geregistreerde (versie van een) applicatie">
+    documentation="Een pakket is een door een leverancier in de softwarecatalogus geregistreerde (gemeentelijke) applicatie. Een pakket is zelfstandig inzetbaar, installeerbaar en beheerbaar.">
   <properties
       key="Object ID"
       value="89be52f4-87b5-4943-bff9-f9b6b889b249"/>
   <properties
       key="Toelichting"
-      value="Bron: Softwarecatalogus"/>
+      value="Eigenschappen van een pakket:&#xA;* SWC type='Pakket'&#xA;* Object ID - Unieke sleutel van een pakket; GUID gegenereerd door Softwarecatalogus&#xA;* URL - Pagina op de website van de leverancier met meer gegevens over het pakket&#xA;* Mutatiedatum pakket- Datum pakket toegevoegd of gewijzigd in productportfolio leverancier (formaat DD-MM-YY)&#xA;&#xA;In de export voor een gemeente/samenwerking wordt van een pakket tevens de volgende eigenschappen meegegeven: &#xA;* Extern pakket - 'ja/nee'; een externe pakketversie, is een door de gemeente in de softwarecatalogus geregistreerde (versie van een) applicatie"/>
+  <properties
+      key="Bron"
+      value="Softwarecatalogus"/>
 </archimate:ApplicationComponent>

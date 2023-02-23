@@ -9,4 +9,7 @@
   <properties
       key="Toelichting"
       value="Bron: Componentencatalogus"/>
+  <properties
+      key="Bron"
+      value="Componentencatalogus"/>
 </archimate:ApplicationComponent>

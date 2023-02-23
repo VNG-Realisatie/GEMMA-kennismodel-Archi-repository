@@ -9,4 +9,7 @@
   <properties
       key="Object ID"
       value="1c2f511f-4243-46ae-8127-beea4e036134"/>
+  <properties
+      key="Bron"
+      value="GEMMA"/>
 </archimate:ApplicationComponent>

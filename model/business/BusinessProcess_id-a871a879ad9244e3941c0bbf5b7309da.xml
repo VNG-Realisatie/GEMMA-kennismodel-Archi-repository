@@ -8,4 +8,7 @@
   <properties
       key="Toelichting"
       value="Bron: GEMMA procesarchitectuur"/>
+  <properties
+      key="Bron"
+      value="GEMMA procesarchitectuur"/>
 </archimate:BusinessProcess>

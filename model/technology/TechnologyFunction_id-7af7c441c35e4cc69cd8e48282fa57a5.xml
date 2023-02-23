@@ -9,4 +9,7 @@
   <properties
       key="Toelichting"
       value="Bron: ArchiMate"/>
+  <properties
+      key="Bron"
+      value="ArchiMate"/>
 </archimate:TechnologyFunction>

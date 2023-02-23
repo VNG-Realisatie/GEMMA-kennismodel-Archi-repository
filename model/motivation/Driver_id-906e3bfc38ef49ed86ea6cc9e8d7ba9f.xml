@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Beleidskader"
     id="id-906e3bfc38ef49ed86ea6cc9e8d7ba9f"
-    documentation="Beleidskader is gebaseerd op bestaand overheidsbeleid (Nationaal en Europees) en op de instrumenten die in het kader van dat beleid zijn ontwikkeld, zoals wetten, regelgeving, Kamerstukken en bestuursakkoorden&#xD;&#xA;Bron: NORA">
+    documentation="Beleidskader is gebaseerd op bestaand overheidsbeleid (Nationaal en Europees) en op de instrumenten die in het kader van dat beleid zijn ontwikkeld, zoals wetten, regelgeving, Kamerstukken en bestuursakkoorden">
   <properties
       key="Bron"
       value="https://www.noraonline.nl/wiki/Beleidskaders"/>

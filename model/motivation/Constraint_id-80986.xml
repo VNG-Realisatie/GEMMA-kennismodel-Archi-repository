@@ -9,4 +9,7 @@
   <properties
       key="Toelichting"
       value="Bron: GEMMA 2.0"/>
+  <properties
+      key="Bron"
+      value="GEMMA"/>
 </archimate:Constraint>

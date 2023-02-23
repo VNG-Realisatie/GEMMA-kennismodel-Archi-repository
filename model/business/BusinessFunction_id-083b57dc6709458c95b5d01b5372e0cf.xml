@@ -9,4 +9,7 @@
   <properties
       key="Object ID"
       value="8c962aff-9b7c-45b8-ba92-32aae853eb34"/>
+  <properties
+      key="Bron"
+      value="GEMMA"/>
 </archimate:BusinessFunction>

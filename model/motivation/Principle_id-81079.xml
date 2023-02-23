@@ -9,4 +9,7 @@
   <properties
       key="Object ID"
       value="e757726b-bd6f-4db0-b557-6bcfe4e69e91"/>
+  <properties
+      key="Bron"
+      value="ArchiMate"/>
 </archimate:Principle>

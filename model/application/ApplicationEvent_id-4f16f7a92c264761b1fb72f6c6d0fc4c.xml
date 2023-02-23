@@ -9,4 +9,7 @@
   <properties
       key="Toelichting"
       value="Bron: GEMMA kennismodel"/>
+  <properties
+      key="Bron"
+      value="GEMMA"/>
 </archimate:ApplicationEvent>
