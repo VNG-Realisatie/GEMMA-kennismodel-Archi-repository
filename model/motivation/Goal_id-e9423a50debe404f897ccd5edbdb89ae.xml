@@ -2,8 +2,11 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Kwaliteitsdoel"
     id="id-e9423a50debe404f897ccd5edbdb89ae"
-    documentation="Gewenste kenmerken van overheidsdienstverlening vanuit het perspectief van de wensen van de samenleving, de burgers en bedrijven.&#xD;&#xA;Bron: NORA">
+    documentation="Gewenste kenmerken van overheidsdienstverlening vanuit het perspectief van de wensen van de samenleving, de burgers en bedrijven.">
   <properties
       key="Object ID"
       value="f1c0fdc0-fe49-4c2a-a67a-aed652fbf0fb"/>
+  <properties
+      key="Bron"
+      value="NORA"/>
 </archimate:Goal>

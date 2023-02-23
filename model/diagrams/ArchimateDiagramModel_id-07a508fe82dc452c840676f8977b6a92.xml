@@ -72,7 +72,7 @@
           href="InfluenceRelationship_id-8be5f84db04a434ea049f3269b56e038.xml#id-8be5f84db04a434ea049f3269b56e038"/>
     </sourceConnections>
     <bounds
-        x="300"
+        x="290"
         y="20"
         width="171"
         height="61"/>
@@ -105,4 +105,7 @@
   <properties
       key="Object ID"
       value="03fec5e4-4d09-45b2-9ab7-6b82c6214e06"/>
+  <properties
+      key="Publiceren"
+      value="GEMMA Online en redactie"/>
 </archimate:ArchimateDiagramModel>
