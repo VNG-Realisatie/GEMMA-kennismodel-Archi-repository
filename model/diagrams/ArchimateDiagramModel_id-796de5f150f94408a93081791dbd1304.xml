@@ -9,14 +9,13 @@
       id="id-cc03a857bee84263a2133f247bf37a05"
       name="Motivatie"
       font="1|Segoe UI|10.8|1|WINDOWS|1|-18|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
-      textAlignment="1"
       fillColor="#ffffff"
       borderType="1">
     <bounds
-        x="30"
-        y="20"
-        width="351"
-        height="361"/>
+        x="10"
+        y="40"
+        width="461"
+        height="231"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-9276ac2e88724764bb7a7d8a647d469e"
@@ -34,8 +33,8 @@
             href="RealizationRelationship_id-5022c3d0351646299cdcb8ff36319879.xml#id-5022c3d0351646299cdcb8ff36319879"/>
       </sourceConnections>
       <bounds
-          x="90"
-          y="280"
+          x="290"
+          y="150"
           width="141"
           height="61"/>
       <archimateElement
@@ -45,36 +44,15 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-9b6e9cbd459d4af7b4d6d1d84d5d349b"
-        targetConnections="id-5a5cd3451074428b9814edd3fc01f4f3 id-77b2499ebe884acfb9a0ab72dbf3b0bc id-f3db07c7b9c7405ebab89f7b0d0ddcec">
+        targetConnections="id-77b2499ebe884acfb9a0ab72dbf3b0bc id-f3db07c7b9c7405ebab89f7b0d0ddcec">
       <bounds
-          x="90"
-          y="160"
+          x="290"
+          y="40"
           width="141"
           height="61"/>
       <archimateElement
           xsi:type="archimate:Goal"
           href="Goal_id-e9423a50debe404f897ccd5edbdb89ae.xml#id-e9423a50debe404f897ccd5edbdb89ae"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-ed0baccb485d4620b020769e0f855654">
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-5a5cd3451074428b9814edd3fc01f4f3"
-          source="id-ed0baccb485d4620b020769e0f855654"
-          target="id-9b6e9cbd459d4af7b4d6d1d84d5d349b">
-        <archimateRelationship
-            xsi:type="archimate:InfluenceRelationship"
-            href="InfluenceRelationship_id-2fe6efb62a144f608e9ec310cae29def.xml#id-2fe6efb62a144f608e9ec310cae29def"/>
-      </sourceConnections>
-      <bounds
-          x="20"
-          y="40"
-          width="141"
-          height="61"/>
-      <archimateElement
-          xsi:type="archimate:Driver"
-          href="Driver_id-906e3bfc38ef49ed86ea6cc9e8d7ba9f.xml#id-906e3bfc38ef49ed86ea6cc9e8d7ba9f"/>
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -89,7 +67,7 @@
             href="InfluenceRelationship_id-8be5f84db04a434ea049f3269b56e038.xml#id-8be5f84db04a434ea049f3269b56e038"/>
       </sourceConnections>
       <bounds
-          x="190"
+          x="30"
           y="40"
           width="141"
           height="61"/>
