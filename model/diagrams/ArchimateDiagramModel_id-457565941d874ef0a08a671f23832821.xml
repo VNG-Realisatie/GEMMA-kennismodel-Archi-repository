@@ -29,7 +29,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-b5030ba98983475a8ca59dfc7c92eaa9"
-      targetConnections="id-b697c176bee3487c86e2e53689068ba3">
+      targetConnections="id-b697c176bee3487c86e2e53689068ba3"
+      type="1">
     <bounds
         x="310"
         y="30"
@@ -68,7 +69,8 @@
       fontColor="#808080"
       fillColor="#fefeb4"
       alpha="128"
-      textPosition="1">
+      textPosition="1"
+      type="1">
     <features
         name="lineAlpha"
         value="128"/>
@@ -188,7 +190,8 @@
       fontColor="#808080"
       fillColor="#fefeb4"
       alpha="128"
-      textPosition="1">
+      textPosition="1"
+      type="1">
     <features
         name="lineAlpha"
         value="128"/>

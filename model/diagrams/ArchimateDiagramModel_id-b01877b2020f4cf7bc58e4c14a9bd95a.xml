@@ -21,8 +21,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-3f65a13b867a4848a81b778a3ceaa33c"
         targetConnections="id-e62bb8182d7f42229d462ebc43ae9871 id-df9da840486a4494ad577b1589ce539c id-ddebc7049a41411d925d0f7f3cd3da16"
-        textPosition="1"
-        type="1">
+        textPosition="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-74ba96870d894604956ecf982e38c7d2"

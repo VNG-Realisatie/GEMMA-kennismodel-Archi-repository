@@ -24,7 +24,8 @@
         id="id-5f8c786b7d38429298b5a63404297b90"
         targetConnections="id-91b7808197924e42bf04c8e70d37b43b"
         textAlignment="1"
-        fillColor="#efefef">
+        fillColor="#efefef"
+        type="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-03d91e41dcdb472baf8761e59c25da20"
@@ -227,8 +228,7 @@
           targetConnections="id-332b5b832f8f4c00898fda362b3fd014"
           font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
           lineColor="#000000"
-          fillColor="#daeef3"
-          type="1">
+          fillColor="#daeef3">
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
             id="id-4080cbec5c494479921427c500609690"
@@ -272,8 +272,7 @@
           targetConnections="id-0d8f0f65b6cf46c4a41f67fdb1bc1038"
           font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
           lineColor="#000000"
-          fillColor="#daeef3"
-          type="1">
+          fillColor="#daeef3">
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
             id="id-f5a184cafffb4be1bd3f150fe1305f62"
@@ -385,7 +384,8 @@
           id="id-df5d8b6f46164d42915cc80a925d585b"
           targetConnections="id-c339e1471d484365b97b985fd63554ef id-e752a5d002ac4c4293d891939fb52abe id-f5435b67136d45df9400da634bc1dade"
           textAlignment="1"
-          fillColor="#efefef">
+          fillColor="#efefef"
+          type="1">
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
             id="id-992e2d94073a4fe8b3364b4cc2aaf72c"
@@ -488,7 +488,8 @@
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-0f8880b93ffc4ebfba5abf836183e8f6"
           targetConnections="id-aa62d91c86d54db695747720c8e4434e"
-          textAlignment="1">
+          textAlignment="1"
+          type="1">
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
             id="id-332b5b832f8f4c00898fda362b3fd014"
@@ -617,7 +618,8 @@
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-911d7bd3bfdb4796be0bcf458f585dba"
           textAlignment="1"
-          fillColor="#efefef">
+          fillColor="#efefef"
+          type="1">
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
             id="id-2ea87a623d4b4ea2be3c186c9a34ae67"

@@ -165,7 +165,8 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-304443ab24084b2eb49f4d3653f38787"
-        targetConnections="id-cc9cf5c66a5c418baec21db6465e5194 id-8cce26f35bc54b4ebc70236c1432d6b1">
+        targetConnections="id-cc9cf5c66a5c418baec21db6465e5194 id-8cce26f35bc54b4ebc70236c1432d6b1"
+        type="1">
       <bounds
           x="400"
           y="390"
@@ -182,7 +183,8 @@
       font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
       lineColor="#000000"
       textAlignment="1"
-      fillColor="#ffffff">
+      fillColor="#ffffff"
+      type="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-d481cb61713c403ba26fafeefb0714fc"
@@ -287,8 +289,7 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-89faa79dea4041baac49a3125b0866f7"
-      type="1">
+      id="id-89faa79dea4041baac49a3125b0866f7">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-7e29a133f19547d6a19ce79b1739abb8"
