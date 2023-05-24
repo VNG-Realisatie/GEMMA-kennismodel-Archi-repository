@@ -5,6 +5,9 @@
   <properties
       key="Object ID"
       value="2feb6e44-294f-4cfa-beca-49a899b856c2"/>
+  <properties
+      key="Bron"
+      value="Softwarecatalogus"/>
   <source
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_id-80980.xml#id-80980"/>

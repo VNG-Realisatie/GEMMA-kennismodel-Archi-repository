@@ -3,13 +3,16 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ondersteunt"
     id="id-81386"
-    documentation="Een pakketversie ondersteunt één of meerdere standaarversie. Een pakketversie is compliant, indien de leverancier d.m.v. het uploaden van een testrapport aantoont aan de standaard te voldoen.&#xA;&#xA;Eigenschappen van relatie Ondersteunt (Pakketversie - Standaardversie)&#xD;&#xA;* Compliancy testrapport (j/n)&#xD;&#xA; * Testrapport URL - URL naar testrapport in Softwarecatalogus of door leverancier beheerde website">
+    documentation="Een pakketversie ondersteunt één of meerdere standaardversies. Een pakketversie is compliant, indien de leverancier d.m.v. het uploaden van een testrapport aantoont aan de standaard te voldoen.">
   <properties
       key="Object ID"
       value="53234fc7-cd0f-4d20-afdd-28e3b2d75e9f"/>
   <properties
       key="Toelichting"
       value="Bron: Softwarecatalogus"/>
+  <properties
+      key="Bron"
+      value="Softwarecatalogus"/>
   <source
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_id-80980.xml#id-80980"/>

@@ -3,10 +3,13 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="wordt gebruikt voor"
     id="id-791d173e51d541488c232daaf43bad6a"
-    documentation="&#xA;De door de gemeente/samenwerking geregistreerde applicatie(sub)functies, waarvoor de pakketversie gebruikt wordt.">
+    documentation="De door de gemeente/samenwerking geregistreerde applicatie(sub)functies, waarvoor de pakketversie gebruikt wordt.">
   <properties
       key="Object ID"
       value="f5d628b2-93be-4858-a11b-87f5626a9f6d"/>
+  <properties
+      key="Bron"
+      value="Softwarecatalogus"/>
   <source
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_id-80982.xml#id-80982"/>

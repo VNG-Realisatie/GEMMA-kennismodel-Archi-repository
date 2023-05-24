@@ -7,6 +7,9 @@
   <properties
       key="Object ID"
       value="54422186-2b85-469b-ae4f-7b04dc0dbfb4"/>
+  <properties
+      key="Bron"
+      value="Softwarecatalogus"/>
   <source
       xsi:type="archimate:BusinessActor"
       href="BusinessActor_id-80976.xml#id-80976"/>

@@ -9,6 +9,9 @@
   <properties
       key="Object ID"
       value="64c4598b-b225-4265-b19b-750517042619"/>
+  <properties
+      key="Bron"
+      value="Softwarecatalogus"/>
   <source
       xsi:type="archimate:BusinessCollaboration"
       href="BusinessCollaboration_id-80979.xml#id-80979"/>
