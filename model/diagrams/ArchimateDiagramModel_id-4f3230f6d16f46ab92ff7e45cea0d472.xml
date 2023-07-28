@@ -20,7 +20,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-3c4f33527e954ed783abdbc8f4b6af60"
-        targetConnections="id-a64b6a94946b43f293b6284043a4ba29 id-dedac84cb951485ca8806cde203a6194 id-2978d86ae3524700922f67912101bddb"
+        targetConnections="id-a64b6a94946b43f293b6284043a4ba29 id-2978d86ae3524700922f67912101bddb id-dedac84cb951485ca8806cde203a6194"
         textPosition="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
@@ -585,15 +585,6 @@
       </sourceConnections>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-dedac84cb951485ca8806cde203a6194"
-          source="id-c76af8e5e1ab4c449889b880a30d6e00"
-          target="id-3c4f33527e954ed783abdbc8f4b6af60">
-        <archimateRelationship
-            xsi:type="archimate:RealizationRelationship"
-            href="RealizationRelationship_id-b63a9fa1983c4a099f3570226e40e090.xml#id-b63a9fa1983c4a099f3570226e40e090"/>
-      </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-1724b45d7ede4d13a04cbf1b337dc4fe"
           source="id-c76af8e5e1ab4c449889b880a30d6e00"
           target="id-81ba276b7f404e95a839a4c924c43903">
@@ -605,6 +596,15 @@
         <archimateRelationship
             xsi:type="archimate:ServingRelationship"
             href="ServingRelationship_id-81343.xml#id-81343"/>
+      </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-dedac84cb951485ca8806cde203a6194"
+          source="id-c76af8e5e1ab4c449889b880a30d6e00"
+          target="id-3c4f33527e954ed783abdbc8f4b6af60">
+        <archimateRelationship
+            xsi:type="archimate:RealizationRelationship"
+            href="RealizationRelationship_id-404eef7a1cc74936b59a506d83e40609.xml#id-404eef7a1cc74936b59a506d83e40609"/>
       </sourceConnections>
       <bounds
           x="120"

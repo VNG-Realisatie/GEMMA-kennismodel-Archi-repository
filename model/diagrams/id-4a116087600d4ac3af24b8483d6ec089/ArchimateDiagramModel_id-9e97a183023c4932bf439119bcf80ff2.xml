@@ -81,7 +81,7 @@
     <bounds
         x="150"
         y="500"
-        width="400"
+        width="461"
         height="140"/>
     <children
         xsi:type="archimate:DiagramModelReference"

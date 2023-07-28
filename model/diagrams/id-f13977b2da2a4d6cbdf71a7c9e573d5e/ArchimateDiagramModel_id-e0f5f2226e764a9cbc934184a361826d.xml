@@ -14,9 +14,9 @@
       borderType="1">
     <bounds
         x="70"
-        y="300"
+        y="340"
         width="271"
-        height="211"/>
+        height="171"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-ca8ccebe573f44b49fbb01004e8fe153"
@@ -41,7 +41,7 @@
       </sourceConnections>
       <bounds
           x="30"
-          y="50"
+          y="40"
           width="211"
           height="91"/>
       <children
@@ -325,9 +325,9 @@
       borderType="1">
     <bounds
         x="70"
-        y="20"
+        y="30"
         width="271"
-        height="191"/>
+        height="221"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-a8ace05763254eab8956d630f55cc934"
@@ -337,23 +337,25 @@
         fillColor="#daeef3">
       <bounds
           x="30"
-          y="80"
+          y="130"
           width="211"
           height="61"/>
-      <children
-          xsi:type="archimate:DiagramModelReference"
-          id="id-20f66e3bd91440678642f89382f175f4"
-          fillColor="#fef3b6">
-        <bounds
-            width="31"
-            height="21"/>
-        <referencedModel
-            xsi:type="archimate:ArchimateDiagramModel"
-            href="ArchimateDiagramModel_81b8386e-3023-41a4-9091-f9fb2e122a2c.xml#81b8386e-3023-41a4-9091-f9fb2e122a2c"/>
-      </children>
       <archimateElement
           xsi:type="archimate:ApplicationComponent"
           href="ApplicationComponent_id-243e822c7020403fa367d6e1b9df7fb5.xml#id-243e822c7020403fa367d6e1b9df7fb5"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="id-20f66e3bd91440678642f89382f175f4"
+        fillColor="#fef3b6">
+      <bounds
+          x="30"
+          y="40"
+          width="211"
+          height="61"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_81b8386e-3023-41a4-9091-f9fb2e122a2c.xml#81b8386e-3023-41a4-9091-f9fb2e122a2c"/>
     </children>
   </children>
   <properties

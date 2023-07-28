@@ -1,6 +1,6 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Gegevensobject"
+    name="Data-object"
     id="id-81269"
     documentation="Samenhangende set gegevens die geautomatiseerd kan worden verwerkt.">
   <properties
