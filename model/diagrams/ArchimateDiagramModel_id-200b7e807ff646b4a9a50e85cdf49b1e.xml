@@ -48,7 +48,8 @@
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-17d9510ad4b74cdf88be0f84a901a31c"
           font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
-          lineColor="#000000"
+          fontColor="#808080"
+          lineColor="#c0c0c0"
           source="id-716556f329a24fb0b4caa84eb35495b4"
           target="id-716556f329a24fb0b4caa84eb35495b4">
         <features
@@ -316,6 +317,8 @@
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-a93d59d33372466fbe9721975d6c2dd5"
+          fontColor="#808080"
+          lineColor="#c0c0c0"
           source="id-b5233d88fed841c784d5082c4100cb49"
           target="id-716556f329a24fb0b4caa84eb35495b4">
         <bendpoints
@@ -528,6 +531,8 @@
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-4c004d4a89c2450f9fdf94f9fa1c8391"
+          fontColor="#808080"
+          lineColor="#c0c0c0"
           source="id-1b082a6f1ccf48afbcbbd12ada3b836d"
           target="id-716556f329a24fb0b4caa84eb35495b4">
         <bendpoints
@@ -558,9 +563,9 @@
       borderType="1">
     <bounds
         x="30"
-        y="230"
+        y="360"
         width="351"
-        height="1241"/>
+        height="1111"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-59119d35108f4d47bc02f5c831da907b"
@@ -592,7 +597,7 @@
       </sourceConnections>
       <bounds
           x="90"
-          y="500"
+          y="520"
           width="141"
           height="61"/>
       <archimateElement
@@ -607,7 +612,7 @@
         textPosition="1">
       <bounds
           x="90"
-          y="780"
+          y="650"
           width="141"
           height="61"/>
       <archimateElement
@@ -633,7 +638,7 @@
       </sourceConnections>
       <bounds
           x="90"
-          y="280"
+          y="310"
           width="141"
           height="61"/>
       <archimateElement
@@ -647,7 +652,7 @@
         textPosition="1">
       <bounds
           x="90"
-          y="170"
+          y="200"
           width="141"
           height="61"/>
       <archimateElement
@@ -680,7 +685,7 @@
       </sourceConnections>
       <bounds
           x="20"
-          y="50"
+          y="80"
           width="141"
           height="61"/>
       <archimateElement
@@ -702,7 +707,7 @@
       </sourceConnections>
       <bounds
           x="190"
-          y="50"
+          y="80"
           width="141"
           height="61"/>
       <archimateElement
@@ -735,7 +740,7 @@
       </sourceConnections>
       <bounds
           x="90"
-          y="380"
+          y="410"
           width="141"
           height="61"/>
       <archimateElement
@@ -1681,6 +1686,32 @@
       <archimateElement
           xsi:type="archimate:Grouping"
           href="Grouping_id-bd33c6c868514f7780d80f62179cb315.xml#id-bd33c6c868514f7780d80f62179cb315"/>
+    </children>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-a13f25afed404e36867ab5d9e3688d04"
+      name="Strategie"
+      font="1|Segoe UI|10.8|1|WINDOWS|1|-18|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      textAlignment="1"
+      fillColor="#ffffff"
+      borderType="1">
+    <bounds
+        x="30"
+        y="230"
+        width="351"
+        height="111"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-4735330d7d344eb8bcbbe2ab5f7015a3">
+      <bounds
+          x="100"
+          y="40"
+          width="141"
+          height="61"/>
+      <archimateElement
+          xsi:type="archimate:Capability"
+          href="Capability_id-110929539adf4eda91f50d11bf5ad833.xml#id-110929539adf4eda91f50d11bf5ad833"/>
     </children>
   </children>
   <properties
